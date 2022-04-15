@@ -1,0 +1,4123 @@
+[
+  {
+    "folder": "layers-imagery-afrenderer",
+    "title": "FlowRenderer with visual variables",
+    "matches": false,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.3125,
+    "percentage": 0.9555223765048082,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagery-afrenderer.png"
+      }
+    }
+  },
+  {
+    "folder": "basemaps-portal",
+    "title": "Basemaps with different projections",
+    "matches": false,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.328125,
+    "percentage": 0.8518201474255822,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/basemaps-portal.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-integratedmeshlayer",
+    "title": "IntegratedMeshLayer",
+    "matches": false,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.21875,
+    "percentage": 0.8339941494273849,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-integratedmeshlayer.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-daylight",
+    "title": "Daylight widget",
+    "matches": false,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.40625,
+    "percentage": 0.8090844240946267,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-daylight.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-frameworks-vue",
+    "title": "Custom widgets with Vue",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.0625,
+    "percentage": 0.7756476827197973,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-frameworks-vue.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-csv",
+    "title": "Intro to CSVLayer",
+    "matches": false,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.46875,
+    "percentage": 0.7676272001858027,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-csv.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-imagery-clientside",
+    "title": "ImageryLayer - client side chart",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.109375,
+    "percentage": 0.7281408118913718,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagery-clientside.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-integratedmeshlayer-modification",
+    "title": "IntegratedMeshLayer modification",
+    "matches": false,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.3125,
+    "percentage": 0.6904173371599839,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-integratedmeshlayer-modification.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-layerlist",
+    "title": "LayerList widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.078125,
+    "percentage": 0.6821314222200103,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-layerlist.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-sm-sublayer",
+    "title": "MapImageLayer - Explore data from a dynamic workspace",
+    "matches": false,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.28125,
+    "percentage": 0.5590537334726854,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-sublayer.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-dictionary",
+    "title": "Visualize data with dictionary renderer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.5251502734506766,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-dictionary.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-editor-basic",
+    "title": "Edit features with the Editor widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.078125,
+    "percentage": 0.40244197813500554,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-editor-basic.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-ogcfeaturelayer",
+    "title": "OGCFeatureLayer",
+    "matches": false,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.1875,
+    "percentage": 0.38069311037011233,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-ogcfeaturelayer.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-feature-sidepanel",
+    "title": "Feature widget in a side panel",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.046875,
+    "percentage": 0.31249246559055943,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-feature-sidepanel.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-imagery-afrenderer-blending",
+    "title": "FlowRenderer with effects and blending",
+    "matches": false,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.15625,
+    "percentage": 0.2403999181583415,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagery-afrenderer-blending.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-track",
+    "title": "Track widget simulation",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.03125,
+    "percentage": 0.2255467631071075,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-track.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-sm-color-ramps",
+    "title": "Esri Color Ramps",
+    "matches": false,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.21875,
+    "percentage": 0.2208972721290444,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-color-ramps.png"
+      }
+    }
+  },
+  {
+    "folder": "editing-applyedits",
+    "title": "Update FeatureLayer using applyEdits()",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.140625,
+    "percentage": 0.20814324502175993,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/editing-applyedits.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-vv-opacity-animate",
+    "title": "Animate layer view effect",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.20693442160619785,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-vv-opacity-animate.png"
+      }
+    }
+  },
+  {
+    "folder": "featurelayerview-query",
+    "title": "Query features from a FeatureLayerView",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.03125,
+    "percentage": 0.1689809054562949,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurelayerview-query.png"
+      }
+    }
+  },
+  {
+    "folder": "elevation-query-points",
+    "title": "Query Elevation (points)",
+    "matches": false,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.28125,
+    "percentage": 0.16793355342103664,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/elevation-query-points.png"
+      }
+    }
+  },
+  {
+    "folder": "scene-weather",
+    "title": "Weather visualization",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.125,
+    "percentage": 0.15965980413300376,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/scene-weather.png"
+      }
+    }
+  },
+  {
+    "folder": "intro-popuptemplate",
+    "title": "Intro to PopupTemplate",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.03125,
+    "percentage": 0.14759700724962257,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/intro-popuptemplate.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-editor-3d",
+    "title": "Edit features in 3D with the Editor widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.171875,
+    "percentage": 0.12698175705193074,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-editor-3d.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-trees-realistic",
+    "title": "Thematic visualization with realistic 3D symbols",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.09964221923610765,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-trees-realistic.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-editor-configurable",
+    "title": "Editor widget with configurations",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.09731968568379258,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-editor-configurable.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-heatmap",
+    "title": "Visualize points with a heatmap",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.0625,
+    "percentage": 0.09613076969867893,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-heatmap.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-pointcloud-filters",
+    "title": "Filter points in a PointCloudLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.03125,
+    "percentage": 0.09543953947477563,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-pointcloud-filters.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-histogramrangeslider",
+    "title": "HistogramRangeSlider",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.09347312773381554,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-histogramrangeslider.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-sm-dotdensity",
+    "title": "Generate a dot density visualization",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.08337563662303621,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-dotdensity.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-scenelayer-texture",
+    "title": "Realistic buildings with SceneLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.078125,
+    "percentage": 0.07973700072440927,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-scenelayer-texture.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-multivariate-2d",
+    "title": "Thematic multivariate visualization (2D)",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.061220878470666956,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-multivariate-2d.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-editor-3d-scenelayer",
+    "title": "SceneLayer attribute editing",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.0625,
+    "percentage": 0.058569872315953043,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-editor-3d-scenelayer.png"
+      }
+    }
+  },
+  {
+    "folder": "sceneview-background",
+    "title": "Custom background for SceneView",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.05270492211217837,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/sceneview-background.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-label-callout",
+    "title": "Using callout lines with labels",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.05234437642739041,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-label-callout.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-sm-types",
+    "title": "Generate data-driven visualization of unique values",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.078125,
+    "percentage": 0.05230124366141885,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-types.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-point-styles",
+    "title": "Point styles for cities",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.048529891559802474,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-point-styles.png"
+      }
+    }
+  },
+  {
+    "folder": "custom-lv-deckgl",
+    "title": "Build a custom layer view using deck.gl",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.046875,
+    "percentage": 0.04738300237230213,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/custom-lv-deckgl.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-legend-update",
+    "title": "Update legend text",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.046875,
+    "percentage": 0.043342899959632156,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-legend-update.png"
+      }
+    }
+  },
+  {
+    "folder": "satellites-3d",
+    "title": "Satellites in 3D view",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.078125,
+    "percentage": 0.043170368895745895,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/satellites-3d.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-geojson",
+    "title": "GeoJSONLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.04268153088140148,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-geojson.png"
+      }
+    }
+  },
+  {
+    "folder": "time-layer",
+    "title": "Time-based layer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.042330938911837736,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/time-layer.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-imagery-vfrenderer",
+    "title": "Visualizing wind data with VectorFieldRenderer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.0625,
+    "percentage": 0.04223693160138688,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagery-vfrenderer.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-custom-tilelayer",
+    "title": "Custom TileLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.09375,
+    "percentage": 0.040349043613862205,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-custom-tilelayer.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-custom-elevation-exaggerated",
+    "title": "Custom ElevationLayer - Exaggerating elevation",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.0625,
+    "percentage": 0.0392519230024829,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-custom-elevation-exaggerated.png"
+      }
+    }
+  },
+  {
+    "folder": "featurereduction-cluster",
+    "title": "Point clustering - basic configuration",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.03833065136006459,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurereduction-cluster.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-featurelayer-labeling-3d",
+    "title": "Label features using Arcade expressions",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.03695482672240747,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-featurelayer-labeling-3d.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-pointcloud",
+    "title": "PointCloudLayer - toggle renderers",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.036056780415512316,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-pointcloud.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-dot-density",
+    "title": "Dot density",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.03449404712531175,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-dot-density.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-webstylesymbol",
+    "title": "Visualize features with realistic WebStyleSymbols",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.033918943579024204,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-webstylesymbol.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-featuretable",
+    "title": "FeatureTable widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.030969325967584067,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-featuretable.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-imagery-popup",
+    "title": "ImageryLayer - server side raster function",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.078125,
+    "percentage": 0.02971736978605042,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagery-popup.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-vv-rotation",
+    "title": "Visualize data with rotation",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0295116596714168,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-vv-rotation.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-line-patterns",
+    "title": "3D hiking map with line patterns",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.03125,
+    "percentage": 0.029068166359760447,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-line-patterns.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-multivariate-3d",
+    "title": "Thematic multivariate visualization (3D)",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.026858441579986396,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-multivariate-3d.png"
+      }
+    }
+  },
+  {
+    "folder": "basemap-custom",
+    "title": "Custom Basemap",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.026811990908940094,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/basemap-custom.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-sm-predominance",
+    "title": "Generate a predominance visualization",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.046875,
+    "percentage": 0.026797613320282906,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-predominance.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-sm-location-scale",
+    "title": "Vary point sizes by scale",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.026562042059976664,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-location-scale.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-featurelayer",
+    "title": "Intro to FeatureLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.026333106609819894,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-featurelayer.png"
+      }
+    }
+  },
+  {
+    "folder": "featurelayerview-query-distance",
+    "title": "Query statistics client-side by distance",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.02533994702411564,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurelayerview-query-distance.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-timeslider",
+    "title": "TimeSlider widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.109375,
+    "percentage": 0.024384390362591726,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-timeslider.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-pointcloud-portal",
+    "title": "Intro to PointCloudLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.02179531843593955,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-pointcloud-portal.png"
+      }
+    }
+  },
+  {
+    "folder": "featurelayer-query-pagination",
+    "title": "Query features with pagination",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.021679191758323793,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurelayer-query-pagination.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-measurement-3d",
+    "title": "Measurement in 3D",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.02122132085801025,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-measurement-3d.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-hosted-imagerytilelayer",
+    "title": "Hosted ImageryTileLayer with VectorFieldRenderer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.020905013907552106,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-hosted-imagerytilelayer.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-wms",
+    "title": "WMSLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.03125,
+    "percentage": 0.020729164938591105,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-wms.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-legend",
+    "title": "Legend widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.0625,
+    "percentage": 0.01898394686928007,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-legend.png"
+      }
+    }
+  },
+  {
+    "folder": "featurereduction-cluster-filter-slider",
+    "title": "Point clustering - advanced configuration",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.03125,
+    "percentage": 0.018893257463903957,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurereduction-cluster-filter-slider.png"
+      }
+    }
+  },
+  {
+    "folder": "views-switch-2d-3d",
+    "title": "Switch view from 2D to 3D",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.017694387763566084,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/views-switch-2d-3d.png"
+      }
+    }
+  },
+  {
+    "folder": "geometry-mesh-elevation",
+    "title": "Low poly terrain using mesh geometry",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.016408146562926836,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/geometry-mesh-elevation.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-polygon-patterns",
+    "title": "Urban visualizations with polygon patterns",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.015054441292434623,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-polygon-patterns.png"
+      }
+    }
+  },
+  {
+    "folder": "highlight-point-features",
+    "title": "Highlight point features",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.014969281728849738,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/highlight-point-features.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-pointcloud-size-density",
+    "title": "PointCloudLayer - change point size and density",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.014719332879886306,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-pointcloud-size-density.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-featuretable-map",
+    "title": "FeatureTable widget with a map",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.014109944314493162,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-featuretable-map.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-dynamicmaplayer",
+    "title": "MapImageLayer - create dynamic map layers",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.014011513130609334,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-dynamicmaplayer.png"
+      }
+    }
+  },
+  {
+    "folder": "featurereduction-cluster-visualvariables",
+    "title": "Point clustering with visual variables",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.013571337724027716,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurereduction-cluster-visualvariables.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-classbreaks",
+    "title": "Visualize data with class breaks",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.03125,
+    "percentage": 0.013464058793277923,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-classbreaks.png"
+      }
+    }
+  },
+  {
+    "folder": "view-breakpoints-css",
+    "title": "Responsive apps using CSS",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.013082499709683306,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/view-breakpoints-css.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-scenelayer-filter-query",
+    "title": "SceneLayer filter and query",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.03125,
+    "percentage": 0.012507396163395764,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-scenelayer-filter-query.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-sm-size",
+    "title": "Generate data-driven continuous size visualization",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.012208784706669543,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-size.png"
+      }
+    }
+  },
+  {
+    "folder": "custom-gl-animated-lines",
+    "title": "Animated lines with WebGL",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.012177817592638675,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/custom-gl-animated-lines.png"
+      }
+    }
+  },
+  {
+    "folder": "webstylesymbol-2d",
+    "title": "WebStyleSymbol (2D)",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.011235532551413704,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/webstylesymbol-2d.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-sm-relationship",
+    "title": "Generate a relationship visualization",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.01121562512096529,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-relationship.png"
+      }
+    }
+  },
+  {
+    "folder": "blendmode-darkening",
+    "title": "Multiply blendMode",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.010857291372893822,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/blendmode-darkening.png"
+      }
+    }
+  },
+  {
+    "folder": "highlight-scenelayer",
+    "title": "Highlight SceneLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.010723469201546144,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/highlight-scenelayer.png"
+      }
+    }
+  },
+  {
+    "folder": "featurelayer-query",
+    "title": "Query top features from a FeatureLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.010404950314371506,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurelayer-query.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-arcade",
+    "title": "Create a custom visualization using Arcade",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.010365135453474675,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-arcade.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-dynamicdatalayer-table-join",
+    "title": "MapImageLayer - dynamic data layer with table join",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.010323108655861356,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-dynamicdatalayer-table-join.png"
+      }
+    }
+  },
+  {
+    "folder": "popup-editaction",
+    "title": "Popup with edit action",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.01025675055436664,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popup-editaction.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-geojson-refresh",
+    "title": "GeoJSONLayer with dynamic URL",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.010058782218240737,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-geojson-refresh.png"
+      }
+    }
+  },
+  {
+    "folder": "sketch-snapping-magnifier",
+    "title": "Snapping with Sketch widget and Magnifier",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.009813257242710286,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/sketch-snapping-magnifier.png"
+      }
+    }
+  },
+  {
+    "folder": "mars",
+    "title": "Visualize data on Mars",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.009613076969867893,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/mars.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-featuretable-editing",
+    "title": "FeatureTable widget with editing enabled",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.008918528840889861,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-featuretable-editing.png"
+      }
+    }
+  },
+  {
+    "folder": "webscene-basic",
+    "title": "Load a basic web scene",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.008786918606258675,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/webscene-basic.png"
+      }
+    }
+  },
+  {
+    "folder": "sketch-viewmodel-styler",
+    "title": "SketchViewModel Styler",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00876479923909377,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/sketch-viewmodel-styler.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-line-of-sight",
+    "title": "Line of sight widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.008752633587153072,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-line-of-sight.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-layerlist-legend",
+    "title": "Add a Legend to LayerList",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.008695123232524318,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-layerlist-legend.png"
+      }
+    }
+  },
+  {
+    "folder": "featureeffect-multiple-effects",
+    "title": "Highlight areas intersecting borough boundaries",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.008527016042071036,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featureeffect-multiple-effects.png"
+      }
+    }
+  },
+  {
+    "folder": "labels-multiple-classes",
+    "title": "Add multiple label classes to a layer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00850047280147315,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/labels-multiple-classes.png"
+      }
+    }
+  },
+  {
+    "folder": "cim-primitive-overrides",
+    "title": "Wurman dots",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.008441856478486151,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/cim-primitive-overrides.png"
+      }
+    }
+  },
+  {
+    "folder": "view-disable-navigation",
+    "title": "Disable all view navigation",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.008207391186538153,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/view-disable-navigation.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-vv-extrusion",
+    "title": "Data-driven extrusion",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.007682056216371649,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-vv-extrusion.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-path-3d",
+    "title": "Path visualization in 3D",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.007549340013382217,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-path-3d.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-buildings-3d",
+    "title": "Extrude building footprints based on real world heights",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.007257364366805466,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-buildings-3d.png"
+      }
+    }
+  },
+  {
+    "folder": "scene-external-renderer",
+    "title": "Extend the SceneView WebGL engine",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.007177734645011806,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/scene-external-renderer.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-legend-card",
+    "title": "Legend widget card style",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0067530427954456225,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-legend-card.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-sm-multivariate",
+    "title": "Multivariate data exploration",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0066324922443968875,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-multivariate.png"
+      }
+    }
+  },
+  {
+    "folder": "featurereduction-cluster-filter",
+    "title": "Point clustering - generate suggested configuration",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.006570558016335153,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurereduction-cluster-filter.png"
+      }
+    }
+  },
+  {
+    "folder": "geoprocessing-viewshed",
+    "title": "Geoprocessing - viewshed analysis",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.006548438649170247,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/geoprocessing-viewshed.png"
+      }
+    }
+  },
+  {
+    "folder": "watch-for-changes",
+    "title": "Watch for changes",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.006197846679606497,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/watch-for-changes.png"
+      }
+    }
+  },
+  {
+    "folder": "symbols-points-3d",
+    "title": "Flat vs. volumetric 3D symbol layers",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.006138124388261252,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/symbols-points-3d.png"
+      }
+    }
+  },
+  {
+    "folder": "sketch-update-validation",
+    "title": "Sketch update validation",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0055320537279428435,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/sketch-update-validation.png"
+      }
+    }
+  },
+  {
+    "folder": "cim-lines-and-polygons",
+    "title": "CIMSymbol lines and polygons",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.005484497088538297,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/cim-lines-and-polygons.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-pointcloud-color-modulation",
+    "title": "PointCloudLayer - intensity color modulation",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0053241316765927325,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-pointcloud-color-modulation.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-feature-sort-order",
+    "title": "Configure feature sort order",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.005272151163755205,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-feature-sort-order.png"
+      }
+    }
+  },
+  {
+    "folder": "featureeffect-geometry",
+    "title": "Apply effects to features",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.005240078081366092,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featureeffect-geometry.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-realistic-water",
+    "title": "Realistic water visualization in 3D",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.005237866144649601,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-realistic-water.png"
+      }
+    }
+  },
+  {
+    "folder": "overview-map",
+    "title": "Overview map",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.005153812549422961,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/overview-map.png"
+      }
+    }
+  },
+  {
+    "folder": "popuptemplate-arcade",
+    "title": "Reference Arcade expressions in PopupTemplate",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.005086348479569999,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popuptemplate-arcade.png"
+      }
+    }
+  },
+  {
+    "folder": "editing-featureform-fieldvisibility",
+    "title": "Advanced Attribute Editing",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00502552021986651,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/editing-featureform-fieldvisibility.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-swipe-scroll",
+    "title": "Swipe Widget with Scroll",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.005015566504642302,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-swipe-scroll.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-kml",
+    "title": "KMLLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.004866260776279191,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-kml.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-vv-opacity",
+    "title": "Data-driven opacity",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.004734650541648003,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-vv-opacity.png"
+      }
+    }
+  },
+  {
+    "folder": "webstylesymbol-proportional-2d",
+    "title": "Proportionally-sized WebStyleSymbols (2D)",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00457649706641893,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/webstylesymbol-proportional-2d.png"
+      }
+    }
+  },
+  {
+    "folder": "webscene-slides",
+    "title": "Web scene - slides",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.004568755287911213,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/webscene-slides.png"
+      }
+    }
+  },
+  {
+    "folder": "featurelayer-query-basic",
+    "title": "Basic Querying in FeatureLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.004522304616864911,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurelayer-query-basic.png"
+      }
+    }
+  },
+  {
+    "folder": "scene-toggle-elevation",
+    "title": "Toggle ground elevation",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.004342031774470932,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/scene-toggle-elevation.png"
+      }
+    }
+  },
+  {
+    "folder": "scene-easy-navigate",
+    "title": "Update the camera in a 3D view",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.004273461736259726,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/scene-easy-navigate.png"
+      }
+    }
+  },
+  {
+    "folder": "webscene-save",
+    "title": "Save a web scene",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.004194937982824312,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/webscene-save.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-imagerytilelayer",
+    "title": "Intro to ImageryTileLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00419051410939133,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagerytilelayer.png"
+      }
+    }
+  },
+  {
+    "folder": "popuptemplate-arcade-groupby",
+    "title": "Summarize intersecting points in a popup",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.004060009843118388,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popuptemplate-arcade-groupby.png"
+      }
+    }
+  },
+  {
+    "folder": "geoprocessing-hotspot",
+    "title": "Geoprocessing - hotspot analysis",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.004058903874760143,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/geoprocessing-hotspot.png"
+      }
+    }
+  },
+  {
+    "folder": "event-explorer",
+    "title": "Event explorer / watch properties",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0040456322544612,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/event-explorer.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-histogram",
+    "title": "Histogram widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0038742071589331828,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-histogram.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-timeslider-offset",
+    "title": "TimeSlider with timeOffset and actions",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0037337491774360335,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-timeslider-offset.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-search-customsource",
+    "title": "Search widget with custom source",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.003487118233547338,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-search-customsource.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-directions",
+    "title": "Directions widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0034826943601143573,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-directions.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-print",
+    "title": "Print widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.003293573770854416,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-print.png"
+      }
+    }
+  },
+  {
+    "folder": "popuptemplate-arcade-expression-content",
+    "title": "Create popup charts from Arcade expressions",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0032227917959267187,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popuptemplate-arcade-expression-content.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-wcslayer",
+    "title": "Intro to WCSLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.0031575396627902476,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-wcslayer.png"
+      }
+    }
+  },
+  {
+    "folder": "custom-gl-visuals",
+    "title": "Custom WebGL layer view",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0031166188335351726,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/custom-gl-visuals.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-bookmarks",
+    "title": "Bookmarks widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0030745920359218524,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-bookmarks.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-measurement",
+    "title": "Measurement widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0030336712066667774,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-measurement.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-vv-color",
+    "title": "Data-driven continuous color",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.003003810060994155,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-vv-color.png"
+      }
+    }
+  },
+  {
+    "folder": "popup-custom-action",
+    "title": "Custom popup actions per feature attribute",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0029451937380071554,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popup-custom-action.png"
+      }
+    }
+  },
+  {
+    "folder": "sceneview-memory",
+    "title": "SceneView memory resources",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.002905378877110326,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/sceneview-memory.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-featurelayer-collection-edits",
+    "title": "Add or remove graphics from a FeatureLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.002774874610837384,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-featurelayer-collection-edits.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-trees-2d",
+    "title": "Scale feature sizes based on real world sizes (2D)",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0026576419648633855,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-trees-2d.png"
+      }
+    }
+  },
+  {
+    "folder": "route",
+    "title": "Route",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0026410524394897064,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/route.png"
+      }
+    }
+  },
+  {
+    "folder": "popup-actions",
+    "title": "Popup actions",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.002547045129038858,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popup-actions.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-coordinateconversion",
+    "title": "CoordinateConversion widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.002533773508739915,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-coordinateconversion.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-scenelayer-edges",
+    "title": "Add edges to a SceneLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.002509442204858519,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-scenelayer-edges.png"
+      }
+    }
+  },
+  {
+    "folder": "intro-effect-layer",
+    "title": "Intro to layer effect",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.002256175450820352,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/intro-effect-layer.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-vv-color-animate",
+    "title": "Animate color visual variable",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.002244009798879654,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-vv-color-animate.png"
+      }
+    }
+  },
+  {
+    "folder": "view-breakpoints",
+    "title": "Responsive widgets",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.0021356248997716175,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/view-breakpoints.png"
+      }
+    }
+  },
+  {
+    "folder": "featurelayerview-query-geometry",
+    "title": "FeatureLayerView - query statistics by geometry",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0020947040705165424,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurelayerview-query-geometry.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-scenelayer",
+    "title": "Intro to SceneLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0018580268418520547,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-scenelayer.png"
+      }
+    }
+  },
+  {
+    "folder": "scene-shadow",
+    "title": "SceneView - shadow and lighting settings",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0017607016263264709,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/scene-shadow.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-update-data",
+    "title": "Update a renderer's attribute",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.001757383721251735,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-update-data.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-hosted-imagerytilelayer-landcover",
+    "title": "Hosted Land Cover ImageryTileLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.001728628543937358,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-hosted-imagerytilelayer-landcover.png"
+      }
+    }
+  },
+  {
+    "folder": "labels-basic",
+    "title": "Add labels to a FeatureLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0017197807970713958,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/labels-basic.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-voxel",
+    "title": "Intro to Voxel Layer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0016246675182623024,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-voxel.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-scenelayerview-query",
+    "title": "Query client-side 3D extents",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0015848526573654727,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-scenelayerview-query.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-measurement-2d",
+    "title": "Measurement in 2D",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0015782168472160013,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-measurement-2d.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-sm-color-mesh",
+    "title": "Generate continuous color visualization for 3D buildings",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0014366528973606065,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-color-mesh.png"
+      }
+    }
+  },
+  {
+    "folder": "popup-docking-position",
+    "title": "Popup dock positions",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.001422275308703418,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popup-docking-position.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-sm-classbreaks",
+    "title": "Generate a class breaks visualization",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0013426455869097586,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-classbreaks.png"
+      }
+    }
+  },
+  {
+    "folder": "client-projection",
+    "title": "Client-side projection",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0012298368143687408,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/client-projection.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-mapnoteslayer",
+    "title": "MapNotesLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0011723264597399868,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-mapnoteslayer.png"
+      }
+    }
+  },
+  {
+    "folder": "styling-simple-theme",
+    "title": "Simple theme",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0011513130609333267,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/styling-simple-theme.png"
+      }
+    }
+  },
+  {
+    "folder": "timeslider-filter",
+    "title": "Filter features with TimeSlider",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.001111498200036497,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/timeslider-filter.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-scenelayerview-query-stats",
+    "title": "SceneLayerView - query statistics by geometry",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.001058411718840724,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-scenelayerview-query-stats.png"
+      }
+    }
+  },
+  {
+    "folder": "sketch-geometries",
+    "title": "Sketch widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0010528818770494976,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/sketch-geometries.png"
+      }
+    }
+  },
+  {
+    "folder": "views-synchronize",
+    "title": "Synchronize MapView and SceneView",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0010362923516758185,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/views-synchronize.png"
+      }
+    }
+  },
+  {
+    "folder": "styling-themes",
+    "title": "Themes",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0009599805349568949,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/styling-themes.png"
+      }
+    }
+  },
+  {
+    "folder": "elevation-query",
+    "title": "Query Elevation (lines)",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0009301193892842725,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/elevation-query.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-location-types",
+    "title": "Visualize features by type",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0009124238955523482,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-location-types.png"
+      }
+    }
+  },
+  {
+    "folder": "views-composite-views",
+    "title": "Create an app with composite views",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0008029330280860665,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/views-composite-views.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-mapimagelayer-renderers",
+    "title": "MapImageLayer - set renderers on sublayers",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0007996151230113307,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-mapimagelayer-renderers.png"
+      }
+    }
+  },
+  {
+    "folder": "intro-popup",
+    "title": "Intro to popups",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0007620121988309914,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/intro-popup.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-vectortilelayer-style",
+    "title": "VectorTileLayer - update style",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0006691108567383887,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-vectortilelayer-style.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-scenelayer-feature-masking",
+    "title": "Filter features by geometry with SceneLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0006337198692745401,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-scenelayer-feature-masking.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-csv-projection",
+    "title": "CSVLayer - Project points on the fly",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0006215542173338421,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-csv-projection.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-location-simple",
+    "title": "Visualize all features with the same symbol",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.03125,
+    "percentage": 0.0006027527552436725,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-location-simple.png"
+      }
+    }
+  },
+  {
+    "folder": "webmap-swap",
+    "title": "Swap web maps in the same view",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0006027527552436725,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/webmap-swap.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-vv-size",
+    "title": "Data-driven continuous size",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.0005972229134524462,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-vv-size.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-compass-2d",
+    "title": "Compass widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0005784214513622765,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-compass-2d.png"
+      }
+    }
+  },
+  {
+    "folder": "sceneview-screenshot",
+    "title": "Take a screenshot of a SceneView",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0005330767486742204,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/sceneview-screenshot.png"
+      }
+    }
+  },
+  {
+    "folder": "import-gltf",
+    "title": "Import glTF 3D Models",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0004965797928521265,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/import-gltf.png"
+      }
+    }
+  },
+  {
+    "folder": "scene-elevationinfo",
+    "title": "Elevation options",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0004468112167310893,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/scene-elevationinfo.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-custom-dynamiclayer",
+    "title": "Custom DynamicLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00044238734329810823,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-custom-dynamiclayer.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-heatmap-scale",
+    "title": "Create a scale-dependent visualization",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0004390694382233724,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-heatmap-scale.png"
+      }
+    }
+  },
+  {
+    "folder": "webmap-basic",
+    "title": "Load a basic WebMap",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00042026797613320285,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/webmap-basic.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-elevation-profile",
+    "title": "ElevationProfile Widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00040367845075952376,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-elevation-profile.png"
+      }
+    }
+  },
+  {
+    "folder": "draw-line",
+    "title": "Draw polyline",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0003992545773265427,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/draw-line.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-track-basic",
+    "title": "Track current location",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00037049940001216563,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-track-basic.png"
+      }
+    }
+  },
+  {
+    "folder": "blendmode-multiple-layers",
+    "title": "Highlight feature with effects and blending",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00035943971642971294,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/blendmode-multiple-layers.png"
+      }
+    }
+  },
+  {
+    "folder": "query-attachments",
+    "title": "Query Attachments",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00035280390628024134,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/query-attachments.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-scenelayer-color-mix-mode",
+    "title": "Coloring options for textured buildings",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00032515469732410956,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-scenelayer-color-mix-mode.png"
+      }
+    }
+  },
+  {
+    "folder": "sceneview-hittest",
+    "title": "SceneView - hitTest",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00027206821612833657,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/sceneview-hittest.png"
+      }
+    }
+  },
+  {
+    "folder": "building-scene-layer-slice",
+    "title": "BuildingSceneLayer with Slice widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0002709622477700913,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/building-scene-layer-slice.png"
+      }
+    }
+  },
+  {
+    "folder": "sketch-3d",
+    "title": "Sketch in 3D",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.0002587965958293933,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/sketch-3d.png"
+      }
+    }
+  },
+  {
+    "folder": "popup-domnode",
+    "title": "Popup with DOM node",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00021455786149958249,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popup-domnode.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-coordinateconversion-custom",
+    "title": "CoordinateConversion widget - Custom Formats",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00020792205135011088,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-coordinateconversion-custom.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-shadow-cast",
+    "title": "Shadow cast",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00020128624120063925,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-shadow-cast.png"
+      }
+    }
+  },
+  {
+    "folder": "view-padding",
+    "title": "View padding",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00019796833612590345,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/view-padding.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-sm-uni-colorsize",
+    "title": "Generate univariate continuous size and color visualization in 3D",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00017031912716977167,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-uni-colorsize.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-floorfilter",
+    "title": "FloorFilter widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00016147138030380952,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-floorfilter.png"
+      }
+    }
+  },
+  {
+    "folder": "scene-local",
+    "title": "Create a local scene",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00013824604478065883,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/scene-local.png"
+      }
+    }
+  },
+  {
+    "folder": "building-scene-layer-filter",
+    "title": "Filter BuildingSceneLayer with BuildingExplorer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00013492813970592302,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/building-scene-layer-filter.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-frameworks-react",
+    "title": "Using widgets with React",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00012497442448171556,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-frameworks-react.png"
+      }
+    }
+  },
+  {
+    "folder": "chaining-promises",
+    "title": "Chaining Promises",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0001238684561234703,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/chaining-promises.png"
+      }
+    }
+  },
+  {
+    "folder": "featurelayerview-query-stats",
+    "title": "Query statistics client-side",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00011833861433224396,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurelayerview-query-stats.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-custom-elevation-thematic",
+    "title": "Custom ElevationLayer - Thematic data as elevation",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00011502070925750815,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-custom-elevation-thematic.png"
+      }
+    }
+  },
+  {
+    "folder": "graphics-basic-3d",
+    "title": "Add Graphics to a SceneView",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00011059683582452706,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/graphics-basic-3d.png"
+      }
+    }
+  },
+  {
+    "folder": "featurelayer-queryextent",
+    "title": "Zoom to extent of all features",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.00009843118388382908,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurelayer-queryextent.png"
+      }
+    }
+  },
+  {
+    "folder": "intro-mapview",
+    "title": "Intro to MapView - Create a 2D map",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00007299391164418786,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/intro-mapview.png"
+      }
+    }
+  },
+  {
+    "folder": "view-disable-rotation",
+    "title": "Disable rotation on the view",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00007299391164418786,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/view-disable-rotation.png"
+      }
+    }
+  },
+  {
+    "folder": "intro-layers",
+    "title": "Intro to layers",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00006857003821120677,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/intro-layers.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-feature",
+    "title": "Feature Widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00006193422806173515,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-feature.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-mapimagelayer",
+    "title": "Intro to MapImageLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00005529841791226353,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-mapimagelayer.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-mapimagelayer-definitionexpression",
+    "title": "MapImageLayer - Set definition expressions on sublayers",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00005198051283752772,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-mapimagelayer-definitionexpression.png"
+      }
+    }
+  },
+  {
+    "folder": "cim-symbols",
+    "title": "CIMSymbol",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00005087454447928245,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/cim-symbols.png"
+      }
+    }
+  },
+  {
+    "folder": "labels-multiline",
+    "title": "Multi-line labels",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000048662607762791905,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/labels-multiline.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-feature-multiplelayers",
+    "title": "Feature widget - Query graphics from multiple layerViews",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000047556639404546633,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-feature-multiplelayers.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-subtypegrouplayer",
+    "title": "Intro to SubtypeGroupLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00003649695582209393,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-subtypegrouplayer.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-basemapgallery",
+    "title": "BasemapGallery widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00003539098746384866,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-basemapgallery.png"
+      }
+    }
+  },
+  {
+    "folder": "intro-blendmode-layer",
+    "title": "Intro to layer blending",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00003207308238911285,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/intro-blendmode-layer.png"
+      }
+    }
+  },
+  {
+    "folder": "geometry-mesh-primitives",
+    "title": "Working with 3D mesh primitives",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.00003096711403086758,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/geometry-mesh-primitives.png"
+      }
+    }
+  },
+  {
+    "folder": "cim-line-arrows",
+    "title": "Arrows along a line",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00003096711403086758,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/cim-line-arrows.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-webtile-3d",
+    "title": "WebTileLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00003096711403086758,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-webtile-3d.png"
+      }
+    }
+  },
+  {
+    "folder": "webscene-slide-tour",
+    "title": "Web scene - slide tour",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000029861145672622305,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/webscene-slide-tour.png"
+      }
+    }
+  },
+  {
+    "folder": "query",
+    "title": "Query",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000026543240597886493,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/query.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-layerlist-actions",
+    "title": "LayerList widget with actions",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000024331303881395953,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-layerlist-actions.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-vectortilelayer-json",
+    "title": "VectorTileLayer - update style layers",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000022119367164905412,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-vectortilelayer-json.png"
+      }
+    }
+  },
+  {
+    "folder": "intro-widgets",
+    "title": "Intro to widgets using BasemapToggle",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000019907430448414872,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/intro-widgets.png"
+      }
+    }
+  },
+  {
+    "folder": "sceneview-underground",
+    "title": "Underground navigation in global mode",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000019907430448414872,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/sceneview-underground.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-locate",
+    "title": "Locate button",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000019907430448414872,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-locate.png"
+      }
+    }
+  },
+  {
+    "folder": "featureeffect-drop-shadow",
+    "title": "Apply drop-shadow effects to layerview",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0000188014620901696,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featureeffect-drop-shadow.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-sm-size-themes",
+    "title": "Size visual variable themes",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0000188014620901696,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-size-themes.png"
+      }
+    }
+  },
+  {
+    "folder": "intro-sceneview",
+    "title": "Intro to SceneView - Create a 3D map",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00001769549373192433,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/intro-sceneview.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-osm-3d",
+    "title": "OpenStreetMapLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000014377588657188518,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-osm-3d.png"
+      }
+    }
+  },
+  {
+    "folder": "scene-goto",
+    "title": "SceneView - goTo()",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000014377588657188518,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/scene-goto.png"
+      }
+    }
+  },
+  {
+    "folder": "effect-blur-shadow",
+    "title": "Highlight a country with an effect",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000012165651940697976,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/effect-blur-shadow.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-histogram-color",
+    "title": "Customize ColorSlider Histogram",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000012165651940697976,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-histogram-color.png"
+      }
+    }
+  },
+  {
+    "folder": "blendmode-grouplayer",
+    "title": "Composite blending",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000011059683582452706,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/blendmode-grouplayer.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-wfs",
+    "title": "WFSLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000011059683582452706,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-wfs.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-home",
+    "title": "Home button",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000009953715224207436,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-home.png"
+      }
+    }
+  },
+  {
+    "folder": "featurereduction-cluster-query",
+    "title": "Point clustering - query clusters",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000008847746865962164,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurereduction-cluster-query.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-imagery-coordinatesystem",
+    "title": "ImageryLayer - image coordinate system",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000008847746865962164,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagery-coordinatesystem.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-imagery-renderer",
+    "title": "ImageryTileLayer - shaded relief renderer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000008847746865962164,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagery-renderer.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-search-3d",
+    "title": "Search Widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000008847746865962164,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-search-3d.png"
+      }
+    }
+  },
+  {
+    "folder": "ge-geodesicbuffer",
+    "title": "GeometryEngine - geodesic buffers",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000007741778507716894,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/ge-geodesicbuffer.png"
+      }
+    }
+  },
+  {
+    "folder": "scene-webgl-support",
+    "title": "Detect WebGL support",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000006635810149471623,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/scene-webgl-support.png"
+      }
+    }
+  },
+  {
+    "folder": "identify",
+    "title": "Identify",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000005529841791226353,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/identify.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-sm-color",
+    "title": "Generate continuous color visualization",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000005529841791226353,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-color.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-expand",
+    "title": "Expand widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000005529841791226353,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-expand.png"
+      }
+    }
+  },
+  {
+    "folder": "featurereduction-cluster-popup-filter",
+    "title": "Point clustering - filter popup features",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000004423873432981082,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurereduction-cluster-popup-filter.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-dynamicdatalayer-query-table",
+    "title": "MapImageLayer - dynamic data layer with query table",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000004423873432981082,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-dynamicdatalayer-query-table.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-wmts-sublayers",
+    "title": "Select WMTSLayer sublayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000004423873432981082,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-wmts-sublayers.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-georss",
+    "title": "GeoRSSLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0000033179050747358116,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-georss.png"
+      }
+    }
+  },
+  {
+    "folder": "popup-customcontent",
+    "title": "Custom popup content",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0000033179050747358116,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popup-customcontent.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-portal",
+    "title": "Create a layer from a portal item",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000002211936716490541,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-portal.png"
+      }
+    }
+  },
+  {
+    "folder": "featurefilter-attributes",
+    "title": "Filter features by attribute",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0000011059683582452705,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurefilter-attributes.png"
+      }
+    }
+  },
+  {
+    "folder": "featurereduction-cluster-popup-chart",
+    "title": "Popup charts for point clusters",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0000011059683582452705,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurereduction-cluster-popup-chart.png"
+      }
+    }
+  },
+  {
+    "folder": "simple-ui",
+    "title": "Using the view's UI",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0000011059683582452705,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/simple-ui.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-featuretable-popup-interaction",
+    "title": "FeatureTable widget with popup interaction",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0000011059683582452705,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-featuretable-popup-interaction.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-vectortilelayer",
+    "title": "VectorTileLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-vectortilelayer.png"
+      }
+    }
+  },
+  {
+    "folder": "analysis-area-measurement",
+    "title": "Area measurement analysis object",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/analysis-area-measurement.png"
+      }
+    }
+  },
+  {
+    "folder": "analysis-objects",
+    "title": "Analysis object",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/analysis-objects.png"
+      }
+    }
+  },
+  {
+    "folder": "animation-layer-visibility",
+    "title": "Animate layer visibility",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/animation-layer-visibility.png"
+      }
+    }
+  },
+  {
+    "folder": "custom-gl-tessellation-helpers",
+    "title": "Tessellation helpers for custom WebGL layer views",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/custom-gl-tessellation-helpers.png"
+      }
+    }
+  },
+  {
+    "folder": "custom-gl-tiles",
+    "title": "Tiling support for custom WebGL layer views",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/custom-gl-tiles.png"
+      }
+    }
+  },
+  {
+    "folder": "custom-lv-masking",
+    "title": "Masking effect using a custom layer view",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/custom-lv-masking.png"
+      }
+    }
+  },
+  {
+    "folder": "editing-groupedfeatureform",
+    "title": "Update Feature Attributes",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/editing-groupedfeatureform.png"
+      }
+    }
+  },
+  {
+    "folder": "featureeffect-layers-histogram",
+    "title": "Apply featureEffect to a FeatureLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featureeffect-layers-histogram.png"
+      }
+    }
+  },
+  {
+    "folder": "featurelayerview-query-aggregate",
+    "title": "Aggregate spatial statistics",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurelayerview-query-aggregate.png"
+      }
+    }
+  },
+  {
+    "folder": "find",
+    "title": "Find",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/find.png"
+      }
+    }
+  },
+  {
+    "folder": "highlight-features-by-geometry",
+    "title": "Select features by rectangle",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/highlight-features-by-geometry.png"
+      }
+    }
+  },
+  {
+    "folder": "identity-oauth-basic",
+    "title": "Access ArcGIS Online items using OAuth 2.0",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/identity-oauth-basic.png"
+      }
+    }
+  },
+  {
+    "folder": "intro-graphics",
+    "title": "Intro to graphics",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/intro-graphics.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-custom-blendlayer",
+    "title": "Custom BlendLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-custom-blendlayer.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-custom-lerc-2d",
+    "title": "Custom LERC Layer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-custom-lerc-2d.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-dynamicdatalayer-raster",
+    "title": "MapImageLayer - raster data source",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-dynamicdatalayer-raster.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-featurelayer-collection",
+    "title": "Create a FeatureLayer with client-side graphics",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-featurelayer-collection.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-featurelayer-shapefile",
+    "title": "Create a FeatureLayer from a shapefile",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-featurelayer-shapefile.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-imagery-attribute-table",
+    "title": "ImageryLayer - raster attribute table",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagery-attribute-table.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-imagery-pixelvalues",
+    "title": "ImageryLayer - client side pixel filter",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagery-pixelvalues.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-imagery-renderingrule",
+    "title": "ImageryLayer - client side rendering rules",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagery-renderingrule.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-imagerylayer",
+    "title": "Intro to ImageryLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagerylayer.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-mapimagelayer-dynamic-labels",
+    "title": "MapImageLayer - label sublayer features",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-mapimagelayer-dynamic-labels.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-mapimagelayer-sublayers",
+    "title": "MapImageLayer - Toggle sublayer visibility",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-mapimagelayer-sublayers.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-routelayer",
+    "title": "Intro to RouteLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-routelayer.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-scenelayer-points",
+    "title": "Scene Layer with point geometries",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-scenelayer-points.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-streamlayer",
+    "title": "StreamLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-streamlayer.png"
+      }
+    }
+  },
+  {
+    "folder": "layers-wmts",
+    "title": "WMTSLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-wmts.png"
+      }
+    }
+  },
+  {
+    "folder": "playground",
+    "title": "Symbol playground",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/playground.png"
+      }
+    }
+  },
+  {
+    "folder": "popup-multipleelements",
+    "title": "Multiple popup elements",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popup-multipleelements.png"
+      }
+    }
+  },
+  {
+    "folder": "popuptemplate-function",
+    "title": "PopupTemplate - use functions to set content",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popuptemplate-function.png"
+      }
+    }
+  },
+  {
+    "folder": "popuptemplate-promise",
+    "title": "PopupTemplate with promise",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popuptemplate-promise.png"
+      }
+    }
+  },
+  {
+    "folder": "portalitem-dragndrop",
+    "title": "Load portal items via drag & drop",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/portalitem-dragndrop.png"
+      }
+    }
+  },
+  {
+    "folder": "query-related-features",
+    "title": "Query Related Features",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/query-related-features.png"
+      }
+    }
+  },
+  {
+    "folder": "request",
+    "title": "Request data from a remote server",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/request.png"
+      }
+    }
+  },
+  {
+    "folder": "scene-elevationlayer",
+    "title": "ElevationLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/scene-elevationlayer.png"
+      }
+    }
+  },
+  {
+    "folder": "styling-icon-fonts",
+    "title": "Using Esri Icon Fonts with map graphics",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/styling-icon-fonts.png"
+      }
+    }
+  },
+  {
+    "folder": "view-disable-zoom",
+    "title": "Disable mouse-wheel and single-touch navigation",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/view-disable-zoom.png"
+      }
+    }
+  },
+  {
+    "folder": "view-hittest",
+    "title": "Access features with pointer events",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/view-hittest.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-heatmap-scene",
+    "title": "Visualize points in a scene with a heatmap",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-heatmap-scene.png"
+      }
+    }
+  },
+  {
+    "folder": "visualization-line-markers",
+    "title": "Line markers and label placement",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-line-markers.png"
+      }
+    }
+  },
+  {
+    "folder": "watch-for-changes-reactiveutils",
+    "title": "Property Changes with ReactiveUtils",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/watch-for-changes-reactiveutils.png"
+      }
+    }
+  },
+  {
+    "folder": "webmap-save",
+    "title": "Save a web map",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/webmap-save.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-custom-widget",
+    "title": "Create a custom widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-custom-widget.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-scalebar",
+    "title": "ScaleBar widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-scalebar.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-search-multiplesource",
+    "title": "Search widget with multiple sources",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-search-multiplesource.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-swipe",
+    "title": "Swipe Widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-swipe.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-tablelist",
+    "title": "TableList widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-tablelist.png"
+      }
+    }
+  },
+  {
+    "folder": "widgets-untrace",
+    "title": "UtilityNetworkTrace widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "screenshot": {
+      "source": {
+        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-untrace.png"
+      }
+    }
+  }
+]
