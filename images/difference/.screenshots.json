@@ -6,11 +6,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.3125,
     "percentage": 0.9555223765048082,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagery-afrenderer.png"
-      }
-    }
+    "percentageFormatted": "95.55%"
   },
   {
     "folder": "basemaps-portal",
@@ -19,11 +15,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.328125,
     "percentage": 0.8518201474255822,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/basemaps-portal.png"
-      }
-    }
+    "percentageFormatted": "85.18%"
   },
   {
     "folder": "layers-integratedmeshlayer",
@@ -32,11 +24,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.21875,
     "percentage": 0.8339941494273849,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-integratedmeshlayer.png"
-      }
-    }
+    "percentageFormatted": "83.4%"
   },
   {
     "folder": "widgets-daylight",
@@ -45,11 +33,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.40625,
     "percentage": 0.8090844240946267,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-daylight.png"
-      }
-    }
+    "percentageFormatted": "80.91%"
   },
   {
     "folder": "widgets-frameworks-vue",
@@ -58,11 +42,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.0625,
     "percentage": 0.7756476827197973,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-frameworks-vue.png"
-      }
-    }
+    "percentageFormatted": "77.56%"
   },
   {
     "folder": "layers-csv",
@@ -71,11 +51,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.46875,
     "percentage": 0.7676272001858027,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-csv.png"
-      }
-    }
+    "percentageFormatted": "76.76%"
   },
   {
     "folder": "layers-imagery-clientside",
@@ -84,11 +60,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.109375,
     "percentage": 0.7281408118913718,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagery-clientside.png"
-      }
-    }
+    "percentageFormatted": "72.81%"
   },
   {
     "folder": "layers-integratedmeshlayer-modification",
@@ -97,11 +69,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.3125,
     "percentage": 0.6904173371599839,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-integratedmeshlayer-modification.png"
-      }
-    }
+    "percentageFormatted": "69.04%"
   },
   {
     "folder": "widgets-layerlist",
@@ -110,11 +78,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.078125,
     "percentage": 0.6821314222200103,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-layerlist.png"
-      }
-    }
+    "percentageFormatted": "68.21%"
   },
   {
     "folder": "visualization-sm-sublayer",
@@ -123,11 +87,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.28125,
     "percentage": 0.5590537334726854,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-sublayer.png"
-      }
-    }
+    "percentageFormatted": "55.91%"
   },
   {
     "folder": "visualization-dictionary",
@@ -136,11 +96,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.5251502734506766,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-dictionary.png"
-      }
-    }
+    "percentageFormatted": "52.52%"
   },
   {
     "folder": "widgets-editor-basic",
@@ -149,11 +105,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.078125,
     "percentage": 0.40244197813500554,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-editor-basic.png"
-      }
-    }
+    "percentageFormatted": "40.24%"
   },
   {
     "folder": "layers-ogcfeaturelayer",
@@ -162,11 +114,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.1875,
     "percentage": 0.38069311037011233,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-ogcfeaturelayer.png"
-      }
-    }
+    "percentageFormatted": "38.07%"
   },
   {
     "folder": "widgets-feature-sidepanel",
@@ -175,11 +123,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.046875,
     "percentage": 0.31249246559055943,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-feature-sidepanel.png"
-      }
-    }
+    "percentageFormatted": "31.25%"
   },
   {
     "folder": "layers-imagery-afrenderer-blending",
@@ -188,11 +132,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.15625,
     "percentage": 0.2403999181583415,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagery-afrenderer-blending.png"
-      }
-    }
+    "percentageFormatted": "24.04%"
   },
   {
     "folder": "widgets-track",
@@ -201,11 +141,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.03125,
     "percentage": 0.2255467631071075,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-track.png"
-      }
-    }
+    "percentageFormatted": "22.55%"
   },
   {
     "folder": "visualization-sm-color-ramps",
@@ -214,11 +150,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.21875,
     "percentage": 0.2208972721290444,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-color-ramps.png"
-      }
-    }
+    "percentageFormatted": "22.09%"
   },
   {
     "folder": "editing-applyedits",
@@ -227,11 +159,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.140625,
     "percentage": 0.20814324502175993,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/editing-applyedits.png"
-      }
-    }
+    "percentageFormatted": "20.81%"
   },
   {
     "folder": "visualization-vv-opacity-animate",
@@ -240,11 +168,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.20693442160619785,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-vv-opacity-animate.png"
-      }
-    }
+    "percentageFormatted": "20.69%"
   },
   {
     "folder": "featurelayerview-query",
@@ -253,11 +177,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.03125,
     "percentage": 0.1689809054562949,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurelayerview-query.png"
-      }
-    }
+    "percentageFormatted": "16.9%"
   },
   {
     "folder": "elevation-query-points",
@@ -266,11 +186,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.28125,
     "percentage": 0.16793355342103664,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/elevation-query-points.png"
-      }
-    }
+    "percentageFormatted": "16.79%"
   },
   {
     "folder": "scene-weather",
@@ -279,11 +195,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.125,
     "percentage": 0.15965980413300376,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/scene-weather.png"
-      }
-    }
+    "percentageFormatted": "15.97%"
   },
   {
     "folder": "intro-popuptemplate",
@@ -292,11 +204,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.03125,
     "percentage": 0.14759700724962257,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/intro-popuptemplate.png"
-      }
-    }
+    "percentageFormatted": "14.76%"
   },
   {
     "folder": "widgets-editor-3d",
@@ -305,11 +213,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.171875,
     "percentage": 0.12698175705193074,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-editor-3d.png"
-      }
-    }
+    "percentageFormatted": "12.7%"
   },
   {
     "folder": "visualization-trees-realistic",
@@ -318,11 +222,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.09964221923610765,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-trees-realistic.png"
-      }
-    }
+    "percentageFormatted": "9.964%"
   },
   {
     "folder": "widgets-editor-configurable",
@@ -331,11 +231,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.09731968568379258,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-editor-configurable.png"
-      }
-    }
+    "percentageFormatted": "9.732%"
   },
   {
     "folder": "visualization-heatmap",
@@ -344,11 +240,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.0625,
     "percentage": 0.09613076969867893,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-heatmap.png"
-      }
-    }
+    "percentageFormatted": "9.613%"
   },
   {
     "folder": "layers-pointcloud-filters",
@@ -357,11 +249,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.03125,
     "percentage": 0.09543953947477563,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-pointcloud-filters.png"
-      }
-    }
+    "percentageFormatted": "9.544%"
   },
   {
     "folder": "widgets-histogramrangeslider",
@@ -370,11 +258,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.09347312773381554,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-histogramrangeslider.png"
-      }
-    }
+    "percentageFormatted": "9.347%"
   },
   {
     "folder": "visualization-sm-dotdensity",
@@ -383,11 +267,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.08337563662303621,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-dotdensity.png"
-      }
-    }
+    "percentageFormatted": "8.338%"
   },
   {
     "folder": "layers-scenelayer-texture",
@@ -396,11 +276,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.078125,
     "percentage": 0.07973700072440927,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-scenelayer-texture.png"
-      }
-    }
+    "percentageFormatted": "7.974%"
   },
   {
     "folder": "visualization-multivariate-2d",
@@ -409,11 +285,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.061220878470666956,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-multivariate-2d.png"
-      }
-    }
+    "percentageFormatted": "6.122%"
   },
   {
     "folder": "widgets-editor-3d-scenelayer",
@@ -422,11 +294,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.0625,
     "percentage": 0.058569872315953043,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-editor-3d-scenelayer.png"
-      }
-    }
+    "percentageFormatted": "5.857%"
   },
   {
     "folder": "sceneview-background",
@@ -435,11 +303,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.05270492211217837,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/sceneview-background.png"
-      }
-    }
+    "percentageFormatted": "5.27%"
   },
   {
     "folder": "visualization-label-callout",
@@ -448,11 +312,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.05234437642739041,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-label-callout.png"
-      }
-    }
+    "percentageFormatted": "5.234%"
   },
   {
     "folder": "visualization-sm-types",
@@ -461,11 +321,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.078125,
     "percentage": 0.05230124366141885,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-types.png"
-      }
-    }
+    "percentageFormatted": "5.23%"
   },
   {
     "folder": "visualization-point-styles",
@@ -474,11 +330,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.048529891559802474,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-point-styles.png"
-      }
-    }
+    "percentageFormatted": "4.853%"
   },
   {
     "folder": "custom-lv-deckgl",
@@ -487,11 +339,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.046875,
     "percentage": 0.04738300237230213,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/custom-lv-deckgl.png"
-      }
-    }
+    "percentageFormatted": "4.738%"
   },
   {
     "folder": "widgets-legend-update",
@@ -500,11 +348,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.046875,
     "percentage": 0.043342899959632156,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-legend-update.png"
-      }
-    }
+    "percentageFormatted": "4.334%"
   },
   {
     "folder": "satellites-3d",
@@ -513,11 +357,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.078125,
     "percentage": 0.043170368895745895,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/satellites-3d.png"
-      }
-    }
+    "percentageFormatted": "4.317%"
   },
   {
     "folder": "layers-geojson",
@@ -526,11 +366,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.04268153088140148,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-geojson.png"
-      }
-    }
+    "percentageFormatted": "4.268%"
   },
   {
     "folder": "time-layer",
@@ -539,11 +375,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.042330938911837736,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/time-layer.png"
-      }
-    }
+    "percentageFormatted": "4.233%"
   },
   {
     "folder": "layers-imagery-vfrenderer",
@@ -552,11 +384,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.0625,
     "percentage": 0.04223693160138688,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagery-vfrenderer.png"
-      }
-    }
+    "percentageFormatted": "4.224%"
   },
   {
     "folder": "layers-custom-tilelayer",
@@ -565,11 +393,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.09375,
     "percentage": 0.040349043613862205,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-custom-tilelayer.png"
-      }
-    }
+    "percentageFormatted": "4.035%"
   },
   {
     "folder": "layers-custom-elevation-exaggerated",
@@ -578,11 +402,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.0625,
     "percentage": 0.0392519230024829,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-custom-elevation-exaggerated.png"
-      }
-    }
+    "percentageFormatted": "3.925%"
   },
   {
     "folder": "featurereduction-cluster",
@@ -591,11 +411,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.03833065136006459,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurereduction-cluster.png"
-      }
-    }
+    "percentageFormatted": "3.833%"
   },
   {
     "folder": "layers-featurelayer-labeling-3d",
@@ -604,11 +420,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.03695482672240747,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-featurelayer-labeling-3d.png"
-      }
-    }
+    "percentageFormatted": "3.695%"
   },
   {
     "folder": "layers-pointcloud",
@@ -617,11 +429,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.036056780415512316,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-pointcloud.png"
-      }
-    }
+    "percentageFormatted": "3.606%"
   },
   {
     "folder": "visualization-dot-density",
@@ -630,11 +438,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.03449404712531175,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-dot-density.png"
-      }
-    }
+    "percentageFormatted": "3.449%"
   },
   {
     "folder": "visualization-webstylesymbol",
@@ -643,11 +447,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.033918943579024204,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-webstylesymbol.png"
-      }
-    }
+    "percentageFormatted": "3.392%"
   },
   {
     "folder": "widgets-featuretable",
@@ -656,11 +456,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.030969325967584067,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-featuretable.png"
-      }
-    }
+    "percentageFormatted": "3.097%"
   },
   {
     "folder": "layers-imagery-popup",
@@ -669,11 +465,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.078125,
     "percentage": 0.02971736978605042,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagery-popup.png"
-      }
-    }
+    "percentageFormatted": "2.972%"
   },
   {
     "folder": "visualization-vv-rotation",
@@ -682,11 +474,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0295116596714168,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-vv-rotation.png"
-      }
-    }
+    "percentageFormatted": "2.951%"
   },
   {
     "folder": "visualization-line-patterns",
@@ -695,11 +483,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.03125,
     "percentage": 0.029068166359760447,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-line-patterns.png"
-      }
-    }
+    "percentageFormatted": "2.907%"
   },
   {
     "folder": "visualization-multivariate-3d",
@@ -708,11 +492,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.026858441579986396,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-multivariate-3d.png"
-      }
-    }
+    "percentageFormatted": "2.686%"
   },
   {
     "folder": "basemap-custom",
@@ -721,11 +501,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.026811990908940094,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/basemap-custom.png"
-      }
-    }
+    "percentageFormatted": "2.681%"
   },
   {
     "folder": "visualization-sm-predominance",
@@ -734,11 +510,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.046875,
     "percentage": 0.026797613320282906,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-predominance.png"
-      }
-    }
+    "percentageFormatted": "2.68%"
   },
   {
     "folder": "visualization-sm-location-scale",
@@ -747,11 +519,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.026562042059976664,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-location-scale.png"
-      }
-    }
+    "percentageFormatted": "2.656%"
   },
   {
     "folder": "layers-featurelayer",
@@ -760,11 +528,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.026333106609819894,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-featurelayer.png"
-      }
-    }
+    "percentageFormatted": "2.633%"
   },
   {
     "folder": "featurelayerview-query-distance",
@@ -773,11 +537,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.02533994702411564,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurelayerview-query-distance.png"
-      }
-    }
+    "percentageFormatted": "2.534%"
   },
   {
     "folder": "widgets-timeslider",
@@ -786,11 +546,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.109375,
     "percentage": 0.024384390362591726,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-timeslider.png"
-      }
-    }
+    "percentageFormatted": "2.438%"
   },
   {
     "folder": "layers-pointcloud-portal",
@@ -799,11 +555,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.02179531843593955,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-pointcloud-portal.png"
-      }
-    }
+    "percentageFormatted": "2.18%"
   },
   {
     "folder": "featurelayer-query-pagination",
@@ -812,11 +564,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.021679191758323793,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurelayer-query-pagination.png"
-      }
-    }
+    "percentageFormatted": "2.168%"
   },
   {
     "folder": "widgets-measurement-3d",
@@ -825,11 +573,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.02122132085801025,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-measurement-3d.png"
-      }
-    }
+    "percentageFormatted": "2.122%"
   },
   {
     "folder": "layers-hosted-imagerytilelayer",
@@ -838,11 +582,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.020905013907552106,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-hosted-imagerytilelayer.png"
-      }
-    }
+    "percentageFormatted": "2.091%"
   },
   {
     "folder": "layers-wms",
@@ -851,11 +591,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.03125,
     "percentage": 0.020729164938591105,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-wms.png"
-      }
-    }
+    "percentageFormatted": "2.073%"
   },
   {
     "folder": "widgets-legend",
@@ -864,11 +600,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.0625,
     "percentage": 0.01898394686928007,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-legend.png"
-      }
-    }
+    "percentageFormatted": "1.898%"
   },
   {
     "folder": "featurereduction-cluster-filter-slider",
@@ -877,11 +609,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.03125,
     "percentage": 0.018893257463903957,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurereduction-cluster-filter-slider.png"
-      }
-    }
+    "percentageFormatted": "1.889%"
   },
   {
     "folder": "views-switch-2d-3d",
@@ -890,11 +618,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.017694387763566084,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/views-switch-2d-3d.png"
-      }
-    }
+    "percentageFormatted": "1.769%"
   },
   {
     "folder": "geometry-mesh-elevation",
@@ -903,11 +627,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.016408146562926836,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/geometry-mesh-elevation.png"
-      }
-    }
+    "percentageFormatted": "1.641%"
   },
   {
     "folder": "visualization-polygon-patterns",
@@ -916,11 +636,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.015054441292434623,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-polygon-patterns.png"
-      }
-    }
+    "percentageFormatted": "1.505%"
   },
   {
     "folder": "highlight-point-features",
@@ -929,11 +645,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.014969281728849738,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/highlight-point-features.png"
-      }
-    }
+    "percentageFormatted": "1.497%"
   },
   {
     "folder": "layers-pointcloud-size-density",
@@ -942,11 +654,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.014719332879886306,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-pointcloud-size-density.png"
-      }
-    }
+    "percentageFormatted": "1.472%"
   },
   {
     "folder": "widgets-featuretable-map",
@@ -955,11 +663,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.014109944314493162,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-featuretable-map.png"
-      }
-    }
+    "percentageFormatted": "1.411%"
   },
   {
     "folder": "layers-dynamicmaplayer",
@@ -968,11 +672,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.014011513130609334,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-dynamicmaplayer.png"
-      }
-    }
+    "percentageFormatted": "1.401%"
   },
   {
     "folder": "featurereduction-cluster-visualvariables",
@@ -981,11 +681,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.013571337724027716,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurereduction-cluster-visualvariables.png"
-      }
-    }
+    "percentageFormatted": "1.357%"
   },
   {
     "folder": "visualization-classbreaks",
@@ -994,11 +690,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.03125,
     "percentage": 0.013464058793277923,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-classbreaks.png"
-      }
-    }
+    "percentageFormatted": "1.346%"
   },
   {
     "folder": "view-breakpoints-css",
@@ -1007,11 +699,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.013082499709683306,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/view-breakpoints-css.png"
-      }
-    }
+    "percentageFormatted": "1.308%"
   },
   {
     "folder": "layers-scenelayer-filter-query",
@@ -1020,11 +708,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.03125,
     "percentage": 0.012507396163395764,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-scenelayer-filter-query.png"
-      }
-    }
+    "percentageFormatted": "1.251%"
   },
   {
     "folder": "visualization-sm-size",
@@ -1033,11 +717,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.012208784706669543,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-size.png"
-      }
-    }
+    "percentageFormatted": "1.221%"
   },
   {
     "folder": "custom-gl-animated-lines",
@@ -1046,11 +726,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.012177817592638675,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/custom-gl-animated-lines.png"
-      }
-    }
+    "percentageFormatted": "1.218%"
   },
   {
     "folder": "webstylesymbol-2d",
@@ -1059,11 +735,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.011235532551413704,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/webstylesymbol-2d.png"
-      }
-    }
+    "percentageFormatted": "1.124%"
   },
   {
     "folder": "visualization-sm-relationship",
@@ -1072,11 +744,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.01121562512096529,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-relationship.png"
-      }
-    }
+    "percentageFormatted": "1.122%"
   },
   {
     "folder": "blendmode-darkening",
@@ -1085,11 +753,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.010857291372893822,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/blendmode-darkening.png"
-      }
-    }
+    "percentageFormatted": "1.086%"
   },
   {
     "folder": "highlight-scenelayer",
@@ -1098,11 +762,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.010723469201546144,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/highlight-scenelayer.png"
-      }
-    }
+    "percentageFormatted": "1.072%"
   },
   {
     "folder": "featurelayer-query",
@@ -1111,11 +771,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.010404950314371506,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurelayer-query.png"
-      }
-    }
+    "percentageFormatted": "1.04%"
   },
   {
     "folder": "visualization-arcade",
@@ -1124,11 +780,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.010365135453474675,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-arcade.png"
-      }
-    }
+    "percentageFormatted": "1.037%"
   },
   {
     "folder": "layers-dynamicdatalayer-table-join",
@@ -1137,11 +789,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.010323108655861356,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-dynamicdatalayer-table-join.png"
-      }
-    }
+    "percentageFormatted": "1.032%"
   },
   {
     "folder": "popup-editaction",
@@ -1150,11 +798,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.01025675055436664,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popup-editaction.png"
-      }
-    }
+    "percentageFormatted": "1.026%"
   },
   {
     "folder": "layers-geojson-refresh",
@@ -1163,11 +807,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.010058782218240737,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-geojson-refresh.png"
-      }
-    }
+    "percentageFormatted": "1.006%"
   },
   {
     "folder": "sketch-snapping-magnifier",
@@ -1176,11 +816,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.009813257242710286,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/sketch-snapping-magnifier.png"
-      }
-    }
+    "percentageFormatted": "0.9813%"
   },
   {
     "folder": "mars",
@@ -1189,11 +825,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.009613076969867893,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/mars.png"
-      }
-    }
+    "percentageFormatted": "0.9613%"
   },
   {
     "folder": "widgets-featuretable-editing",
@@ -1202,11 +834,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.008918528840889861,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-featuretable-editing.png"
-      }
-    }
+    "percentageFormatted": "0.8919%"
   },
   {
     "folder": "webscene-basic",
@@ -1215,11 +843,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.008786918606258675,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/webscene-basic.png"
-      }
-    }
+    "percentageFormatted": "0.8787%"
   },
   {
     "folder": "sketch-viewmodel-styler",
@@ -1228,11 +852,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00876479923909377,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/sketch-viewmodel-styler.png"
-      }
-    }
+    "percentageFormatted": "0.8765%"
   },
   {
     "folder": "widgets-line-of-sight",
@@ -1241,11 +861,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.008752633587153072,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-line-of-sight.png"
-      }
-    }
+    "percentageFormatted": "0.8753%"
   },
   {
     "folder": "widgets-layerlist-legend",
@@ -1254,11 +870,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.008695123232524318,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-layerlist-legend.png"
-      }
-    }
+    "percentageFormatted": "0.8695%"
   },
   {
     "folder": "featureeffect-multiple-effects",
@@ -1267,11 +879,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.008527016042071036,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featureeffect-multiple-effects.png"
-      }
-    }
+    "percentageFormatted": "0.8527%"
   },
   {
     "folder": "labels-multiple-classes",
@@ -1280,11 +888,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00850047280147315,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/labels-multiple-classes.png"
-      }
-    }
+    "percentageFormatted": "0.85%"
   },
   {
     "folder": "cim-primitive-overrides",
@@ -1293,11 +897,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.008441856478486151,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/cim-primitive-overrides.png"
-      }
-    }
+    "percentageFormatted": "0.8442%"
   },
   {
     "folder": "view-disable-navigation",
@@ -1306,11 +906,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.008207391186538153,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/view-disable-navigation.png"
-      }
-    }
+    "percentageFormatted": "0.8207%"
   },
   {
     "folder": "visualization-vv-extrusion",
@@ -1319,11 +915,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.007682056216371649,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-vv-extrusion.png"
-      }
-    }
+    "percentageFormatted": "0.7682%"
   },
   {
     "folder": "visualization-path-3d",
@@ -1332,11 +924,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.007549340013382217,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-path-3d.png"
-      }
-    }
+    "percentageFormatted": "0.7549%"
   },
   {
     "folder": "visualization-buildings-3d",
@@ -1345,11 +933,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.007257364366805466,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-buildings-3d.png"
-      }
-    }
+    "percentageFormatted": "0.7257%"
   },
   {
     "folder": "scene-external-renderer",
@@ -1358,11 +942,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.007177734645011806,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/scene-external-renderer.png"
-      }
-    }
+    "percentageFormatted": "0.7178%"
   },
   {
     "folder": "widgets-legend-card",
@@ -1371,11 +951,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0067530427954456225,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-legend-card.png"
-      }
-    }
+    "percentageFormatted": "0.6753%"
   },
   {
     "folder": "visualization-sm-multivariate",
@@ -1384,11 +960,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0066324922443968875,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-multivariate.png"
-      }
-    }
+    "percentageFormatted": "0.6632%"
   },
   {
     "folder": "featurereduction-cluster-filter",
@@ -1397,11 +969,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.006570558016335153,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurereduction-cluster-filter.png"
-      }
-    }
+    "percentageFormatted": "0.6571%"
   },
   {
     "folder": "geoprocessing-viewshed",
@@ -1410,11 +978,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.006548438649170247,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/geoprocessing-viewshed.png"
-      }
-    }
+    "percentageFormatted": "0.6548%"
   },
   {
     "folder": "watch-for-changes",
@@ -1423,11 +987,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.006197846679606497,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/watch-for-changes.png"
-      }
-    }
+    "percentageFormatted": "0.6198%"
   },
   {
     "folder": "symbols-points-3d",
@@ -1436,11 +996,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.006138124388261252,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/symbols-points-3d.png"
-      }
-    }
+    "percentageFormatted": "0.6138%"
   },
   {
     "folder": "sketch-update-validation",
@@ -1449,11 +1005,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0055320537279428435,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/sketch-update-validation.png"
-      }
-    }
+    "percentageFormatted": "0.5532%"
   },
   {
     "folder": "cim-lines-and-polygons",
@@ -1462,11 +1014,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.005484497088538297,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/cim-lines-and-polygons.png"
-      }
-    }
+    "percentageFormatted": "0.5484%"
   },
   {
     "folder": "layers-pointcloud-color-modulation",
@@ -1475,11 +1023,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0053241316765927325,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-pointcloud-color-modulation.png"
-      }
-    }
+    "percentageFormatted": "0.5324%"
   },
   {
     "folder": "layers-feature-sort-order",
@@ -1488,11 +1032,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.005272151163755205,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-feature-sort-order.png"
-      }
-    }
+    "percentageFormatted": "0.5272%"
   },
   {
     "folder": "featureeffect-geometry",
@@ -1501,11 +1041,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.005240078081366092,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featureeffect-geometry.png"
-      }
-    }
+    "percentageFormatted": "0.524%"
   },
   {
     "folder": "visualization-realistic-water",
@@ -1514,11 +1050,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.005237866144649601,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-realistic-water.png"
-      }
-    }
+    "percentageFormatted": "0.5238%"
   },
   {
     "folder": "overview-map",
@@ -1527,11 +1059,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.005153812549422961,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/overview-map.png"
-      }
-    }
+    "percentageFormatted": "0.5154%"
   },
   {
     "folder": "popuptemplate-arcade",
@@ -1540,11 +1068,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.005086348479569999,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popuptemplate-arcade.png"
-      }
-    }
+    "percentageFormatted": "0.5086%"
   },
   {
     "folder": "editing-featureform-fieldvisibility",
@@ -1553,11 +1077,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00502552021986651,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/editing-featureform-fieldvisibility.png"
-      }
-    }
+    "percentageFormatted": "0.5026%"
   },
   {
     "folder": "widgets-swipe-scroll",
@@ -1566,11 +1086,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.005015566504642302,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-swipe-scroll.png"
-      }
-    }
+    "percentageFormatted": "0.5016%"
   },
   {
     "folder": "layers-kml",
@@ -1579,11 +1095,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.004866260776279191,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-kml.png"
-      }
-    }
+    "percentageFormatted": "0.4866%"
   },
   {
     "folder": "visualization-vv-opacity",
@@ -1592,11 +1104,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.004734650541648003,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-vv-opacity.png"
-      }
-    }
+    "percentageFormatted": "0.4735%"
   },
   {
     "folder": "webstylesymbol-proportional-2d",
@@ -1605,11 +1113,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00457649706641893,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/webstylesymbol-proportional-2d.png"
-      }
-    }
+    "percentageFormatted": "0.4576%"
   },
   {
     "folder": "webscene-slides",
@@ -1618,11 +1122,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.004568755287911213,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/webscene-slides.png"
-      }
-    }
+    "percentageFormatted": "0.4569%"
   },
   {
     "folder": "featurelayer-query-basic",
@@ -1631,11 +1131,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.004522304616864911,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurelayer-query-basic.png"
-      }
-    }
+    "percentageFormatted": "0.4522%"
   },
   {
     "folder": "scene-toggle-elevation",
@@ -1644,11 +1140,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.004342031774470932,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/scene-toggle-elevation.png"
-      }
-    }
+    "percentageFormatted": "0.4342%"
   },
   {
     "folder": "scene-easy-navigate",
@@ -1657,11 +1149,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.004273461736259726,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/scene-easy-navigate.png"
-      }
-    }
+    "percentageFormatted": "0.4273%"
   },
   {
     "folder": "webscene-save",
@@ -1670,11 +1158,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.004194937982824312,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/webscene-save.png"
-      }
-    }
+    "percentageFormatted": "0.4195%"
   },
   {
     "folder": "layers-imagerytilelayer",
@@ -1683,11 +1167,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00419051410939133,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagerytilelayer.png"
-      }
-    }
+    "percentageFormatted": "0.4191%"
   },
   {
     "folder": "popuptemplate-arcade-groupby",
@@ -1696,11 +1176,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.004060009843118388,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popuptemplate-arcade-groupby.png"
-      }
-    }
+    "percentageFormatted": "0.406%"
   },
   {
     "folder": "geoprocessing-hotspot",
@@ -1709,11 +1185,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.004058903874760143,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/geoprocessing-hotspot.png"
-      }
-    }
+    "percentageFormatted": "0.4059%"
   },
   {
     "folder": "event-explorer",
@@ -1722,11 +1194,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0040456322544612,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/event-explorer.png"
-      }
-    }
+    "percentageFormatted": "0.4046%"
   },
   {
     "folder": "widgets-histogram",
@@ -1735,11 +1203,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0038742071589331828,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-histogram.png"
-      }
-    }
+    "percentageFormatted": "0.3874%"
   },
   {
     "folder": "widgets-timeslider-offset",
@@ -1748,11 +1212,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0037337491774360335,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-timeslider-offset.png"
-      }
-    }
+    "percentageFormatted": "0.3734%"
   },
   {
     "folder": "widgets-search-customsource",
@@ -1761,11 +1221,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.003487118233547338,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-search-customsource.png"
-      }
-    }
+    "percentageFormatted": "0.3487%"
   },
   {
     "folder": "widgets-directions",
@@ -1774,11 +1230,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0034826943601143573,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-directions.png"
-      }
-    }
+    "percentageFormatted": "0.3483%"
   },
   {
     "folder": "widgets-print",
@@ -1787,11 +1239,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.003293573770854416,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-print.png"
-      }
-    }
+    "percentageFormatted": "0.3294%"
   },
   {
     "folder": "popuptemplate-arcade-expression-content",
@@ -1800,11 +1248,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0032227917959267187,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popuptemplate-arcade-expression-content.png"
-      }
-    }
+    "percentageFormatted": "0.3223%"
   },
   {
     "folder": "layers-wcslayer",
@@ -1813,11 +1257,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.0031575396627902476,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-wcslayer.png"
-      }
-    }
+    "percentageFormatted": "0.3158%"
   },
   {
     "folder": "custom-gl-visuals",
@@ -1826,11 +1266,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0031166188335351726,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/custom-gl-visuals.png"
-      }
-    }
+    "percentageFormatted": "0.3117%"
   },
   {
     "folder": "widgets-bookmarks",
@@ -1839,11 +1275,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0030745920359218524,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-bookmarks.png"
-      }
-    }
+    "percentageFormatted": "0.3075%"
   },
   {
     "folder": "widgets-measurement",
@@ -1852,11 +1284,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0030336712066667774,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-measurement.png"
-      }
-    }
+    "percentageFormatted": "0.3034%"
   },
   {
     "folder": "visualization-vv-color",
@@ -1865,11 +1293,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.003003810060994155,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-vv-color.png"
-      }
-    }
+    "percentageFormatted": "0.3004%"
   },
   {
     "folder": "popup-custom-action",
@@ -1878,11 +1302,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0029451937380071554,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popup-custom-action.png"
-      }
-    }
+    "percentageFormatted": "0.2945%"
   },
   {
     "folder": "sceneview-memory",
@@ -1891,11 +1311,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.002905378877110326,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/sceneview-memory.png"
-      }
-    }
+    "percentageFormatted": "0.2905%"
   },
   {
     "folder": "layers-featurelayer-collection-edits",
@@ -1904,11 +1320,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.002774874610837384,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-featurelayer-collection-edits.png"
-      }
-    }
+    "percentageFormatted": "0.2775%"
   },
   {
     "folder": "visualization-trees-2d",
@@ -1917,11 +1329,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0026576419648633855,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-trees-2d.png"
-      }
-    }
+    "percentageFormatted": "0.2658%"
   },
   {
     "folder": "route",
@@ -1930,11 +1338,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0026410524394897064,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/route.png"
-      }
-    }
+    "percentageFormatted": "0.2641%"
   },
   {
     "folder": "popup-actions",
@@ -1943,11 +1347,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.002547045129038858,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popup-actions.png"
-      }
-    }
+    "percentageFormatted": "0.2547%"
   },
   {
     "folder": "widgets-coordinateconversion",
@@ -1956,11 +1356,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.002533773508739915,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-coordinateconversion.png"
-      }
-    }
+    "percentageFormatted": "0.2534%"
   },
   {
     "folder": "layers-scenelayer-edges",
@@ -1969,11 +1365,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.002509442204858519,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-scenelayer-edges.png"
-      }
-    }
+    "percentageFormatted": "0.2509%"
   },
   {
     "folder": "intro-effect-layer",
@@ -1982,11 +1374,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.002256175450820352,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/intro-effect-layer.png"
-      }
-    }
+    "percentageFormatted": "0.2256%"
   },
   {
     "folder": "visualization-vv-color-animate",
@@ -1995,11 +1383,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.002244009798879654,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-vv-color-animate.png"
-      }
-    }
+    "percentageFormatted": "0.2244%"
   },
   {
     "folder": "view-breakpoints",
@@ -2008,11 +1392,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.0021356248997716175,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/view-breakpoints.png"
-      }
-    }
+    "percentageFormatted": "0.2136%"
   },
   {
     "folder": "featurelayerview-query-geometry",
@@ -2021,11 +1401,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0020947040705165424,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurelayerview-query-geometry.png"
-      }
-    }
+    "percentageFormatted": "0.2095%"
   },
   {
     "folder": "layers-scenelayer",
@@ -2034,11 +1410,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0018580268418520547,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-scenelayer.png"
-      }
-    }
+    "percentageFormatted": "0.1858%"
   },
   {
     "folder": "scene-shadow",
@@ -2047,11 +1419,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0017607016263264709,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/scene-shadow.png"
-      }
-    }
+    "percentageFormatted": "0.1761%"
   },
   {
     "folder": "visualization-update-data",
@@ -2060,11 +1428,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.001757383721251735,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-update-data.png"
-      }
-    }
+    "percentageFormatted": "0.1757%"
   },
   {
     "folder": "layers-hosted-imagerytilelayer-landcover",
@@ -2073,11 +1437,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.001728628543937358,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-hosted-imagerytilelayer-landcover.png"
-      }
-    }
+    "percentageFormatted": "0.1729%"
   },
   {
     "folder": "labels-basic",
@@ -2086,11 +1446,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0017197807970713958,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/labels-basic.png"
-      }
-    }
+    "percentageFormatted": "0.172%"
   },
   {
     "folder": "layers-voxel",
@@ -2099,11 +1455,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0016246675182623024,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-voxel.png"
-      }
-    }
+    "percentageFormatted": "0.1625%"
   },
   {
     "folder": "layers-scenelayerview-query",
@@ -2112,11 +1464,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0015848526573654727,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-scenelayerview-query.png"
-      }
-    }
+    "percentageFormatted": "0.1585%"
   },
   {
     "folder": "widgets-measurement-2d",
@@ -2125,11 +1473,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0015782168472160013,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-measurement-2d.png"
-      }
-    }
+    "percentageFormatted": "0.1578%"
   },
   {
     "folder": "visualization-sm-color-mesh",
@@ -2138,11 +1482,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0014366528973606065,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-color-mesh.png"
-      }
-    }
+    "percentageFormatted": "0.1437%"
   },
   {
     "folder": "popup-docking-position",
@@ -2151,11 +1491,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.001422275308703418,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popup-docking-position.png"
-      }
-    }
+    "percentageFormatted": "0.1422%"
   },
   {
     "folder": "visualization-sm-classbreaks",
@@ -2164,11 +1500,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0013426455869097586,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-classbreaks.png"
-      }
-    }
+    "percentageFormatted": "0.1343%"
   },
   {
     "folder": "client-projection",
@@ -2177,11 +1509,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0012298368143687408,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/client-projection.png"
-      }
-    }
+    "percentageFormatted": "0.123%"
   },
   {
     "folder": "layers-mapnoteslayer",
@@ -2190,11 +1518,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0011723264597399868,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-mapnoteslayer.png"
-      }
-    }
+    "percentageFormatted": "0.1172%"
   },
   {
     "folder": "styling-simple-theme",
@@ -2203,11 +1527,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0011513130609333267,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/styling-simple-theme.png"
-      }
-    }
+    "percentageFormatted": "0.1151%"
   },
   {
     "folder": "timeslider-filter",
@@ -2216,11 +1536,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.001111498200036497,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/timeslider-filter.png"
-      }
-    }
+    "percentageFormatted": "0.1111%"
   },
   {
     "folder": "layers-scenelayerview-query-stats",
@@ -2229,11 +1545,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.001058411718840724,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-scenelayerview-query-stats.png"
-      }
-    }
+    "percentageFormatted": "0.1058%"
   },
   {
     "folder": "sketch-geometries",
@@ -2242,11 +1554,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0010528818770494976,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/sketch-geometries.png"
-      }
-    }
+    "percentageFormatted": "0.1053%"
   },
   {
     "folder": "views-synchronize",
@@ -2255,11 +1563,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0010362923516758185,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/views-synchronize.png"
-      }
-    }
+    "percentageFormatted": "0.1036%"
   },
   {
     "folder": "styling-themes",
@@ -2268,11 +1572,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0009599805349568949,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/styling-themes.png"
-      }
-    }
+    "percentageFormatted": "0.096%"
   },
   {
     "folder": "elevation-query",
@@ -2281,11 +1581,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0009301193892842725,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/elevation-query.png"
-      }
-    }
+    "percentageFormatted": "0.09301%"
   },
   {
     "folder": "visualization-location-types",
@@ -2294,11 +1590,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0009124238955523482,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-location-types.png"
-      }
-    }
+    "percentageFormatted": "0.09124%"
   },
   {
     "folder": "views-composite-views",
@@ -2307,11 +1599,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0008029330280860665,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/views-composite-views.png"
-      }
-    }
+    "percentageFormatted": "0.08029%"
   },
   {
     "folder": "layers-mapimagelayer-renderers",
@@ -2320,11 +1608,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0007996151230113307,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-mapimagelayer-renderers.png"
-      }
-    }
+    "percentageFormatted": "0.07996%"
   },
   {
     "folder": "intro-popup",
@@ -2333,11 +1617,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0007620121988309914,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/intro-popup.png"
-      }
-    }
+    "percentageFormatted": "0.0762%"
   },
   {
     "folder": "layers-vectortilelayer-style",
@@ -2346,11 +1626,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0006691108567383887,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-vectortilelayer-style.png"
-      }
-    }
+    "percentageFormatted": "0.06691%"
   },
   {
     "folder": "layers-scenelayer-feature-masking",
@@ -2359,11 +1635,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0006337198692745401,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-scenelayer-feature-masking.png"
-      }
-    }
+    "percentageFormatted": "0.06337%"
   },
   {
     "folder": "layers-csv-projection",
@@ -2372,11 +1644,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0006215542173338421,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-csv-projection.png"
-      }
-    }
+    "percentageFormatted": "0.06216%"
   },
   {
     "folder": "visualization-location-simple",
@@ -2385,11 +1653,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.03125,
     "percentage": 0.0006027527552436725,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-location-simple.png"
-      }
-    }
+    "percentageFormatted": "0.06028%"
   },
   {
     "folder": "webmap-swap",
@@ -2398,11 +1662,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0006027527552436725,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/webmap-swap.png"
-      }
-    }
+    "percentageFormatted": "0.06028%"
   },
   {
     "folder": "visualization-vv-size",
@@ -2411,11 +1671,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.0005972229134524462,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-vv-size.png"
-      }
-    }
+    "percentageFormatted": "0.05972%"
   },
   {
     "folder": "widgets-compass-2d",
@@ -2424,11 +1680,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0005784214513622765,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-compass-2d.png"
-      }
-    }
+    "percentageFormatted": "0.05784%"
   },
   {
     "folder": "sceneview-screenshot",
@@ -2437,11 +1689,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0005330767486742204,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/sceneview-screenshot.png"
-      }
-    }
+    "percentageFormatted": "0.05331%"
   },
   {
     "folder": "import-gltf",
@@ -2450,11 +1698,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0004965797928521265,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/import-gltf.png"
-      }
-    }
+    "percentageFormatted": "0.04966%"
   },
   {
     "folder": "scene-elevationinfo",
@@ -2463,11 +1707,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0004468112167310893,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/scene-elevationinfo.png"
-      }
-    }
+    "percentageFormatted": "0.04468%"
   },
   {
     "folder": "layers-custom-dynamiclayer",
@@ -2476,11 +1716,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00044238734329810823,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-custom-dynamiclayer.png"
-      }
-    }
+    "percentageFormatted": "0.04424%"
   },
   {
     "folder": "visualization-heatmap-scale",
@@ -2489,11 +1725,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0004390694382233724,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-heatmap-scale.png"
-      }
-    }
+    "percentageFormatted": "0.04391%"
   },
   {
     "folder": "webmap-basic",
@@ -2502,11 +1734,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00042026797613320285,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/webmap-basic.png"
-      }
-    }
+    "percentageFormatted": "0.04203%"
   },
   {
     "folder": "widgets-elevation-profile",
@@ -2515,11 +1743,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00040367845075952376,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-elevation-profile.png"
-      }
-    }
+    "percentageFormatted": "0.04037%"
   },
   {
     "folder": "draw-line",
@@ -2528,11 +1752,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0003992545773265427,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/draw-line.png"
-      }
-    }
+    "percentageFormatted": "0.03993%"
   },
   {
     "folder": "widgets-track-basic",
@@ -2541,11 +1761,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00037049940001216563,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-track-basic.png"
-      }
-    }
+    "percentageFormatted": "0.03705%"
   },
   {
     "folder": "blendmode-multiple-layers",
@@ -2554,11 +1770,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00035943971642971294,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/blendmode-multiple-layers.png"
-      }
-    }
+    "percentageFormatted": "0.03594%"
   },
   {
     "folder": "query-attachments",
@@ -2567,11 +1779,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00035280390628024134,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/query-attachments.png"
-      }
-    }
+    "percentageFormatted": "0.03528%"
   },
   {
     "folder": "layers-scenelayer-color-mix-mode",
@@ -2580,11 +1788,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00032515469732410956,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-scenelayer-color-mix-mode.png"
-      }
-    }
+    "percentageFormatted": "0.03252%"
   },
   {
     "folder": "sceneview-hittest",
@@ -2593,11 +1797,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00027206821612833657,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/sceneview-hittest.png"
-      }
-    }
+    "percentageFormatted": "0.02721%"
   },
   {
     "folder": "building-scene-layer-slice",
@@ -2606,11 +1806,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0002709622477700913,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/building-scene-layer-slice.png"
-      }
-    }
+    "percentageFormatted": "0.0271%"
   },
   {
     "folder": "sketch-3d",
@@ -2619,11 +1815,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.0002587965958293933,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/sketch-3d.png"
-      }
-    }
+    "percentageFormatted": "0.02588%"
   },
   {
     "folder": "popup-domnode",
@@ -2632,11 +1824,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00021455786149958249,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popup-domnode.png"
-      }
-    }
+    "percentageFormatted": "0.02146%"
   },
   {
     "folder": "widgets-coordinateconversion-custom",
@@ -2645,11 +1833,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00020792205135011088,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-coordinateconversion-custom.png"
-      }
-    }
+    "percentageFormatted": "0.02079%"
   },
   {
     "folder": "widgets-shadow-cast",
@@ -2658,11 +1842,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00020128624120063925,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-shadow-cast.png"
-      }
-    }
+    "percentageFormatted": "0.02013%"
   },
   {
     "folder": "view-padding",
@@ -2671,11 +1851,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00019796833612590345,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/view-padding.png"
-      }
-    }
+    "percentageFormatted": "0.0198%"
   },
   {
     "folder": "visualization-sm-uni-colorsize",
@@ -2684,11 +1860,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00017031912716977167,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-uni-colorsize.png"
-      }
-    }
+    "percentageFormatted": "0.01703%"
   },
   {
     "folder": "widgets-floorfilter",
@@ -2697,11 +1869,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00016147138030380952,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-floorfilter.png"
-      }
-    }
+    "percentageFormatted": "0.01615%"
   },
   {
     "folder": "scene-local",
@@ -2710,11 +1878,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00013824604478065883,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/scene-local.png"
-      }
-    }
+    "percentageFormatted": "0.01382%"
   },
   {
     "folder": "building-scene-layer-filter",
@@ -2723,11 +1887,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00013492813970592302,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/building-scene-layer-filter.png"
-      }
-    }
+    "percentageFormatted": "0.01349%"
   },
   {
     "folder": "widgets-frameworks-react",
@@ -2736,11 +1896,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00012497442448171556,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-frameworks-react.png"
-      }
-    }
+    "percentageFormatted": "0.0125%"
   },
   {
     "folder": "chaining-promises",
@@ -2749,11 +1905,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0001238684561234703,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/chaining-promises.png"
-      }
-    }
+    "percentageFormatted": "0.01239%"
   },
   {
     "folder": "featurelayerview-query-stats",
@@ -2762,11 +1914,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00011833861433224396,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurelayerview-query-stats.png"
-      }
-    }
+    "percentageFormatted": "0.01183%"
   },
   {
     "folder": "layers-custom-elevation-thematic",
@@ -2775,11 +1923,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00011502070925750815,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-custom-elevation-thematic.png"
-      }
-    }
+    "percentageFormatted": "0.0115%"
   },
   {
     "folder": "graphics-basic-3d",
@@ -2788,11 +1932,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00011059683582452706,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/graphics-basic-3d.png"
-      }
-    }
+    "percentageFormatted": "0.01106%"
   },
   {
     "folder": "featurelayer-queryextent",
@@ -2801,11 +1941,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.00009843118388382908,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurelayer-queryextent.png"
-      }
-    }
+    "percentageFormatted": "0.009843%"
   },
   {
     "folder": "intro-mapview",
@@ -2814,11 +1950,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00007299391164418786,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/intro-mapview.png"
-      }
-    }
+    "percentageFormatted": "0.007299%"
   },
   {
     "folder": "view-disable-rotation",
@@ -2827,11 +1959,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00007299391164418786,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/view-disable-rotation.png"
-      }
-    }
+    "percentageFormatted": "0.007299%"
   },
   {
     "folder": "intro-layers",
@@ -2840,11 +1968,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00006857003821120677,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/intro-layers.png"
-      }
-    }
+    "percentageFormatted": "0.006857%"
   },
   {
     "folder": "widgets-feature",
@@ -2853,11 +1977,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00006193422806173515,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-feature.png"
-      }
-    }
+    "percentageFormatted": "0.006193%"
   },
   {
     "folder": "layers-mapimagelayer",
@@ -2866,11 +1986,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00005529841791226353,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-mapimagelayer.png"
-      }
-    }
+    "percentageFormatted": "0.00553%"
   },
   {
     "folder": "layers-mapimagelayer-definitionexpression",
@@ -2879,11 +1995,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00005198051283752772,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-mapimagelayer-definitionexpression.png"
-      }
-    }
+    "percentageFormatted": "0.005198%"
   },
   {
     "folder": "cim-symbols",
@@ -2892,11 +2004,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00005087454447928245,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/cim-symbols.png"
-      }
-    }
+    "percentageFormatted": "0.005087%"
   },
   {
     "folder": "labels-multiline",
@@ -2905,11 +2013,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000048662607762791905,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/labels-multiline.png"
-      }
-    }
+    "percentageFormatted": "0.004866%"
   },
   {
     "folder": "widgets-feature-multiplelayers",
@@ -2918,11 +2022,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000047556639404546633,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-feature-multiplelayers.png"
-      }
-    }
+    "percentageFormatted": "0.004756%"
   },
   {
     "folder": "layers-subtypegrouplayer",
@@ -2931,11 +2031,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00003649695582209393,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-subtypegrouplayer.png"
-      }
-    }
+    "percentageFormatted": "0.00365%"
   },
   {
     "folder": "widgets-basemapgallery",
@@ -2944,11 +2040,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00003539098746384866,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-basemapgallery.png"
-      }
-    }
+    "percentageFormatted": "0.003539%"
   },
   {
     "folder": "intro-blendmode-layer",
@@ -2957,11 +2049,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00003207308238911285,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/intro-blendmode-layer.png"
-      }
-    }
+    "percentageFormatted": "0.003207%"
   },
   {
     "folder": "geometry-mesh-primitives",
@@ -2970,11 +2058,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0.00003096711403086758,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/geometry-mesh-primitives.png"
-      }
-    }
+    "percentageFormatted": "0.003097%"
   },
   {
     "folder": "cim-line-arrows",
@@ -2983,11 +2067,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00003096711403086758,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/cim-line-arrows.png"
-      }
-    }
+    "percentageFormatted": "0.003097%"
   },
   {
     "folder": "layers-webtile-3d",
@@ -2996,11 +2076,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00003096711403086758,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-webtile-3d.png"
-      }
-    }
+    "percentageFormatted": "0.003097%"
   },
   {
     "folder": "webscene-slide-tour",
@@ -3009,11 +2085,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000029861145672622305,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/webscene-slide-tour.png"
-      }
-    }
+    "percentageFormatted": "0.002986%"
   },
   {
     "folder": "query",
@@ -3022,11 +2094,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000026543240597886493,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/query.png"
-      }
-    }
+    "percentageFormatted": "0.002654%"
   },
   {
     "folder": "widgets-layerlist-actions",
@@ -3035,11 +2103,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000024331303881395953,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-layerlist-actions.png"
-      }
-    }
+    "percentageFormatted": "0.002433%"
   },
   {
     "folder": "layers-vectortilelayer-json",
@@ -3048,11 +2112,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000022119367164905412,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-vectortilelayer-json.png"
-      }
-    }
+    "percentageFormatted": "0.002212%"
   },
   {
     "folder": "intro-widgets",
@@ -3061,11 +2121,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000019907430448414872,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/intro-widgets.png"
-      }
-    }
+    "percentageFormatted": "0.001991%"
   },
   {
     "folder": "sceneview-underground",
@@ -3074,11 +2130,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000019907430448414872,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/sceneview-underground.png"
-      }
-    }
+    "percentageFormatted": "0.001991%"
   },
   {
     "folder": "widgets-locate",
@@ -3087,11 +2139,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000019907430448414872,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-locate.png"
-      }
-    }
+    "percentageFormatted": "0.001991%"
   },
   {
     "folder": "featureeffect-drop-shadow",
@@ -3100,11 +2148,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0000188014620901696,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featureeffect-drop-shadow.png"
-      }
-    }
+    "percentageFormatted": "0.00188%"
   },
   {
     "folder": "visualization-sm-size-themes",
@@ -3113,11 +2157,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0000188014620901696,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-size-themes.png"
-      }
-    }
+    "percentageFormatted": "0.00188%"
   },
   {
     "folder": "intro-sceneview",
@@ -3126,11 +2166,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.00001769549373192433,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/intro-sceneview.png"
-      }
-    }
+    "percentageFormatted": "0.00177%"
   },
   {
     "folder": "layers-osm-3d",
@@ -3139,11 +2175,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000014377588657188518,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-osm-3d.png"
-      }
-    }
+    "percentageFormatted": "0.001438%"
   },
   {
     "folder": "scene-goto",
@@ -3152,11 +2184,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000014377588657188518,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/scene-goto.png"
-      }
-    }
+    "percentageFormatted": "0.001438%"
   },
   {
     "folder": "effect-blur-shadow",
@@ -3165,11 +2193,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000012165651940697976,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/effect-blur-shadow.png"
-      }
-    }
+    "percentageFormatted": "0.001217%"
   },
   {
     "folder": "visualization-histogram-color",
@@ -3178,11 +2202,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000012165651940697976,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-histogram-color.png"
-      }
-    }
+    "percentageFormatted": "0.001217%"
   },
   {
     "folder": "blendmode-grouplayer",
@@ -3191,11 +2211,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000011059683582452706,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/blendmode-grouplayer.png"
-      }
-    }
+    "percentageFormatted": "0.001106%"
   },
   {
     "folder": "layers-wfs",
@@ -3204,11 +2220,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000011059683582452706,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-wfs.png"
-      }
-    }
+    "percentageFormatted": "0.001106%"
   },
   {
     "folder": "widgets-home",
@@ -3217,11 +2229,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000009953715224207436,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-home.png"
-      }
-    }
+    "percentageFormatted": "0.0009954%"
   },
   {
     "folder": "featurereduction-cluster-query",
@@ -3230,11 +2238,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000008847746865962164,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurereduction-cluster-query.png"
-      }
-    }
+    "percentageFormatted": "0.0008848%"
   },
   {
     "folder": "layers-imagery-coordinatesystem",
@@ -3243,11 +2247,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000008847746865962164,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagery-coordinatesystem.png"
-      }
-    }
+    "percentageFormatted": "0.0008848%"
   },
   {
     "folder": "layers-imagery-renderer",
@@ -3256,11 +2256,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000008847746865962164,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagery-renderer.png"
-      }
-    }
+    "percentageFormatted": "0.0008848%"
   },
   {
     "folder": "widgets-search-3d",
@@ -3269,11 +2265,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000008847746865962164,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-search-3d.png"
-      }
-    }
+    "percentageFormatted": "0.0008848%"
   },
   {
     "folder": "ge-geodesicbuffer",
@@ -3282,11 +2274,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000007741778507716894,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/ge-geodesicbuffer.png"
-      }
-    }
+    "percentageFormatted": "0.0007742%"
   },
   {
     "folder": "scene-webgl-support",
@@ -3295,11 +2283,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000006635810149471623,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/scene-webgl-support.png"
-      }
-    }
+    "percentageFormatted": "0.0006636%"
   },
   {
     "folder": "identify",
@@ -3308,11 +2292,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000005529841791226353,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/identify.png"
-      }
-    }
+    "percentageFormatted": "0.000553%"
   },
   {
     "folder": "visualization-sm-color",
@@ -3321,11 +2301,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000005529841791226353,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-sm-color.png"
-      }
-    }
+    "percentageFormatted": "0.000553%"
   },
   {
     "folder": "widgets-expand",
@@ -3334,11 +2310,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000005529841791226353,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-expand.png"
-      }
-    }
+    "percentageFormatted": "0.000553%"
   },
   {
     "folder": "featurereduction-cluster-popup-filter",
@@ -3347,11 +2319,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000004423873432981082,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurereduction-cluster-popup-filter.png"
-      }
-    }
+    "percentageFormatted": "0.0004424%"
   },
   {
     "folder": "layers-dynamicdatalayer-query-table",
@@ -3360,11 +2328,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000004423873432981082,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-dynamicdatalayer-query-table.png"
-      }
-    }
+    "percentageFormatted": "0.0004424%"
   },
   {
     "folder": "layers-wmts-sublayers",
@@ -3373,11 +2337,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000004423873432981082,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-wmts-sublayers.png"
-      }
-    }
+    "percentageFormatted": "0.0004424%"
   },
   {
     "folder": "layers-georss",
@@ -3386,11 +2346,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0000033179050747358116,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-georss.png"
-      }
-    }
+    "percentageFormatted": "0.0003318%"
   },
   {
     "folder": "popup-customcontent",
@@ -3399,11 +2355,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0000033179050747358116,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popup-customcontent.png"
-      }
-    }
+    "percentageFormatted": "0.0003318%"
   },
   {
     "folder": "layers-portal",
@@ -3412,11 +2364,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.000002211936716490541,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-portal.png"
-      }
-    }
+    "percentageFormatted": "0.0002212%"
   },
   {
     "folder": "featurefilter-attributes",
@@ -3425,11 +2373,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0000011059683582452705,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurefilter-attributes.png"
-      }
-    }
+    "percentageFormatted": "0.0001106%"
   },
   {
     "folder": "featurereduction-cluster-popup-chart",
@@ -3438,11 +2382,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0000011059683582452705,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurereduction-cluster-popup-chart.png"
-      }
-    }
+    "percentageFormatted": "0.0001106%"
   },
   {
     "folder": "simple-ui",
@@ -3451,11 +2391,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0000011059683582452705,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/simple-ui.png"
-      }
-    }
+    "percentageFormatted": "0.0001106%"
   },
   {
     "folder": "widgets-featuretable-popup-interaction",
@@ -3464,11 +2400,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0000011059683582452705,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-featuretable-popup-interaction.png"
-      }
-    }
+    "percentageFormatted": "0.0001106%"
   },
   {
     "folder": "layers-vectortilelayer",
@@ -3477,11 +2409,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-vectortilelayer.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "analysis-area-measurement",
@@ -3490,11 +2418,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/analysis-area-measurement.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "analysis-objects",
@@ -3503,11 +2427,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/analysis-objects.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "animation-layer-visibility",
@@ -3516,11 +2436,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/animation-layer-visibility.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "custom-gl-tessellation-helpers",
@@ -3529,11 +2445,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/custom-gl-tessellation-helpers.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "custom-gl-tiles",
@@ -3542,11 +2454,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/custom-gl-tiles.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "custom-lv-masking",
@@ -3555,11 +2463,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/custom-lv-masking.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "editing-groupedfeatureform",
@@ -3568,11 +2472,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/editing-groupedfeatureform.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "featureeffect-layers-histogram",
@@ -3581,11 +2481,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featureeffect-layers-histogram.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "featurelayerview-query-aggregate",
@@ -3594,11 +2490,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/featurelayerview-query-aggregate.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "find",
@@ -3607,11 +2499,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/find.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "highlight-features-by-geometry",
@@ -3620,11 +2508,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/highlight-features-by-geometry.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "identity-oauth-basic",
@@ -3633,11 +2517,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/identity-oauth-basic.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "intro-graphics",
@@ -3646,11 +2526,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/intro-graphics.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "layers-custom-blendlayer",
@@ -3659,11 +2535,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-custom-blendlayer.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "layers-custom-lerc-2d",
@@ -3672,11 +2544,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-custom-lerc-2d.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "layers-dynamicdatalayer-raster",
@@ -3685,11 +2553,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-dynamicdatalayer-raster.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "layers-featurelayer-collection",
@@ -3698,11 +2562,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-featurelayer-collection.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "layers-featurelayer-shapefile",
@@ -3711,11 +2571,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-featurelayer-shapefile.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "layers-imagery-attribute-table",
@@ -3724,11 +2580,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagery-attribute-table.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "layers-imagery-pixelvalues",
@@ -3737,11 +2589,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagery-pixelvalues.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "layers-imagery-renderingrule",
@@ -3750,11 +2598,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagery-renderingrule.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "layers-imagerylayer",
@@ -3763,11 +2607,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-imagerylayer.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "layers-mapimagelayer-dynamic-labels",
@@ -3776,11 +2616,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-mapimagelayer-dynamic-labels.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "layers-mapimagelayer-sublayers",
@@ -3789,11 +2625,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-mapimagelayer-sublayers.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "layers-routelayer",
@@ -3802,11 +2634,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-routelayer.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "layers-scenelayer-points",
@@ -3815,11 +2643,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-scenelayer-points.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "layers-streamlayer",
@@ -3828,11 +2652,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-streamlayer.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "layers-wmts",
@@ -3841,11 +2661,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/layers-wmts.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "playground",
@@ -3854,11 +2670,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/playground.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "popup-multipleelements",
@@ -3867,11 +2679,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popup-multipleelements.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "popuptemplate-function",
@@ -3880,11 +2688,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popuptemplate-function.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "popuptemplate-promise",
@@ -3893,11 +2697,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/popuptemplate-promise.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "portalitem-dragndrop",
@@ -3906,11 +2706,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/portalitem-dragndrop.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "query-related-features",
@@ -3919,11 +2715,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/query-related-features.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "request",
@@ -3932,11 +2724,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/request.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "scene-elevationlayer",
@@ -3945,11 +2733,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/scene-elevationlayer.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "styling-icon-fonts",
@@ -3958,11 +2742,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/styling-icon-fonts.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "view-disable-zoom",
@@ -3971,11 +2751,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/view-disable-zoom.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "view-hittest",
@@ -3984,11 +2760,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/view-hittest.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "visualization-heatmap-scene",
@@ -3997,11 +2769,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-heatmap-scene.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "visualization-line-markers",
@@ -4010,11 +2778,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/visualization-line-markers.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "watch-for-changes-reactiveutils",
@@ -4023,11 +2787,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/watch-for-changes-reactiveutils.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "webmap-save",
@@ -4036,11 +2796,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/webmap-save.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "widgets-custom-widget",
@@ -4049,11 +2805,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-custom-widget.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "widgets-scalebar",
@@ -4062,11 +2814,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-scalebar.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "widgets-search-multiplesource",
@@ -4075,11 +2823,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-search-multiplesource.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "widgets-swipe",
@@ -4088,11 +2832,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-swipe.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "widgets-tablelist",
@@ -4101,11 +2841,7 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-tablelist.png"
-      }
-    }
+    "percentageFormatted": "0%"
   },
   {
     "folder": "widgets-untrace",
@@ -4114,10 +2850,6 @@
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0,
-    "screenshot": {
-      "source": {
-        "difference": "%ROOT_REPO%/build-screenshots/images/difference/widgets-untrace.png"
-      }
-    }
+    "percentageFormatted": "0%"
   }
 ]
