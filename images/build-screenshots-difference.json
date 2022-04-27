@@ -4,7 +4,7 @@
   "previousTotal": 317,
   "currentTotal": 317,
   "differenceTotal": 317,
-  "retakeScript": "npm run screenshot -- --skip-thumbnails --samples=layers-integratedmeshlayer-modification,layers-integratedmeshlayer,layers-imagery-afrenderer,layers-imagery-clientside,visualization-sm-sublayer,visualization-dictionary,layers-ogcfeaturelayer,widgets-frameworks-vue,widgets-editor-basic,widgets-layerlist,widgets-daylight,basemaps-portal,layers-csv --name=next.sites.afd.arcgis.com",
+  "retakeScript": "grunt createSampleCodeScreenshots --skip-thumbnails --samples=layers-integratedmeshlayer-modification,layers-integratedmeshlayer,layers-imagery-afrenderer,layers-imagery-clientside,visualization-sm-sublayer,visualization-dictionary,layers-ogcfeaturelayer,widgets-frameworks-vue,widgets-editor-basic,widgets-layerlist,widgets-daylight,basemaps-portal,layers-csv --name=next.sites.afd.arcgis.com",
   "samplesList": [
     {
       "folder": "layers-imagery-afrenderer",
