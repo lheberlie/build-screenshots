@@ -50,7 +50,7 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.046875,
-    "percentage": 0.5959388841885234,
+    "percentage": 0.5959399901568816,
     "percentageFormatted": "59.59%"
   },
   {
@@ -63,22 +63,31 @@
     "percentageFormatted": "58.74%"
   },
   {
-    "folder": "webscene-basic",
-    "title": "Load a basic web scene",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.125,
-    "percentage": 0.5240343513772071,
-    "percentageFormatted": "52.4%"
-  },
-  {
     "folder": "layers-wcslayer",
     "title": "Intro to WCSLayer",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.109375,
-    "percentage": 0.48951486697965574,
-    "percentageFormatted": "48.95%"
+    "percentage": 0.5803148691915925,
+    "percentageFormatted": "58.03%"
+  },
+  {
+    "folder": "webscene-basic",
+    "title": "Load a basic web scene",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.125,
+    "percentage": 0.5240354573455653,
+    "percentageFormatted": "52.4%"
+  },
+  {
+    "folder": "widgets-editor-basic",
+    "title": "Edit features with the Editor widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.09375,
+    "percentage": 0.5167205826241311,
+    "percentageFormatted": "51.67%"
   },
   {
     "folder": "layers-integratedmeshlayer",
@@ -90,31 +99,13 @@
     "percentageFormatted": "44.92%"
   },
   {
-    "folder": "layers-imagery-pixelvalues",
-    "title": "ImageryLayer - client side pixel filter",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.09375,
-    "percentage": 0.4456200888092592,
-    "percentageFormatted": "44.56%"
-  },
-  {
-    "folder": "widgets-editor-basic",
-    "title": "Edit features with the Editor widget",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.109375,
-    "percentage": 0.4375022810597389,
-    "percentageFormatted": "43.75%"
-  },
-  {
     "folder": "widgets-daylight",
     "title": "Daylight widget",
     "matches": false,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.21875,
-    "percentage": 0.4180294961761144,
-    "percentageFormatted": "41.8%"
+    "distance": 0.203125,
+    "percentage": 0.4488041717126473,
+    "percentageFormatted": "44.88%"
   },
   {
     "folder": "watch-for-changes",
@@ -664,6 +655,15 @@
     "distance": 0.109375,
     "percentage": 0.0111547968612618,
     "percentageFormatted": "1.115%"
+  },
+  {
+    "folder": "layers-imagery-pixelvalues",
+    "title": "ImageryLayer - client side pixel filter",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.03125,
+    "percentage": 0.010800886986623313,
+    "percentageFormatted": "1.08%"
   },
   {
     "folder": "featurereduction-cluster-visualvariables",

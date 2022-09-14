@@ -4,7 +4,7 @@
   "previousTotal": 328,
   "currentTotal": 328,
   "differenceTotal": 328,
-  "retakeScript": "grunt createSampleCodeScreenshots --skip-thumbnails --samples=layers-integratedmeshlayer-modification,layers-pointcloud-color-modulation,layers-imagery-coordinatesystem,layers-imagery-pixelvalues,layers-integratedmeshlayer,layers-pointcloud-filters,widgets-editor-basic,custom-lv-masking,widgets-daylight,layers-wcslayer,webscene-basic,scene-weather,overview-map --name=next.sites.afd.arcgis.com",
+  "retakeScript": "grunt createSampleCodeScreenshots --skip-thumbnails --samples=layers-integratedmeshlayer-modification,layers-pointcloud-color-modulation,layers-imagery-coordinatesystem,layers-integratedmeshlayer,layers-pointcloud-filters,widgets-editor-basic,custom-lv-masking,widgets-daylight,layers-wcslayer,webscene-basic,scene-weather,overview-map --name=next.sites.afd.arcgis.com",
   "samplesList": [
     {
       "folder": "custom-lv-masking",
@@ -35,24 +35,20 @@
       "title": "IntegratedMeshLayer modification"
     },
     {
-      "folder": "webscene-basic",
-      "title": "Load a basic web scene"
-    },
-    {
       "folder": "layers-wcslayer",
       "title": "Intro to WCSLayer"
     },
     {
-      "folder": "layers-integratedmeshlayer",
-      "title": "IntegratedMeshLayer"
-    },
-    {
-      "folder": "layers-imagery-pixelvalues",
-      "title": "ImageryLayer - client side pixel filter"
+      "folder": "webscene-basic",
+      "title": "Load a basic web scene"
     },
     {
       "folder": "widgets-editor-basic",
       "title": "Edit features with the Editor widget"
+    },
+    {
+      "folder": "layers-integratedmeshlayer",
+      "title": "IntegratedMeshLayer"
     },
     {
       "folder": "widgets-daylight",
@@ -301,6 +297,10 @@
     {
       "folder": "visualization-location-simple",
       "title": "Visualize all features with the same symbol"
+    },
+    {
+      "folder": "layers-imagery-pixelvalues",
+      "title": "ImageryLayer - client side pixel filter"
     },
     {
       "folder": "featurereduction-cluster-visualvariables",
@@ -1324,24 +1324,26 @@
       "folder": "layers-pointcloud-filters",
       "screenshot": {
         "errors": [
+          "waitForResources - setTimeout - screenshot timeout exceeded 10000ms",
+          "waitForResources - setTimeout - screenshot timeout exceeded 10000ms",
           "waitForResources - setTimeout - screenshot timeout exceeded 10000ms"
         ],
         "screenshot_delay_ms": 10000,
         "source": "%ROOT_REPO%/build-screenshots/images/4.25/layers-pointcloud-filters.png",
         "metrics": {
-          "Timestamp": 1135955.683599,
+          "Timestamp": 1188104.72563,
           "Documents": 3,
           "Frames": 3,
           "JSEventListeners": 95,
           "Nodes": 283,
-          "LayoutCount": 22,
-          "RecalcStyleCount": 33,
-          "LayoutDuration": 0.009674,
-          "RecalcStyleDuration": 0.006808,
-          "ScriptDuration": 1.078395,
-          "TaskDuration": 1.776924,
-          "JSHeapUsedSize": 33073984,
-          "JSHeapTotalSize": 48201728
+          "LayoutCount": 23,
+          "RecalcStyleCount": 34,
+          "LayoutDuration": 0.010213,
+          "RecalcStyleDuration": 0.007756,
+          "ScriptDuration": 1.12029,
+          "TaskDuration": 1.817704,
+          "JSHeapUsedSize": 33771760,
+          "JSHeapTotalSize": 64192512
         },
         "browser": {
           "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
@@ -1355,24 +1357,28 @@
       "screenshot": {
         "errors": [
           "pageerror - Error: TypeError: Cannot read properties of undefined (reading 'type')\n    at https://jsdev.arcgis.com/4.25/esri/views/support/waitForResources.js:5:349\n    at pptr://__puppeteer_evaluation_script__:7:19\n    at kb (https://jsdev.arcgis.com/4.25/:23:283)\n    at https://jsdev.arcgis.com/4.25/:24:48\n    at cb (https://jsdev.arcgis.com/4.25/:23:409)\n    at gb (https://jsdev.arcgis.com/4.25/:23:485)\n    at Oa (https://jsdev.arcgis.com/4.25/:25:482)\n    at HTMLScriptElement.<anonymous> (https://jsdev.arcgis.com/4.25/:29:300)",
+          "waitForResources - setTimeout - screenshot timeout exceeded 10000ms",
+          "pageerror - Error: TypeError: Cannot read properties of undefined (reading 'type')\n    at https://jsdev.arcgis.com/4.25/esri/views/support/waitForResources.js:5:349\n    at pptr://__puppeteer_evaluation_script__:7:19\n    at kb (https://jsdev.arcgis.com/4.25/:23:283)\n    at https://jsdev.arcgis.com/4.25/:24:48\n    at cb (https://jsdev.arcgis.com/4.25/:23:409)\n    at gb (https://jsdev.arcgis.com/4.25/:23:485)\n    at Oa (https://jsdev.arcgis.com/4.25/:25:482)\n    at HTMLScriptElement.<anonymous> (https://jsdev.arcgis.com/4.25/:29:300)",
+          "waitForResources - setTimeout - screenshot timeout exceeded 10000ms",
+          "pageerror - Error: TypeError: Cannot read properties of undefined (reading 'type')\n    at https://jsdev.arcgis.com/4.25/esri/views/support/waitForResources.js:5:349\n    at pptr://__puppeteer_evaluation_script__:7:19\n    at kb (https://jsdev.arcgis.com/4.25/:23:283)\n    at https://jsdev.arcgis.com/4.25/:24:48\n    at cb (https://jsdev.arcgis.com/4.25/:23:409)\n    at gb (https://jsdev.arcgis.com/4.25/:23:485)\n    at Oa (https://jsdev.arcgis.com/4.25/:25:482)\n    at HTMLScriptElement.<anonymous> (https://jsdev.arcgis.com/4.25/:29:300)",
           "waitForResources - setTimeout - screenshot timeout exceeded 10000ms"
         ],
         "screenshot_delay_ms": 10000,
         "source": "%ROOT_REPO%/build-screenshots/images/4.25/layers-pointcloud-color-modulation.png",
         "metrics": {
-          "Timestamp": 1135939.316851,
+          "Timestamp": 1188087.994291,
           "Documents": 1,
           "Frames": 1,
-          "JSEventListeners": 613,
-          "Nodes": 251,
+          "JSEventListeners": 609,
+          "Nodes": 250,
           "LayoutCount": 18,
-          "RecalcStyleCount": 22,
-          "LayoutDuration": 0.008777,
-          "RecalcStyleDuration": 0.00631,
-          "ScriptDuration": 0.336283,
-          "TaskDuration": 0.559916,
-          "JSHeapUsedSize": 25560604,
-          "JSHeapTotalSize": 37978112
+          "RecalcStyleCount": 23,
+          "LayoutDuration": 0.008657,
+          "RecalcStyleDuration": 0.007332,
+          "ScriptDuration": 0.348416,
+          "TaskDuration": 0.605926,
+          "JSHeapUsedSize": 21228408,
+          "JSHeapTotalSize": 38240256
         },
         "browser": {
           "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
@@ -1735,7 +1741,7 @@
       "matches": true,
       "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
       "distance": 0.046875,
-      "percentage": 0.5959388841885234,
+      "percentage": 0.5959399901568816,
       "percentageFormatted": "59.59%"
     },
     {
@@ -1748,22 +1754,31 @@
       "percentageFormatted": "58.74%"
     },
     {
-      "folder": "webscene-basic",
-      "title": "Load a basic web scene",
-      "matches": true,
-      "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-      "distance": 0.125,
-      "percentage": 0.5240343513772071,
-      "percentageFormatted": "52.4%"
-    },
-    {
       "folder": "layers-wcslayer",
       "title": "Intro to WCSLayer",
       "matches": true,
       "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
       "distance": 0.109375,
-      "percentage": 0.48951486697965574,
-      "percentageFormatted": "48.95%"
+      "percentage": 0.5803148691915925,
+      "percentageFormatted": "58.03%"
+    },
+    {
+      "folder": "webscene-basic",
+      "title": "Load a basic web scene",
+      "matches": true,
+      "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+      "distance": 0.125,
+      "percentage": 0.5240354573455653,
+      "percentageFormatted": "52.4%"
+    },
+    {
+      "folder": "widgets-editor-basic",
+      "title": "Edit features with the Editor widget",
+      "matches": true,
+      "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+      "distance": 0.09375,
+      "percentage": 0.5167205826241311,
+      "percentageFormatted": "51.67%"
     },
     {
       "folder": "layers-integratedmeshlayer",
@@ -1775,31 +1790,13 @@
       "percentageFormatted": "44.92%"
     },
     {
-      "folder": "layers-imagery-pixelvalues",
-      "title": "ImageryLayer - client side pixel filter",
-      "matches": true,
-      "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-      "distance": 0.09375,
-      "percentage": 0.4456200888092592,
-      "percentageFormatted": "44.56%"
-    },
-    {
-      "folder": "widgets-editor-basic",
-      "title": "Edit features with the Editor widget",
-      "matches": true,
-      "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-      "distance": 0.109375,
-      "percentage": 0.4375022810597389,
-      "percentageFormatted": "43.75%"
-    },
-    {
       "folder": "widgets-daylight",
       "title": "Daylight widget",
       "matches": false,
       "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-      "distance": 0.21875,
-      "percentage": 0.4180294961761144,
-      "percentageFormatted": "41.8%"
+      "distance": 0.203125,
+      "percentage": 0.4488041717126473,
+      "percentageFormatted": "44.88%"
     },
     {
       "folder": "watch-for-changes",
@@ -11359,19 +11356,19 @@
         "screenshot_delay_ms": 10000,
         "source": "%ROOT_REPO%/build-screenshots/images/4.25/custom-lv-masking.png",
         "metrics": {
-          "Timestamp": 1135131.886105,
+          "Timestamp": 1188044.453326,
           "Documents": 1,
           "Frames": 1,
-          "JSEventListeners": 409,
+          "JSEventListeners": 123,
           "Nodes": 280,
           "LayoutCount": 19,
           "RecalcStyleCount": 18,
-          "LayoutDuration": 0.008652,
-          "RecalcStyleDuration": 0.006549,
-          "ScriptDuration": 0.609809,
-          "TaskDuration": 0.906036,
-          "JSHeapUsedSize": 25578588,
-          "JSHeapTotalSize": 38666240
+          "LayoutDuration": 0.009199,
+          "RecalcStyleDuration": 0.006141,
+          "ScriptDuration": 0.769403,
+          "TaskDuration": 1.106627,
+          "JSHeapUsedSize": 20815272,
+          "JSHeapTotalSize": 36569088
         },
         "browser": {
           "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
@@ -13688,19 +13685,19 @@
         "screenshot_delay_ms": 10000,
         "source": "%ROOT_REPO%/build-screenshots/images/4.25/layers-imagery-coordinatesystem.png",
         "metrics": {
-          "Timestamp": 1135738.802585,
-          "Documents": 6,
+          "Timestamp": 1188054.445131,
+          "Documents": 4,
           "Frames": 4,
-          "JSEventListeners": 65,
-          "Nodes": 168,
-          "LayoutCount": 19,
-          "RecalcStyleCount": 18,
-          "LayoutDuration": 0.006844,
-          "RecalcStyleDuration": 0.015362,
-          "ScriptDuration": 0.377164,
-          "TaskDuration": 0.740606,
-          "JSHeapUsedSize": 18116184,
-          "JSHeapTotalSize": 38092800
+          "JSEventListeners": 53,
+          "Nodes": 151,
+          "LayoutCount": 18,
+          "RecalcStyleCount": 17,
+          "LayoutDuration": 0.006038,
+          "RecalcStyleDuration": 0.011561,
+          "ScriptDuration": 0.367047,
+          "TaskDuration": 0.756376,
+          "JSHeapUsedSize": 17414464,
+          "JSHeapTotalSize": 36782080
         },
         "browser": {
           "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
@@ -13715,19 +13712,19 @@
         "screenshot_delay_ms": 10000,
         "source": "%ROOT_REPO%/build-screenshots/images/4.25/layers-imagery-pixelvalues.png",
         "metrics": {
-          "Timestamp": 1135745.830031,
+          "Timestamp": 1187688.018578,
           "Documents": 1,
           "Frames": 1,
           "JSEventListeners": 117,
           "Nodes": 164,
           "LayoutCount": 24,
           "RecalcStyleCount": 33,
-          "LayoutDuration": 0.010124,
-          "RecalcStyleDuration": 0.008124,
-          "ScriptDuration": 0.719455,
-          "TaskDuration": 1.080029,
-          "JSHeapUsedSize": 24319168,
-          "JSHeapTotalSize": 38977536
+          "LayoutDuration": 0.012481,
+          "RecalcStyleDuration": 0.009322,
+          "ScriptDuration": 0.578912,
+          "TaskDuration": 0.996405,
+          "JSHeapUsedSize": 22046032,
+          "JSHeapTotalSize": 38453248
         },
         "browser": {
           "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
@@ -13904,19 +13901,19 @@
         "screenshot_delay_ms": 10000,
         "source": "%ROOT_REPO%/build-screenshots/images/4.25/layers-integratedmeshlayer.png",
         "metrics": {
-          "Timestamp": 1135802.765031,
+          "Timestamp": 1188062.851556,
           "Documents": 1,
           "Frames": 1,
-          "JSEventListeners": 1115,
-          "Nodes": 492,
-          "LayoutCount": 379,
-          "RecalcStyleCount": 384,
-          "LayoutDuration": 0.029326,
-          "RecalcStyleDuration": 0.036363,
-          "ScriptDuration": 1.840311,
-          "TaskDuration": 3.056026,
-          "JSHeapUsedSize": 54681652,
-          "JSHeapTotalSize": 73367552
+          "JSEventListeners": 465,
+          "Nodes": 323,
+          "LayoutCount": 115,
+          "RecalcStyleCount": 119,
+          "LayoutDuration": 0.018072,
+          "RecalcStyleDuration": 0.020491,
+          "ScriptDuration": 1.566946,
+          "TaskDuration": 2.359533,
+          "JSHeapUsedSize": 50275892,
+          "JSHeapTotalSize": 67600384
         },
         "browser": {
           "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
@@ -13931,19 +13928,19 @@
         "screenshot_delay_ms": 10000,
         "source": "%ROOT_REPO%/build-screenshots/images/4.25/layers-integratedmeshlayer-modification.png",
         "metrics": {
-          "Timestamp": 1135813.971455,
-          "Documents": 3,
-          "Frames": 3,
-          "JSEventListeners": 1110,
-          "Nodes": 330,
+          "Timestamp": 1188073.100147,
+          "Documents": 1,
+          "Frames": 1,
+          "JSEventListeners": 241,
+          "Nodes": 328,
           "LayoutCount": 23,
-          "RecalcStyleCount": 315,
-          "LayoutDuration": 0.010139,
-          "RecalcStyleDuration": 0.039656,
-          "ScriptDuration": 1.211752,
-          "TaskDuration": 2.161326,
-          "JSHeapUsedSize": 45969108,
-          "JSHeapTotalSize": 73793536
+          "RecalcStyleCount": 192,
+          "LayoutDuration": 0.010472,
+          "RecalcStyleDuration": 0.025734,
+          "ScriptDuration": 1.099368,
+          "TaskDuration": 1.899904,
+          "JSHeapUsedSize": 44461388,
+          "JSHeapTotalSize": 65929216
         },
         "browser": {
           "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
@@ -14282,24 +14279,28 @@
       "screenshot": {
         "errors": [
           "pageerror - Error: TypeError: Cannot read properties of undefined (reading 'type')\n    at https://jsdev.arcgis.com/4.25/esri/views/support/waitForResources.js:5:349\n    at pptr://__puppeteer_evaluation_script__:7:19\n    at kb (https://jsdev.arcgis.com/4.25/:23:283)\n    at https://jsdev.arcgis.com/4.25/:24:48\n    at cb (https://jsdev.arcgis.com/4.25/:23:409)\n    at gb (https://jsdev.arcgis.com/4.25/:23:485)\n    at Oa (https://jsdev.arcgis.com/4.25/:25:482)\n    at HTMLScriptElement.<anonymous> (https://jsdev.arcgis.com/4.25/:29:300)",
+          "waitForResources - setTimeout - screenshot timeout exceeded 10000ms",
+          "pageerror - Error: TypeError: Cannot read properties of undefined (reading 'type')\n    at https://jsdev.arcgis.com/4.25/esri/views/support/waitForResources.js:5:349\n    at pptr://__puppeteer_evaluation_script__:7:19\n    at kb (https://jsdev.arcgis.com/4.25/:23:283)\n    at https://jsdev.arcgis.com/4.25/:24:48\n    at cb (https://jsdev.arcgis.com/4.25/:23:409)\n    at gb (https://jsdev.arcgis.com/4.25/:23:485)\n    at Oa (https://jsdev.arcgis.com/4.25/:25:482)\n    at HTMLScriptElement.<anonymous> (https://jsdev.arcgis.com/4.25/:29:300)",
+          "waitForResources - setTimeout - screenshot timeout exceeded 10000ms",
+          "pageerror - Error: TypeError: Cannot read properties of undefined (reading 'type')\n    at https://jsdev.arcgis.com/4.25/esri/views/support/waitForResources.js:5:349\n    at pptr://__puppeteer_evaluation_script__:7:19\n    at kb (https://jsdev.arcgis.com/4.25/:23:283)\n    at https://jsdev.arcgis.com/4.25/:24:48\n    at cb (https://jsdev.arcgis.com/4.25/:23:409)\n    at gb (https://jsdev.arcgis.com/4.25/:23:485)\n    at Oa (https://jsdev.arcgis.com/4.25/:25:482)\n    at HTMLScriptElement.<anonymous> (https://jsdev.arcgis.com/4.25/:29:300)",
           "waitForResources - setTimeout - screenshot timeout exceeded 10000ms"
         ],
         "screenshot_delay_ms": 10000,
         "source": "%ROOT_REPO%/build-screenshots/images/4.25/layers-pointcloud-color-modulation.png",
         "metrics": {
-          "Timestamp": 1135939.316851,
+          "Timestamp": 1188087.994291,
           "Documents": 1,
           "Frames": 1,
-          "JSEventListeners": 613,
-          "Nodes": 251,
+          "JSEventListeners": 609,
+          "Nodes": 250,
           "LayoutCount": 18,
-          "RecalcStyleCount": 22,
-          "LayoutDuration": 0.008777,
-          "RecalcStyleDuration": 0.00631,
-          "ScriptDuration": 0.336283,
-          "TaskDuration": 0.559916,
-          "JSHeapUsedSize": 25560604,
-          "JSHeapTotalSize": 37978112
+          "RecalcStyleCount": 23,
+          "LayoutDuration": 0.008657,
+          "RecalcStyleDuration": 0.007332,
+          "ScriptDuration": 0.348416,
+          "TaskDuration": 0.605926,
+          "JSHeapUsedSize": 21228408,
+          "JSHeapTotalSize": 38240256
         },
         "browser": {
           "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
@@ -14311,24 +14312,26 @@
       "folder": "layers-pointcloud-filters",
       "screenshot": {
         "errors": [
+          "waitForResources - setTimeout - screenshot timeout exceeded 10000ms",
+          "waitForResources - setTimeout - screenshot timeout exceeded 10000ms",
           "waitForResources - setTimeout - screenshot timeout exceeded 10000ms"
         ],
         "screenshot_delay_ms": 10000,
         "source": "%ROOT_REPO%/build-screenshots/images/4.25/layers-pointcloud-filters.png",
         "metrics": {
-          "Timestamp": 1135955.683599,
+          "Timestamp": 1188104.72563,
           "Documents": 3,
           "Frames": 3,
           "JSEventListeners": 95,
           "Nodes": 283,
-          "LayoutCount": 22,
-          "RecalcStyleCount": 33,
-          "LayoutDuration": 0.009674,
-          "RecalcStyleDuration": 0.006808,
-          "ScriptDuration": 1.078395,
-          "TaskDuration": 1.776924,
-          "JSHeapUsedSize": 33073984,
-          "JSHeapTotalSize": 48201728
+          "LayoutCount": 23,
+          "RecalcStyleCount": 34,
+          "LayoutDuration": 0.010213,
+          "RecalcStyleDuration": 0.007756,
+          "ScriptDuration": 1.12029,
+          "TaskDuration": 1.817704,
+          "JSHeapUsedSize": 33771760,
+          "JSHeapTotalSize": 64192512
         },
         "browser": {
           "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
@@ -14883,19 +14886,19 @@
         "screenshot_delay_ms": 10000,
         "source": "%ROOT_REPO%/build-screenshots/images/4.25/layers-wcslayer.png",
         "metrics": {
-          "Timestamp": 1136157.149184,
+          "Timestamp": 1188116.71149,
           "Documents": 1,
           "Frames": 1,
           "JSEventListeners": 92,
-          "Nodes": 228,
-          "LayoutCount": 19,
-          "RecalcStyleCount": 18,
-          "LayoutDuration": 0.009081,
-          "RecalcStyleDuration": 0.006393,
-          "ScriptDuration": 0.771707,
-          "TaskDuration": 1.267216,
-          "JSHeapUsedSize": 24480232,
-          "JSHeapTotalSize": 40714240
+          "Nodes": 216,
+          "LayoutCount": 18,
+          "RecalcStyleCount": 17,
+          "LayoutDuration": 0.009444,
+          "RecalcStyleDuration": 0.006127,
+          "ScriptDuration": 0.777552,
+          "TaskDuration": 1.303575,
+          "JSHeapUsedSize": 22891332,
+          "JSHeapTotalSize": 42811392
         },
         "browser": {
           "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
@@ -15072,19 +15075,19 @@
         "screenshot_delay_ms": 10000,
         "source": "%ROOT_REPO%/build-screenshots/images/4.25/overview-map.png",
         "metrics": {
-          "Timestamp": 1136207.523807,
+          "Timestamp": 1188125.339757,
           "Documents": 3,
           "Frames": 3,
-          "JSEventListeners": 1789,
-          "Nodes": 521,
-          "LayoutCount": 22,
-          "RecalcStyleCount": 30,
-          "LayoutDuration": 0.008397,
-          "RecalcStyleDuration": 0.009441,
-          "ScriptDuration": 1.58154,
-          "TaskDuration": 2.351763,
-          "JSHeapUsedSize": 56481636,
-          "JSHeapTotalSize": 75202560
+          "JSEventListeners": 1874,
+          "Nodes": 480,
+          "LayoutCount": 23,
+          "RecalcStyleCount": 31,
+          "LayoutDuration": 0.008772,
+          "RecalcStyleDuration": 0.008231,
+          "ScriptDuration": 1.552737,
+          "TaskDuration": 2.331529,
+          "JSHeapUsedSize": 53209712,
+          "JSHeapTotalSize": 70746112
         },
         "browser": {
           "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
@@ -15884,19 +15887,19 @@
         "screenshot_delay_ms": 10000,
         "source": "%ROOT_REPO%/build-screenshots/images/4.25/scene-weather.png",
         "metrics": {
-          "Timestamp": 1136408.071177,
+          "Timestamp": 1188135.233883,
           "Documents": 2,
           "Frames": 2,
-          "JSEventListeners": 313,
-          "Nodes": 381,
+          "JSEventListeners": 985,
+          "Nodes": 502,
           "LayoutCount": 30,
           "RecalcStyleCount": 39,
-          "LayoutDuration": 0.024181,
-          "RecalcStyleDuration": 0.015135,
-          "ScriptDuration": 1.972174,
-          "TaskDuration": 3.156116,
-          "JSHeapUsedSize": 31885616,
-          "JSHeapTotalSize": 61571072
+          "LayoutDuration": 0.024261,
+          "RecalcStyleDuration": 0.018521,
+          "ScriptDuration": 1.593868,
+          "TaskDuration": 2.308178,
+          "JSHeapUsedSize": 37733120,
+          "JSHeapTotalSize": 59998208
         },
         "browser": {
           "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
@@ -18098,19 +18101,19 @@
         "screenshot_delay_ms": 10000,
         "source": "%ROOT_REPO%/build-screenshots/images/4.25/webscene-basic.png",
         "metrics": {
-          "Timestamp": 1137099.336106,
+          "Timestamp": 1188144.458429,
           "Documents": 3,
           "Frames": 3,
-          "JSEventListeners": 1433,
-          "Nodes": 478,
-          "LayoutCount": 19,
-          "RecalcStyleCount": 31,
-          "LayoutDuration": 0.01144,
-          "RecalcStyleDuration": 0.009252,
-          "ScriptDuration": 1.698267,
-          "TaskDuration": 2.444274,
-          "JSHeapUsedSize": 47512700,
-          "JSHeapTotalSize": 65503232
+          "JSEventListeners": 1281,
+          "Nodes": 440,
+          "LayoutCount": 20,
+          "RecalcStyleCount": 27,
+          "LayoutDuration": 0.010271,
+          "RecalcStyleDuration": 0.009064,
+          "ScriptDuration": 1.56347,
+          "TaskDuration": 2.262093,
+          "JSHeapUsedSize": 40313924,
+          "JSHeapTotalSize": 64978944
         },
         "browser": {
           "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
@@ -18395,19 +18398,19 @@
         "screenshot_delay_ms": 10000,
         "source": "%ROOT_REPO%/build-screenshots/images/4.25/widgets-daylight.png",
         "metrics": {
-          "Timestamp": 1137177.45454,
-          "Documents": 4,
-          "Frames": 4,
-          "JSEventListeners": 1047,
-          "Nodes": 323,
-          "LayoutCount": 34,
-          "RecalcStyleCount": 42,
-          "LayoutDuration": 0.012985,
-          "RecalcStyleDuration": 0.014269,
-          "ScriptDuration": 1.321541,
-          "TaskDuration": 2.064672,
-          "JSHeapUsedSize": 32419236,
-          "JSHeapTotalSize": 61833216
+          "Timestamp": 1188151.854971,
+          "Documents": 2,
+          "Frames": 2,
+          "JSEventListeners": 857,
+          "Nodes": 623,
+          "LayoutCount": 33,
+          "RecalcStyleCount": 41,
+          "LayoutDuration": 0.013907,
+          "RecalcStyleDuration": 0.014874,
+          "ScriptDuration": 1.288352,
+          "TaskDuration": 1.849901,
+          "JSHeapUsedSize": 41893920,
+          "JSHeapTotalSize": 59998208
         },
         "browser": {
           "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
@@ -18503,19 +18506,19 @@
         "screenshot_delay_ms": 10000,
         "source": "%ROOT_REPO%/build-screenshots/images/4.25/widgets-editor-basic.png",
         "metrics": {
-          "Timestamp": 1137213.801585,
+          "Timestamp": 1188160.075087,
           "Documents": 3,
           "Frames": 3,
-          "JSEventListeners": 831,
-          "Nodes": 630,
-          "LayoutCount": 40,
-          "RecalcStyleCount": 46,
-          "LayoutDuration": 0.016741,
-          "RecalcStyleDuration": 0.010999,
-          "ScriptDuration": 0.806608,
-          "TaskDuration": 1.209411,
-          "JSHeapUsedSize": 36094516,
-          "JSHeapTotalSize": 50724864
+          "JSEventListeners": 337,
+          "Nodes": 637,
+          "LayoutCount": 41,
+          "RecalcStyleCount": 54,
+          "LayoutDuration": 0.024555,
+          "RecalcStyleDuration": 0.014471,
+          "ScriptDuration": 0.743506,
+          "TaskDuration": 1.190394,
+          "JSHeapUsedSize": 32638856,
+          "JSHeapTotalSize": 48627712
         },
         "browser": {
           "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
@@ -19658,7 +19661,7 @@
       "matches": true,
       "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
       "distance": 0.046875,
-      "percentage": 0.5959388841885234,
+      "percentage": 0.5959399901568816,
       "percentageFormatted": "59.59%"
     },
     "layers-integratedmeshlayer-modification": {
@@ -19670,23 +19673,32 @@
       "percentage": 0.587369841348839,
       "percentageFormatted": "58.74%"
     },
-    "webscene-basic": {
-      "folder": "webscene-basic",
-      "title": "Load a basic web scene",
-      "matches": true,
-      "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-      "distance": 0.125,
-      "percentage": 0.5240343513772071,
-      "percentageFormatted": "52.4%"
-    },
     "layers-wcslayer": {
       "folder": "layers-wcslayer",
       "title": "Intro to WCSLayer",
       "matches": true,
       "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
       "distance": 0.109375,
-      "percentage": 0.48951486697965574,
-      "percentageFormatted": "48.95%"
+      "percentage": 0.5803148691915925,
+      "percentageFormatted": "58.03%"
+    },
+    "webscene-basic": {
+      "folder": "webscene-basic",
+      "title": "Load a basic web scene",
+      "matches": true,
+      "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+      "distance": 0.125,
+      "percentage": 0.5240354573455653,
+      "percentageFormatted": "52.4%"
+    },
+    "widgets-editor-basic": {
+      "folder": "widgets-editor-basic",
+      "title": "Edit features with the Editor widget",
+      "matches": true,
+      "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+      "distance": 0.09375,
+      "percentage": 0.5167205826241311,
+      "percentageFormatted": "51.67%"
     },
     "layers-integratedmeshlayer": {
       "folder": "layers-integratedmeshlayer",
@@ -19697,32 +19709,14 @@
       "percentage": 0.4491879427329584,
       "percentageFormatted": "44.92%"
     },
-    "layers-imagery-pixelvalues": {
-      "folder": "layers-imagery-pixelvalues",
-      "title": "ImageryLayer - client side pixel filter",
-      "matches": true,
-      "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-      "distance": 0.09375,
-      "percentage": 0.4456200888092592,
-      "percentageFormatted": "44.56%"
-    },
-    "widgets-editor-basic": {
-      "folder": "widgets-editor-basic",
-      "title": "Edit features with the Editor widget",
-      "matches": true,
-      "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-      "distance": 0.109375,
-      "percentage": 0.4375022810597389,
-      "percentageFormatted": "43.75%"
-    },
     "widgets-daylight": {
       "folder": "widgets-daylight",
       "title": "Daylight widget",
       "matches": false,
       "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-      "distance": 0.21875,
-      "percentage": 0.4180294961761144,
-      "percentageFormatted": "41.8%"
+      "distance": 0.203125,
+      "percentage": 0.4488041717126473,
+      "percentageFormatted": "44.88%"
     },
     "watch-for-changes": {
       "folder": "watch-for-changes",
@@ -20272,6 +20266,15 @@
       "distance": 0.109375,
       "percentage": 0.0111547968612618,
       "percentageFormatted": "1.115%"
+    },
+    "layers-imagery-pixelvalues": {
+      "folder": "layers-imagery-pixelvalues",
+      "title": "ImageryLayer - client side pixel filter",
+      "matches": true,
+      "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+      "distance": 0.03125,
+      "percentage": 0.010800886986623313,
+      "percentageFormatted": "1.08%"
     },
     "featurereduction-cluster-visualvariables": {
       "folder": "featurereduction-cluster-visualvariables",
