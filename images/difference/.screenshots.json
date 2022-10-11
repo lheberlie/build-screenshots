@@ -9,15 +9,6 @@
     "percentageFormatted": "81.82%"
   },
   {
-    "folder": "layers-custom-lerc-2d",
-    "title": "Custom LERC Layer",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.125,
-    "percentage": 0.810168273085707,
-    "percentageFormatted": "81.02%"
-  },
-  {
     "folder": "layers-pointcloud-filters",
     "title": "Filter points in a PointCloudLayer",
     "matches": false,
@@ -32,8 +23,17 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
-    "percentage": 0.6847956999950231,
-    "percentageFormatted": "68.48%"
+    "percentage": 0.6866913297610555,
+    "percentageFormatted": "68.67%"
+  },
+  {
+    "folder": "layers-custom-lerc-2d",
+    "title": "Custom LERC Layer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.6801384672384523,
+    "percentageFormatted": "68.01%"
   },
   {
     "folder": "layers-pointcloud-color-modulation",
@@ -45,22 +45,13 @@
     "percentageFormatted": "64.64%"
   },
   {
-    "folder": "visualization-sm-sublayer",
-    "title": "MapImageLayer - Explore data from a dynamic workspace",
-    "matches": false,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.3125,
-    "percentage": 0.5654617141403584,
-    "percentageFormatted": "56.55%"
-  },
-  {
     "folder": "import-gltf",
     "title": "Import glTF 3D Models",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.5457135431355309,
-    "percentageFormatted": "54.57%"
+    "percentage": 0.545064339709241,
+    "percentageFormatted": "54.51%"
   },
   {
     "folder": "layers-scenelayerview-query-stats",
@@ -76,9 +67,9 @@
     "title": "Edit features with the Editor widget",
     "matches": false,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.203125,
-    "percentage": 0.42621919186892065,
-    "percentageFormatted": "42.62%"
+    "distance": 0.1875,
+    "percentage": 0.4513744421772093,
+    "percentageFormatted": "45.14%"
   },
   {
     "folder": "layers-routelayer",
@@ -97,6 +88,15 @@
     "distance": 0.03125,
     "percentage": 0.29615620697091855,
     "percentageFormatted": "29.62%"
+  },
+  {
+    "folder": "visualization-sm-sublayer",
+    "title": "MapImageLayer - Explore data from a dynamic workspace",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.09375,
+    "percentage": 0.2676299651066983,
+    "percentageFormatted": "26.76%"
   },
   {
     "folder": "editing-applyedits",
