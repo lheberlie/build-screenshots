@@ -9479,19 +9479,19 @@
       "screenshot_delay_ms": 10000,
       "source": "%ROOT_REPO%/build-screenshots/images/4.27/knowledgegraph-search.png",
       "metrics": {
-        "Timestamp": 24766.499173,
+        "Timestamp": 57074.993981,
         "Documents": 1,
         "Frames": 1,
         "JSEventListeners": 254,
         "Nodes": 650,
-        "LayoutCount": 31,
-        "RecalcStyleCount": 202,
-        "LayoutDuration": 0.025722,
-        "RecalcStyleDuration": 0.080101,
-        "ScriptDuration": 0.091702,
-        "TaskDuration": 0.467316,
-        "JSHeapUsedSize": 4900856,
-        "JSHeapTotalSize": 15564800
+        "LayoutCount": 22,
+        "RecalcStyleCount": 195,
+        "LayoutDuration": 0.017562,
+        "RecalcStyleDuration": 0.064401,
+        "ScriptDuration": 0.052087,
+        "TaskDuration": 0.369489,
+        "JSHeapUsedSize": 4864896,
+        "JSHeapTotalSize": 15826944
       },
       "browser": {
         "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
