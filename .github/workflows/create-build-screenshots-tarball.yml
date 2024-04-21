@@ -41,10 +41,6 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout build-screenshots branch
         uses: actions/checkout@v3
-        with:
-          repository: 'lheberlie/build-screenshots.git'  # needs .git extension for generate-js-sdk-site.py#L573
-          path: ${{ env.workdir }} # build-screenshots
-          ref: ${{ github.event.inputs.build-screenshots-branch }}    
       # Runs a single command using the runners shell
       - name: Compress screenshots action step
         uses: a7ul/tar-action@v1.1.0
@@ -52,7 +48,7 @@ jobs:
         with:
           working-directory: ${{ env.workdir }}
           command: c
-          cwd: ./${{ env.workdir }}
+          cwd: ./
           files: |
             ./*.*
           outPath: build-screenshots.tar.gz
