@@ -51,6 +51,5 @@ jobs:
         id: compress
         with:
           command: c
-          cwd: ${{ env.workdir }}
-          files: ${{ env.workdir }}/**/*
+          files: ${{ env.workdir }}
           outPath: build-screenshots.tar.gz
