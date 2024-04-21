@@ -45,7 +45,7 @@ jobs:
         id: compress
         with:
           command: c
-          cwd: ./
+          cwd: .
           files: |
-            ./*.*
+            *
           outPath: build-screenshots.tar.gz
