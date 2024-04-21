@@ -26,6 +26,10 @@ on:
         - info
         - warning
         - debug
+
+env:
+  workdir: archives
+  
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -39,11 +43,14 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout build-screenshots branch
         uses: actions/checkout@v3
+        with:
+          path: ${{ env.workdir }}
       # Runs a single command using the runners shell
       - name: Compress screenshots action step
         uses: a7ul/tar-action@v1.1.0
         id: compress
         with:
           command: c
-          files: /**/*
+          cwd: ${{ env.workdir }}
+          files: ${{ env.workdir }}/**/*
           outPath: build-screenshots.tar.gz
