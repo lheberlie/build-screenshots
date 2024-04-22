@@ -8,19 +8,19 @@ on:
   push:
     branches: [ "4.30" ]
   pull_request:
-    branches: [ "4.30" ]
+    branches: [ "main" ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
     inputs:
       build-screenshots-branch:
         description: "Branch to use for build-screenshots"
-        default: "main"
+        default: "4.30"
         required: true
       logLevel:
         description: 'Log level'
         required: true
-        default: 'warning'
+        default: 'debug'
         type: choice
         options:
         - info
@@ -45,11 +45,14 @@ jobs:
         uses: actions/checkout@v3
         with:
           path: ${{ env.workdir }}
+          ref: ${{ github.event.inputs.build-screenshots-branch }}
       # Runs a single command using the runners shell
       - name: Compress screenshots action step
         uses: a7ul/tar-action@v1.1.0
         id: compress
         with:
           command: c
-          files: ${{ env.workdir }}
+          files: |
+            ./images
+            README.md
           outPath: build-screenshots.tar.gz
