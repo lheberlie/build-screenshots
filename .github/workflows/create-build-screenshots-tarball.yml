@@ -57,11 +57,11 @@ jobs:
           files: |
             ./images
             README.md
-          outPath: ${{ tarball-name }}.tar.gz
+          outPath: ${{ env.tarball-name }}.tar.gz
       # Use the output from the `compress` step
       - name: Get the output
         run: echo "The output was ${{ steps.compress.outputs.done }}"
       - uses: actions/upload-artifact@v3
         with:
-          name: ${{ tarball-name }}.tar.gz
-          path: ${{ tarball-name }}.tar.gz
+          name: ${{ env.tarball-name }}.tar.gz
+          path: ${{ env.tarball-name }}.tar.gz
