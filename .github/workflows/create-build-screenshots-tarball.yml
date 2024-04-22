@@ -51,6 +51,7 @@ jobs:
         uses: a7ul/tar-action@v1.1.0
         id: compress
         with:
+          working-directory: ${{ env.workdir }}
           command: c
           files: |
             ./images
