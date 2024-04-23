@@ -46,13 +46,6 @@ jobs:
           echo "repo ${{ github.repository }}"
           echo "workspace $GITHUB_WORKSPACE"
           echo "sha $GITHUB_SHA"
-      - name: Get next version
-        uses: reecetech/version-increment@2024.4.1
-        id: version
-        with:
-          scheme: semver
-          increment: patch
-          release_branch: "4.30"
       - name: Output next version
         run: echo "next version ${{ steps.version.outputs.patch-version }}"
       - name: Set the release date
@@ -66,6 +59,13 @@ jobs:
         with:
           path: ${{ env.checkout-path }}
           ref: "${{ env.version }}"
+      - name: Get next version
+        uses: reecetech/version-increment@2024.4.1
+        id: version
+        with:
+          scheme: semver
+          increment: patch
+          release_branch: "4.30"
       # Runs a single command using runners shell
       - name: Compress screenshots action step
         uses: a7ul/tar-action@v1.1.0
