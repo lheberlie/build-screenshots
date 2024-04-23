@@ -29,7 +29,6 @@ on:
 
 env:
   workdir: archives
-  tarball-name: build-screenshots
   version: "4.30"
   
   
@@ -43,52 +42,35 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Set the version date
-        id: version_timestamp
-        run: echo "version_date=$(date '+%Y-%m-%d')" >> "$GITHUB_ENV"
-      - name: Set the file name
-        id: file_identifier
-        run: echo "tarball_name=${{ env.tarball-name }}-${{ env.version }}-$version_date.tar.gz"  >> "$GITHUB_ENV"
-      - name: Output file name
-        id: output_file_name
-        run: echo "$tarball_name"
+        id: timestamp
+        run: echo "RELEASE_DATE=$(date '+%Y-%m-%d')" >> "$GITHUB_OUTPUT"
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout build-screenshots branch
         uses: actions/checkout@v3
         with:
           path: ${{ env.workdir }}
           ref: ${{ github.event.inputs.build-screenshots-branch }}
-      # Runs a single command using the runners shell
-      - name: Compress screenshots action step
-        uses: a7ul/tar-action@v1.1.0
-        id: compress
-        with:
-          cwd: ${{ env.workdir }}
-          command: c
-          files: |
-            ./images
-            README.md
-          outPath: $tarball-name
-      # Use the output from the `compress` step
-      - name: Get the output
-        run: echo "The output was ${{ steps.compress.outputs.done }}"
       - name: release
         uses: actions/create-release@v1
         id: create_release
         with:
           draft: false
           prerelease: false
-          release_name: "$version_date ${{ env.version }}"
-          tag_name: "${{ env.version }}-$version_date"
+          release_name: "$RELEASE_NAME $RELEASE_DATE"
+          tag_name: "${{ env.RELEASE_VERSION }}"
           body: "Release ${{ env.version }}"
         env:
           GITHUB_TOKEN: ${{ github.token }}
-      - name: upload tarball artifact
+          RELEASE_VERSION: ${{ env.version }}
+          RELEASE_DATE: ${{ steps.timestamp.outputs.RELEASE_DATE }}
+      - name: upload release artifact
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ github.token }}
+          TARBALL: "build-screenshots-${{ env.version }}"
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: $tarball-name
-          asset_name: $tarball-name
+          asset_path: ./images
+          asset_name: $TARBALL
           asset_content_type: application/gzip
 
