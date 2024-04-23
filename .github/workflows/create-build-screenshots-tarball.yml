@@ -52,6 +52,7 @@ jobs:
         with:
           scheme: semver
           increment: patch
+          release_branch: "4.30"
       - name: Output next version
         run: echo "next version ${{ steps.version.outputs.patch-version }}"
       - name: Set the release date
