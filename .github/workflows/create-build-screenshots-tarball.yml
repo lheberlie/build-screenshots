@@ -30,6 +30,7 @@ on:
 env:
   workdir: archives
   tarball-name: build-screenshots
+  version: 4.30
   
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -61,7 +62,6 @@ jobs:
       # Use the output from the `compress` step
       - name: Get the output
         run: echo "The output was ${{ steps.compress.outputs.done }}"
-      - uses: actions/upload-artifact@v3
-        with:
-          name: ${{ env.tarball-name }}.tar.gz
-          path: ${{ env.tarball-name }}.tar.gz
+      - name: version
+        run: echo "::set-output name=version::${{ env.version }}$(date '+%Y-%m-%d')"
+
