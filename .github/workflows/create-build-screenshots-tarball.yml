@@ -77,8 +77,8 @@ jobs:
         with:
           draft: false
           prerelease: false
-          release_name: "${{ env.version }}-$version_date"
-          tag_name: ${{ github.ref }}
+          release_name: "$version_date ${{ env.version }}"
+          tag_name: "${{ env.version }}-$version_date"
           body: "Release ${{ env.version }}"
         env:
           GITHUB_TOKEN: ${{ github.token }}
