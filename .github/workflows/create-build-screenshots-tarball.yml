@@ -41,6 +41,11 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      - name: Output details
+        run: |
+          echo "repo ${{ github.repository }}"
+          echo "workspace $GITHUB_WORKSPACE"
+          echo "sha $GITHUB_SHA"
       - name: Set the release date
         id: release-date
         run: echo "RELEASE_DATE=$(date '+%Y-%m-%d')" >> "$GITHUB_OUTPUT"
