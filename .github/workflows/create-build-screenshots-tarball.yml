@@ -29,6 +29,7 @@ on:
 
 env:
   version: "${{ github.event.inputs.build-screenshots-branch }}"
+  checkout-path: "code"
   
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -54,7 +55,7 @@ jobs:
       - name: Checkout build-screenshots branch
         uses: actions/checkout@v3
         with:
-          path: $GITHUB_WORKSPACE
+          path: ${{ env.checkout-path }}
           ref: "${{ env.version }}"
       - name: release
         uses: actions/create-release@v1
@@ -77,7 +78,7 @@ jobs:
           TARBALL: "build-screenshots-${{ env.version }}"
         with:
           upload_url: ${{ steps.create-release.outputs.upload_url }}
-          asset_path: $GITHUB_WORKSPACE
+          asset_path: ${{ env.checkout-path }}
           asset_name: ${{ env.TARBALL }}
           asset_content_type: application/gzip
 
