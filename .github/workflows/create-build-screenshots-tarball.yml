@@ -57,20 +57,6 @@ jobs:
         with:
           path: ${{ env.checkout-path }}
           ref: "${{ env.version }}"
-      # Runs a single command using the runners shell
-      - name: Compress screenshots action step
-        uses: a7ul/tar-action@v1.1.0
-        id: compress
-        with:
-	  command: c
-	  cwd: ${{ env.checkout-path }}
-	  files: |
-            ./images
-            README.md
-	   outPath: build-screenshots.tar.gz
-      # Use the output from the `compress` step
-      - name: Get the output
-        run: echo "The output was ${{ steps.compress.outputs.done }}"
       - name: release
         uses: actions/create-release@v1
         id: create-release
