@@ -30,7 +30,7 @@ on:
 env:
   workdir: archives
   tarball-name: build-screenshots
-  version: 4.30
+  version: "4.30"
   
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -71,5 +71,24 @@ jobs:
       # Use the output from the `compress` step
       - name: Get the output
         run: echo "The output was ${{ steps.compress.outputs.done }}"
-        
+      - name: release
+        uses: actions/create-release@v1
+        id: create_release
+        with:
+          draft: false
+          prerelease: false
+          release_name: "${{ env.version }}-$version_date"
+          tag_name: ${{ github.ref }}
+          body_path: README.md
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: upload tarball artifact
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: $tarball-name
+          asset_name: $tarball-name
+          asset_content_type: application/gzip
 
