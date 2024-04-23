@@ -47,7 +47,7 @@ jobs:
         run: echo "version_date=$(date '+%Y-%m-%d')" >> "$GITHUB_ENV"
       - name: Set the file name
         id: file_identifier
-        run: echo "tarball_name=${{ env.tarball-name }}-${{ env.version }}-$version_date.tar.gz  >> "$GITHUB_ENV"
+        run: echo "tarball_name=${{ env.tarball-name }}-${{ env.version }}-$version_date.tar.gz"  >> "$GITHUB_ENV"
       - name: Output file name
         id: output_file_name
         run: echo "$tarball_name"
