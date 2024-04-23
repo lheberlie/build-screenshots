@@ -78,7 +78,7 @@ jobs:
           TARBALL: "build-screenshots-${{ env.version }}"
         with:
           upload_url: ${{ steps.create-release.outputs.upload_url }}
-          asset_path: ${{ env.checkout-path }}
+          asset_path: $GITHUB_WORKSPACE/${{ env.checkout-path }}
           asset_name: ${{ env.TARBALL }}
           asset_content_type: application/gzip
 
