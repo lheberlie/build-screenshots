@@ -41,9 +41,11 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Set the version date
-        id: timestamp
+      - name: Set the release date
+        id: release-date
         run: echo "RELEASE_DATE=$(date '+%Y-%m-%d')" >> "$GITHUB_OUTPUT"
+      - name: Output the release date
+        run: echo "release date ${{ steps.release-date.outputs.RELEASE_DATE }}"
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout build-screenshots branch
         uses: actions/checkout@v3
@@ -52,7 +54,7 @@ jobs:
           ref: ${{ github.event.inputs.build-screenshots-branch }}
       - name: release
         uses: actions/create-release@v1
-        id: create_release
+        id: create-release
         with:
           draft: false
           prerelease: false
@@ -62,15 +64,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
           RELEASE_VERSION: ${{ env.version }}
-          RELEASE_DATE: ${{ steps.timestamp.outputs.RELEASE_DATE }}
+          RELEASE_DATE: ${{ steps.release-date.outputs.RELEASE_DATE }}
       - name: upload release artifact
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ github.token }}
           TARBALL: "build-screenshots-${{ env.version }}"
         with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./images
+          upload_url: ${{ steps.create-release.outputs.upload_url }}
+          asset_path: ${{ env.workdir }}
           asset_name: $TARBALL
           asset_content_type: application/gzip
 
