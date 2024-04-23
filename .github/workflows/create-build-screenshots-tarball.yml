@@ -63,6 +63,7 @@ jobs:
           body: "Release ${{ env.version }}"
         env:
           GITHUB_TOKEN: ${{ github.token }}
+          RELEASE_NAME: "build screenshots ${{ env.version }}"
           RELEASE_VERSION: ${{ env.version }}
           RELEASE_DATE: ${{ steps.release-date.outputs.RELEASE_DATE }}
       - name: upload release artifact
