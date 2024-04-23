@@ -46,6 +46,14 @@ jobs:
           echo "repo ${{ github.repository }}"
           echo "workspace $GITHUB_WORKSPACE"
           echo "sha $GITHUB_SHA"
+      - name: Get next version
+        uses: reecetech/version-increment@2024.4.1
+        id: version
+        with:
+          scheme: semver
+          increment: patch
+      - name: Output next version
+        run: echo "next version ${{ steps.version.outputs.patch-version }}"
       - name: Set the release date
         id: release-date
         run: echo "RELEASE_DATE=$(date '+%Y-%m-%d')" >> "$GITHUB_OUTPUT"
