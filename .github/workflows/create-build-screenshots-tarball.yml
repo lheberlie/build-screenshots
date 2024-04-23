@@ -58,7 +58,7 @@ jobs:
         with:
           draft: false
           prerelease: false
-          release_name: "$RELEASE_NAME $RELEASE_DATE"
+          release_name: "${{ env.RELEASE_NAME }} ${{ env.RELEASE_DATE }}"
           tag_name: "${{ env.RELEASE_VERSION }}"
           body: "Release ${{ env.version }}"
         env:
@@ -73,6 +73,6 @@ jobs:
         with:
           upload_url: ${{ steps.create-release.outputs.upload_url }}
           asset_path: ${{ env.workdir }}
-          asset_name: $TARBALL
+          asset_name: ${{ env.$TARBALL }}
           asset_content_type: application/gzip
 
