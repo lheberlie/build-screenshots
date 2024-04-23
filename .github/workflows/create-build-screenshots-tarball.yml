@@ -42,6 +42,15 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      - name: Set the version date
+        id: version_timestamp
+        run: echo "version_date=$(date '+%Y-%m-%d')" >> "$GITHUB_ENV"
+      - name: Set the file name
+        id: file_identifier
+        run: echo "tarball_name=${{ env.tarball-name }}-${{ env.version }}-$version_date.tar.gz  >> "$GITHUB_ENV"
+      - name: Output file name
+        id: output_file_name
+        run: echo "$tarball_name"
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout build-screenshots branch
         uses: actions/checkout@v3
@@ -58,10 +67,9 @@ jobs:
           files: |
             ./images
             README.md
-          outPath: ${{ env.tarball-name }}.tar.gz
+          outPath: $tarball-name
       # Use the output from the `compress` step
       - name: Get the output
         run: echo "The output was ${{ steps.compress.outputs.done }}"
-      - name: version
-        run: echo "::set-output name=version::${{ env.version }}$(date '+%Y-%m-%d')"
+        
 
