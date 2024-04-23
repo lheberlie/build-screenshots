@@ -79,7 +79,7 @@ jobs:
           prerelease: false
           release_name: "${{ env.version }}-$version_date"
           tag_name: ${{ github.ref }}
-          body_path: README.md
+          body: "Release ${{ env.version }}"
         env:
           GITHUB_TOKEN: ${{ github.token }}
       - name: upload tarball artifact
