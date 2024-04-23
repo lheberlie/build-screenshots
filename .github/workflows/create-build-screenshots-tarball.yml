@@ -57,7 +57,6 @@ jobs:
       - name: Checkout build-screenshots branch
         uses: actions/checkout@v3
         with:
-          path: ${{ env.checkout-path }}
           ref: "${{ env.version }}"
       - name: Get next version
         uses: reecetech/version-increment@2024.4.1
@@ -71,7 +70,6 @@ jobs:
         uses: a7ul/tar-action@v1.1.0
         id: compress
         with:
-          cwd: ${{ env.checkout-path }}
           command: c
           files: |
             ./images
