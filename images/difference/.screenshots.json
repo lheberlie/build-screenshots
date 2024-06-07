@@ -1445,8 +1445,8 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.0029518295481566273,
-    "percentageFormatted": "0.2952%"
+    "percentage": 0.0029529355165148724,
+    "percentageFormatted": "0.2953%"
   },
   {
     "folder": "timeslider-filter",
@@ -2143,7 +2143,7 @@
   },
   {
     "folder": "cim-primitive-overrides",
-    "title": "Create a reference size visualization",
+    "title": "Gridded proportional symbols",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
@@ -2835,15 +2835,6 @@
     "percentageFormatted": "0%"
   },
   {
-    "folder": "analysis-viewshed",
-    "title": "Interactive viewshed analysis",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0,
-    "percentageFormatted": "0%"
-  },
-  {
     "folder": "basemap-places",
     "title": "Basemap places",
     "matches": true,
@@ -2998,7 +2989,7 @@
   },
   {
     "folder": "layers-graphics-visibilitytimeextent",
-    "title": "GraphicsLayer with visibilityTimeExtent",
+    "title": "GraphicsLayer visibilityTimeExtent",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
@@ -3062,15 +3053,6 @@
   {
     "folder": "layers-mapimagelayer-renderers",
     "title": "MapImageLayer - set renderers on sublayers",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0,
-    "percentageFormatted": "0%"
-  },
-  {
-    "folder": "layers-orientedimagerylayer-sceneview",
-    "title": "OrientedImageryLayer in SceneView",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
