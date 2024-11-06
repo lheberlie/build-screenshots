@@ -1,23 +1,5 @@
 [
   {
-    "folder": "layers-wfs",
-    "title": "WFSLayer",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.015625,
-    "percentage": 0.9780210908165917,
-    "percentageFormatted": "97.8%"
-  },
-  {
-    "folder": "layers-wmts",
-    "title": "WMTSLayer",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.955340997694056,
-    "percentageFormatted": "95.53%"
-  },
-  {
     "folder": "geoprocessing-viewshed",
     "title": "Geoprocessing - viewshed analysis",
     "matches": true,
@@ -36,6 +18,15 @@
     "percentageFormatted": "69.53%"
   },
   {
+    "folder": "layers-tilelayer",
+    "title": "Intro to TileLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.125,
+    "percentage": 0.6533441718232441,
+    "percentageFormatted": "65.33%"
+  },
+  {
     "folder": "layers-custom-tilelayer",
     "title": "Custom TileLayer",
     "matches": true,
@@ -45,15 +36,6 @@
     "percentageFormatted": "60.53%"
   },
   {
-    "folder": "layers-imagery-vfrenderer",
-    "title": "Visualizing wind data with VectorFieldRenderer",
-    "matches": false,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.3125,
-    "percentage": 0.5268855378047634,
-    "percentageFormatted": "52.69%"
-  },
-  {
     "folder": "geometry-mesh-primitives",
     "title": "Working with 3D mesh primitives",
     "matches": false,
@@ -61,15 +43,6 @@
     "distance": 0.21875,
     "percentage": 0.5126340295404148,
     "percentageFormatted": "51.26%"
-  },
-  {
-    "folder": "layers-routelayer",
-    "title": "Intro to RouteLayer",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.046875,
-    "percentage": 0.507291096401732,
-    "percentageFormatted": "50.73%"
   },
   {
     "folder": "import-gltf",
@@ -113,17 +86,17 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.09375,
-    "percentage": 0.3417608122231623,
-    "percentageFormatted": "34.18%"
+    "percentage": 0.3422043055348187,
+    "percentageFormatted": "34.22%"
   },
   {
-    "folder": "time-layer",
-    "title": "Time-based layer",
+    "folder": "widgets-editor-basic",
+    "title": "Edit features with the Editor widget",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.046875,
-    "percentage": 0.33956546503204543,
-    "percentageFormatted": "33.96%"
+    "distance": 0.0625,
+    "percentage": 0.3407565929538756,
+    "percentageFormatted": "34.08%"
   },
   {
     "folder": "query",
@@ -131,7 +104,7 @@
     "matches": false,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.421875,
-    "percentage": 0.331311623174461,
+    "percentage": 0.33127733815535537,
     "percentageFormatted": "33.13%"
   },
   {
@@ -153,22 +126,13 @@
     "percentageFormatted": "30.01%"
   },
   {
-    "folder": "widgets-editor-basic",
-    "title": "Edit features with the Editor widget",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.0625,
-    "percentage": 0.29614072341390313,
-    "percentageFormatted": "29.61%"
-  },
-  {
     "folder": "sceneview-memory",
     "title": "SceneView memory resources",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.03125,
-    "percentage": 0.2902591836847548,
-    "percentageFormatted": "29.03%"
+    "distance": 0.015625,
+    "percentage": 0.29017844799460285,
+    "percentageFormatted": "29.02%"
   },
   {
     "folder": "featurereduction-binning-arcade-summary",
@@ -185,7 +149,7 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.140625,
-    "percentage": 0.2826257900761459,
+    "percentage": 0.28260920055077227,
     "percentageFormatted": "28.26%"
   },
   {
@@ -193,9 +157,9 @@
     "title": "MediaLayer with animated gif",
     "matches": false,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.21875,
-    "percentage": 0.26022440097988797,
-    "percentageFormatted": "26.02%"
+    "distance": 0.265625,
+    "percentage": 0.2645697506594336,
+    "percentageFormatted": "26.46%"
   },
   {
     "folder": "analysis-objects",
@@ -203,7 +167,7 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.03125,
-    "percentage": 0.24462029341340544,
+    "percentage": 0.24461144566653947,
     "percentageFormatted": "24.46%"
   },
   {
@@ -252,13 +216,13 @@
     "percentageFormatted": "20.21%"
   },
   {
-    "folder": "layers-dynamicdatalayer-table-join",
-    "title": "MapImageLayer - dynamic data layer with table join",
-    "matches": false,
+    "folder": "editing-applyedits",
+    "title": "Update FeatureLayer using applyEdits()",
+    "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.359375,
-    "percentage": 0.1967871619192975,
-    "percentageFormatted": "19.68%"
+    "distance": 0.125,
+    "percentage": 0.18367701300065806,
+    "percentageFormatted": "18.37%"
   },
   {
     "folder": "custom-render-node-windmills",
@@ -266,17 +230,8 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.17845573638138212,
+    "percentage": 0.17848559752705476,
     "percentageFormatted": "17.85%"
-  },
-  {
-    "folder": "editing-applyedits",
-    "title": "Update FeatureLayer using applyEdits()",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.09375,
-    "percentage": 0.17642186057056908,
-    "percentageFormatted": "17.64%"
   },
   {
     "folder": "layers-scenelayer-texture",
@@ -302,7 +257,7 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
-    "percentage": 0.1578404861836903,
+    "percentage": 0.1578360623102573,
     "percentageFormatted": "15.78%"
   },
   {
@@ -329,8 +284,17 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.14455006442265686,
-    "percentageFormatted": "14.46%"
+    "percentage": 0.14322400836112079,
+    "percentageFormatted": "14.32%"
+  },
+  {
+    "folder": "layers-dynamicdatalayer-table-join",
+    "title": "MapImageLayer - dynamic data layer with table join",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.09375,
+    "percentage": 0.1349790142504023,
+    "percentageFormatted": "13.5%"
   },
   {
     "folder": "styling-themes",
@@ -356,8 +320,8 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
-    "percentage": 0.12643430271459932,
-    "percentageFormatted": "12.64%"
+    "percentage": 0.12630822232175937,
+    "percentageFormatted": "12.63%"
   },
   {
     "folder": "view-breakpoints",
@@ -369,22 +333,22 @@
     "percentageFormatted": "11.6%"
   },
   {
+    "folder": "custom-lv-masking",
+    "title": "Masking effect using a custom layer view",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.4375,
+    "percentage": 0.0998412935405918,
+    "percentageFormatted": "9.984%"
+  },
+  {
     "folder": "widgets-editor-subtypes",
     "title": "Edit FeatureLayer with subtypes",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.0625,
-    "percentage": 0.08934565382084418,
-    "percentageFormatted": "8.935%"
-  },
-  {
-    "folder": "visualization-heatmap",
-    "title": "Intro to heatmap",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.046875,
-    "percentage": 0.0859138340052091,
-    "percentageFormatted": "8.591%"
+    "percentage": 0.0893434418841277,
+    "percentageFormatted": "8.934%"
   },
   {
     "folder": "widgets-editor-configurable",
@@ -392,17 +356,17 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.084420776721578,
-    "percentageFormatted": "8.442%"
+    "percentage": 0.08603659649297433,
+    "percentageFormatted": "8.604%"
   },
   {
-    "folder": "custom-lv-masking",
-    "title": "Masking effect using a custom layer view",
+    "folder": "visualization-heatmap",
+    "title": "Intro to heatmap",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.359375,
-    "percentage": 0.08098010915907695,
-    "percentageFormatted": "8.098%"
+    "distance": 0.078125,
+    "percentage": 0.08468289122248213,
+    "percentageFormatted": "8.468%"
   },
   {
     "folder": "visualization-multivariate-2d",
@@ -410,26 +374,35 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.07104187749188495,
-    "percentageFormatted": "7.104%"
+    "percentage": 0.0753474123105338,
+    "percentageFormatted": "7.535%"
   },
   {
     "folder": "featurereduction-cluster-symbol",
     "title": "Override cluster symbol",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.03125,
-    "percentage": 0.06483850097048724,
-    "percentageFormatted": "6.484%"
+    "distance": 0.046875,
+    "percentage": 0.064309848095246,
+    "percentageFormatted": "6.431%"
   },
   {
     "folder": "featurereduction-cluster",
     "title": "Intro to clustering",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.03125,
-    "percentage": 0.056562539745737876,
-    "percentageFormatted": "5.656%"
+    "distance": 0.0625,
+    "percentage": 0.05587462742690932,
+    "percentageFormatted": "5.587%"
+  },
+  {
+    "folder": "labels-multiple-classes",
+    "title": "Add multiple label classes to a layer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.05264519982083313,
+    "percentageFormatted": "5.265%"
   },
   {
     "folder": "editing-scenelayer-applyedits",
@@ -437,7 +410,7 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
-    "percentage": 0.05252575523814264,
+    "percentage": 0.05253128507993386,
     "percentageFormatted": "5.253%"
   },
   {
@@ -450,31 +423,13 @@
     "percentageFormatted": "5.25%"
   },
   {
-    "folder": "labels-multiple-classes",
-    "title": "Add multiple label classes to a layer",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.05201147995155859,
-    "percentageFormatted": "5.201%"
-  },
-  {
-    "folder": "widgets-timeslider",
-    "title": "TimeSlider widget and time zone",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.09375,
-    "percentage": 0.0502894872177707,
-    "percentageFormatted": "5.029%"
-  },
-  {
     "folder": "overview-map",
     "title": "Overview map",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.0625,
-    "percentage": 0.047791104696494634,
-    "percentageFormatted": "4.779%"
+    "percentage": 0.04764954074663924,
+    "percentageFormatted": "4.765%"
   },
   {
     "folder": "featurelayerview-query-distance",
@@ -500,8 +455,8 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.04275231285632918,
-    "percentageFormatted": "4.275%"
+    "percentage": 0.042482456576917335,
+    "percentageFormatted": "4.248%"
   },
   {
     "folder": "visualization-webstylesymbol",
@@ -509,8 +464,8 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.03797231761199312,
-    "percentageFormatted": "3.797%"
+    "percentage": 0.0381990411254334,
+    "percentageFormatted": "3.82%"
   },
   {
     "folder": "widgets-un-associations",
@@ -520,6 +475,15 @@
     "distance": 0.046875,
     "percentage": 0.03754209592063571,
     "percentageFormatted": "3.754%"
+  },
+  {
+    "folder": "widgets-timeslider",
+    "title": "TimeSlider widget and time zone",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.078125,
+    "percentage": 0.037428181179736446,
+    "percentageFormatted": "3.743%"
   },
   {
     "folder": "knowledgegraph-applyedits",
@@ -536,8 +500,8 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.03606562816237827,
-    "percentageFormatted": "3.607%"
+    "percentage": 0.03607668784596073,
+    "percentageFormatted": "3.608%"
   },
   {
     "folder": "knowledgegraph-knowledgegraphlayer",
@@ -594,15 +558,6 @@
     "percentageFormatted": "3.345%"
   },
   {
-    "folder": "layers-imagery-afrenderer",
-    "title": "FlowRenderer with visual variables",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.015625,
-    "percentage": 0.03247676083987237,
-    "percentageFormatted": "3.248%"
-  },
-  {
     "folder": "featurereduction-binning-aggregate-fields",
     "title": "Binning with aggregate fields",
     "matches": true,
@@ -612,13 +567,22 @@
     "percentageFormatted": "3.245%"
   },
   {
+    "folder": "featurereduction-cluster-pie-charts",
+    "title": "Clusters as pie charts",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.03211179128165143,
+    "percentageFormatted": "3.211%"
+  },
+  {
     "folder": "knowledgegraph-search",
     "title": "Search Knowledge Graphs",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
-    "percentage": 0.032117321123442656,
-    "percentageFormatted": "3.212%"
+    "percentage": 0.03204322124344022,
+    "percentageFormatted": "3.204%"
   },
   {
     "folder": "knowledgegraph-query",
@@ -628,15 +592,6 @@
     "distance": 0.046875,
     "percentage": 0.03194921393298938,
     "percentageFormatted": "3.195%"
-  },
-  {
-    "folder": "featurereduction-cluster-filter-slider",
-    "title": "Clustering - advanced configuration",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.078125,
-    "percentage": 0.03152120417834846,
-    "percentageFormatted": "3.152%"
   },
   {
     "folder": "widgets-featuretable",
@@ -653,8 +608,8 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.029126782682747446,
-    "percentageFormatted": "2.913%"
+    "percentage": 0.029001808258265732,
+    "percentageFormatted": "2.9%"
   },
   {
     "folder": "view-theme",
@@ -664,15 +619,6 @@
     "distance": 0,
     "percentage": 0.026381769217582684,
     "percentageFormatted": "2.638%"
-  },
-  {
-    "folder": "widgets-editor-3d",
-    "title": "Edit features in 3D with the Editor widget",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.03125,
-    "percentage": 0.02604887274175086,
-    "percentageFormatted": "2.605%"
   },
   {
     "folder": "editing-featureform-fieldvisibility",
@@ -711,6 +657,24 @@
     "percentageFormatted": "2.415%"
   },
   {
+    "folder": "widgets-featureform-async",
+    "title": "Editing with calculated field expressions",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.024083566969149012,
+    "percentageFormatted": "2.408%"
+  },
+  {
+    "folder": "featurereduction-cluster-visualvariables",
+    "title": "Clustering with visual variables",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.023874538949440655,
+    "percentageFormatted": "2.387%"
+  },
+  {
     "folder": "widgets-timeslider-offset",
     "title": "TimeSlider with timeOffset and actions",
     "matches": true,
@@ -727,24 +691,6 @@
     "distance": 0,
     "percentage": 0.023036214933890742,
     "percentageFormatted": "2.304%"
-  },
-  {
-    "folder": "featurereduction-cluster-visualvariables",
-    "title": "Clustering with visual variables",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.015625,
-    "percentage": 0.02298976426284444,
-    "percentageFormatted": "2.299%"
-  },
-  {
-    "folder": "widgets-featureform-async",
-    "title": "Editing with calculated field expressions",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.015625,
-    "percentage": 0.022770782527911877,
-    "percentageFormatted": "2.277%"
   },
   {
     "folder": "sketch-update-validation",
@@ -770,17 +716,17 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
-    "percentage": 0.022200102855057316,
-    "percentageFormatted": "2.22%"
+    "percentage": 0.022179089456250658,
+    "percentageFormatted": "2.218%"
   },
   {
-    "folder": "labels-basic",
-    "title": "Add labels to a FeatureLayer",
+    "folder": "featurereduction-cluster-filter-slider",
+    "title": "Clustering - advanced configuration",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.02173449017623606,
-    "percentageFormatted": "2.173%"
+    "distance": 0.0625,
+    "percentage": 0.021261135718907084,
+    "percentageFormatted": "2.126%"
   },
   {
     "folder": "layers-voxel",
@@ -806,17 +752,8 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.020131942025138662,
-    "percentageFormatted": "2.013%"
-  },
-  {
-    "folder": "custom-gl-animated-lines",
-    "title": "Animated lines with WebGL",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.03125,
-    "percentage": 0.019956093056177664,
-    "percentageFormatted": "1.996%"
+    "percentage": 0.02014410767707936,
+    "percentageFormatted": "2.014%"
   },
   {
     "folder": "simple-ui",
@@ -833,8 +770,8 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.018788190469870656,
-    "percentageFormatted": "1.879%"
+    "percentage": 0.018768283039422243,
+    "percentageFormatted": "1.877%"
   },
   {
     "folder": "layers-dimension",
@@ -842,8 +779,8 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
-    "percentage": 0.01853492371583249,
-    "percentageFormatted": "1.853%"
+    "percentage": 0.018536029684190734,
+    "percentageFormatted": "1.854%"
   },
   {
     "folder": "featurereduction-cluster-filter",
@@ -860,8 +797,8 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
-    "percentage": 0.017453286661468614,
-    "percentageFormatted": "1.745%"
+    "percentage": 0.017413471800571786,
+    "percentageFormatted": "1.741%"
   },
   {
     "folder": "layers-wcslayer",
@@ -871,6 +808,15 @@
     "distance": 0.015625,
     "percentage": 0.017279649629224108,
     "percentageFormatted": "1.728%"
+  },
+  {
+    "folder": "geometry-mesh-elevation",
+    "title": "Low poly terrain using mesh geometry",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.03125,
+    "percentage": 0.01722766911638658,
+    "percentageFormatted": "1.723%"
   },
   {
     "folder": "timestamp-offset-field",
@@ -896,8 +842,8 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
-    "percentage": 0.016036541194556424,
-    "percentageFormatted": "1.604%"
+    "percentage": 0.015994514396943105,
+    "percentageFormatted": "1.599%"
   },
   {
     "folder": "popup-editaction",
@@ -905,8 +851,17 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.015155084413034942,
-    "percentageFormatted": "1.516%"
+    "percentage": 0.015229184293037375,
+    "percentageFormatted": "1.523%"
+  },
+  {
+    "folder": "satellites-3d",
+    "title": "Satellites in 3D view",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.03125,
+    "percentage": 0.015021262241687266,
+    "percentageFormatted": "1.502%"
   },
   {
     "folder": "scene-blendmode",
@@ -916,15 +871,6 @@
     "distance": 0,
     "percentage": 0.014964857855416756,
     "percentageFormatted": "1.496%"
-  },
-  {
-    "folder": "satellites-3d",
-    "title": "Satellites in 3D view",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.014930572836311154,
-    "percentageFormatted": "1.493%"
   },
   {
     "folder": "widgets-basemapgallery",
@@ -945,22 +891,31 @@
     "percentageFormatted": "1.344%"
   },
   {
-    "folder": "layers-imagery-afrenderer-blending",
-    "title": "FlowRenderer with effects and blending",
+    "folder": "widgets-editor-3d",
+    "title": "Edit features in 3D with the Editor widget",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
-    "percentage": 0.01231938154249407,
-    "percentageFormatted": "1.232%"
+    "percentage": 0.013237335279837644,
+    "percentageFormatted": "1.324%"
   },
   {
-    "folder": "widgets-directions",
-    "title": "Directions widget",
+    "folder": "highlight-scenelayer",
+    "title": "Highlight SceneLayer",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.011990908940095224,
-    "percentageFormatted": "1.199%"
+    "distance": 0.015625,
+    "percentage": 0.012839186670869347,
+    "percentageFormatted": "1.284%"
+  },
+  {
+    "folder": "custom-lv-deckgl",
+    "title": "Build a custom layer view using deck.gl",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.012553846834442066,
+    "percentageFormatted": "1.255%"
   },
   {
     "folder": "highlight-features-by-geometry",
@@ -990,15 +945,6 @@
     "percentageFormatted": "1.145%"
   },
   {
-    "folder": "geometry-mesh-elevation",
-    "title": "Low poly terrain using mesh geometry",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.015625,
-    "percentage": 0.011364930849328402,
-    "percentageFormatted": "1.136%"
-  },
-  {
     "folder": "visualization-sm-multivariate",
     "title": "Multivariate data exploration",
     "matches": true,
@@ -1006,15 +952,6 @@
     "distance": 0,
     "percentage": 0.010971206113793085,
     "percentageFormatted": "1.097%"
-  },
-  {
-    "folder": "custom-lv-deckgl",
-    "title": "Build a custom layer view using deck.gl",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.015625,
-    "percentage": 0.010798675049906822,
-    "percentageFormatted": "1.08%"
   },
   {
     "folder": "places",
@@ -1026,13 +963,22 @@
     "percentageFormatted": "1.051%"
   },
   {
+    "folder": "custom-gl-animated-lines",
+    "title": "Animated lines with WebGL",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.010291035573472242,
+    "percentageFormatted": "1.029%"
+  },
+  {
     "folder": "popuptemplate-arcade-expression-content",
     "title": "Create popup charts from Arcade expressions",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
-    "percentage": 0.009696024596736288,
-    "percentageFormatted": "0.9696%"
+    "percentage": 0.009705978311960494,
+    "percentageFormatted": "0.9706%"
   },
   {
     "folder": "layers-scenelayer-feature-masking",
@@ -1080,6 +1026,15 @@
     "percentageFormatted": "0.9292%"
   },
   {
+    "folder": "featurelayer-query-pagination",
+    "title": "Query features with pagination",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.009128662828956463,
+    "percentageFormatted": "0.9129%"
+  },
+  {
     "folder": "sketch-viewmodel-styler",
     "title": "SketchViewModel Styler",
     "matches": true,
@@ -1087,6 +1042,15 @@
     "distance": 0,
     "percentage": 0.008325729800870397,
     "percentageFormatted": "0.8326%"
+  },
+  {
+    "folder": "labels-basic",
+    "title": "Add labels to a FeatureLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.008285914939973568,
+    "percentageFormatted": "0.8286%"
   },
   {
     "folder": "labels-multiline",
@@ -1121,8 +1085,26 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.007258470335163711,
-    "percentageFormatted": "0.7258%"
+    "percentage": 0.007231927094565825,
+    "percentageFormatted": "0.7232%"
+  },
+  {
+    "folder": "custom-gl-visuals",
+    "title": "Custom WebGL layer view",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.006949905163213281,
+    "percentageFormatted": "0.695%"
+  },
+  {
+    "folder": "watch-for-changes",
+    "title": "Watch for changes",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.006935527574556092,
+    "percentageFormatted": "0.6936%"
   },
   {
     "folder": "layers-featurelayer-labeling-3d",
@@ -1161,6 +1143,15 @@
     "percentageFormatted": "0.677%"
   },
   {
+    "folder": "layers-imagery-afrenderer-blending",
+    "title": "FlowRenderer with effects and blending",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0067298174599224716,
+    "percentageFormatted": "0.673%"
+  },
+  {
     "folder": "visualization-sm-uni-colorsize",
     "title": "Generate univariate continuous size and color visualization in 3D",
     "matches": true,
@@ -1175,8 +1166,8 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.006097203559006177,
-    "percentageFormatted": "0.6097%"
+    "percentage": 0.006099415495722667,
+    "percentageFormatted": "0.6099%"
   },
   {
     "folder": "widgets-measurement-2d",
@@ -1197,13 +1188,13 @@
     "percentageFormatted": "0.5831%"
   },
   {
-    "folder": "featurereduction-cluster-popup-filter",
-    "title": "Clustering - filter popup features",
+    "folder": "layers-ogcfeaturelayer",
+    "title": "OGCFeatureLayer",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.005824029374519595,
-    "percentageFormatted": "0.5824%"
+    "percentage": 0.005717856412128049,
+    "percentageFormatted": "0.5718%"
   },
   {
     "folder": "visualization-dictionary",
@@ -1211,8 +1202,8 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.005404867366744637,
-    "percentageFormatted": "0.5405%"
+    "percentage": 0.005449106101074448,
+    "percentageFormatted": "0.5449%"
   },
   {
     "folder": "layers-scenelayerview-query-stats",
@@ -1220,8 +1211,8 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.0053396152336081665,
-    "percentageFormatted": "0.534%"
+    "percentage": 0.005344039107041148,
+    "percentageFormatted": "0.5344%"
   },
   {
     "folder": "layers-scenelayerview-query",
@@ -1229,8 +1220,8 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.004980175517178454,
-    "percentageFormatted": "0.498%"
+    "percentage": 0.004983493422253189,
+    "percentageFormatted": "0.4983%"
   },
   {
     "folder": "timeslider-filter",
@@ -1256,8 +1247,8 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.004693729712392928,
-    "percentageFormatted": "0.4694%"
+    "percentage": 0.004692623744034683,
+    "percentageFormatted": "0.4693%"
   },
   {
     "folder": "layers-imagerytilelayer-cog",
@@ -1267,6 +1258,15 @@
     "distance": 0,
     "percentage": 0.004667186471795042,
     "percentageFormatted": "0.4667%"
+  },
+  {
+    "folder": "layers-kml",
+    "title": "KMLLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.004540000110596836,
+    "percentageFormatted": "0.454%"
   },
   {
     "folder": "watch-for-changes-reactiveutils",
@@ -1287,24 +1287,6 @@
     "percentageFormatted": "0.4415%"
   },
   {
-    "folder": "layers-ogcfeaturelayer",
-    "title": "OGCFeatureLayer",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.0043752108252182904,
-    "percentageFormatted": "0.4375%"
-  },
-  {
-    "folder": "layers-kml",
-    "title": "KMLLayer",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.004201573792973783,
-    "percentageFormatted": "0.4202%"
-  },
-  {
     "folder": "layers-scenelayer-edges",
     "title": "Add edges to a SceneLayer",
     "matches": true,
@@ -1312,6 +1294,15 @@
     "distance": 0,
     "percentage": 0.004181666362525368,
     "percentageFormatted": "0.4182%"
+  },
+  {
+    "folder": "layers-wmts",
+    "title": "WMTSLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.004176136520734142,
+    "percentageFormatted": "0.4176%"
   },
   {
     "folder": "layers-voxel-dynamic-sections",
@@ -1341,6 +1332,15 @@
     "percentageFormatted": "0.4069%"
   },
   {
+    "folder": "featurereduction-cluster-query",
+    "title": "Clustering - query clusters",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.004065539684909615,
+    "percentageFormatted": "0.4066%"
+  },
+  {
     "folder": "widgets-floorfilter",
     "title": "FloorFilter widget",
     "matches": true,
@@ -1350,13 +1350,22 @@
     "percentageFormatted": "0.3996%"
   },
   {
+    "folder": "visualization-sm-dotdensity",
+    "title": "Generate a dot density visualization",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.0038399221398275796,
+    "percentageFormatted": "0.384%"
+  },
+  {
     "folder": "featurereduction-cluster-aggregate-fields",
     "title": "Clustering with aggregate fields",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.003838816171469334,
-    "percentageFormatted": "0.3839%"
+    "percentage": 0.003837710203111089,
+    "percentageFormatted": "0.3838%"
   },
   {
     "folder": "scene-weather",
@@ -1404,22 +1413,13 @@
     "percentageFormatted": "0.3431%"
   },
   {
-    "folder": "highlight-scenelayer",
-    "title": "Highlight SceneLayer",
+    "folder": "featurereduction-cluster-popup-filter",
+    "title": "Clustering - filter popup features",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.003421866100410867,
-    "percentageFormatted": "0.3422%"
-  },
-  {
-    "folder": "custom-gl-visuals",
-    "title": "Custom WebGL layer view",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.00326924246697302,
-    "percentageFormatted": "0.3269%"
+    "percentage": 0.0033123752329445853,
+    "percentageFormatted": "0.3312%"
   },
   {
     "folder": "route",
@@ -1440,6 +1440,15 @@
     "percentageFormatted": "0.2983%"
   },
   {
+    "folder": "visualization-sm-size",
+    "title": "Generate data-driven continuous size visualization",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0028832595099454205,
+    "percentageFormatted": "0.2883%"
+  },
+  {
     "folder": "popup-docking-position",
     "title": "Popup dock positions",
     "matches": true,
@@ -1447,15 +1456,6 @@
     "distance": 0,
     "percentage": 0.0028578222377057794,
     "percentageFormatted": "0.2858%"
-  },
-  {
-    "folder": "visualization-sm-size",
-    "title": "Generate data-driven continuous size visualization",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.0028345969021826285,
-    "percentageFormatted": "0.2835%"
   },
   {
     "folder": "graphics-basic-3d",
@@ -1467,13 +1467,13 @@
     "percentageFormatted": "0.266%"
   },
   {
-    "folder": "visualization-dot-density",
-    "title": "Dot density",
+    "folder": "layers-imagery-afrenderer",
+    "title": "FlowRenderer with visual variables",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.0025448331923223675,
-    "percentageFormatted": "0.2545%"
+    "percentage": 0.0025658465911290278,
+    "percentageFormatted": "0.2566%"
   },
   {
     "folder": "widgets-feature",
@@ -1512,6 +1512,15 @@
     "percentageFormatted": "0.2366%"
   },
   {
+    "folder": "visualization-dot-density",
+    "title": "Dot density",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0023590305081371624,
+    "percentageFormatted": "0.2359%"
+  },
+  {
     "folder": "layers-medialayer-images",
     "title": "MediaLayer with images",
     "matches": true,
@@ -1521,22 +1530,22 @@
     "percentageFormatted": "0.2294%"
   },
   {
-    "folder": "visualization-sm-dotdensity",
-    "title": "Generate a dot density visualization",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.015625,
-    "percentage": 0.00228935450156771,
-    "percentageFormatted": "0.2289%"
-  },
-  {
     "folder": "analysis-area-measurement",
     "title": "Area measurement analysis object",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.002281612723059993,
-    "percentageFormatted": "0.2282%"
+    "percentage": 0.002279400786343503,
+    "percentageFormatted": "0.2279%"
+  },
+  {
+    "folder": "visualization-point-styles",
+    "title": "Point styles for cities",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0022705530394775404,
+    "percentageFormatted": "0.2271%"
   },
   {
     "folder": "visualization-unique-value-groups",
@@ -1546,24 +1555,6 @@
     "distance": 0,
     "percentage": 0.002263917229328069,
     "percentageFormatted": "0.2264%"
-  },
-  {
-    "folder": "visualization-point-styles",
-    "title": "Point styles for cities",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.002239585925446673,
-    "percentageFormatted": "0.224%"
-  },
-  {
-    "folder": "featurereduction-cluster-pie-charts",
-    "title": "Clusters as pie charts",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.002210830748132296,
-    "percentageFormatted": "0.2211%"
   },
   {
     "folder": "layers-voxel-opacity-stops",
@@ -1584,13 +1575,22 @@
     "percentageFormatted": "0.2118%"
   },
   {
-    "folder": "visualization-sm-location-scale",
-    "title": "Vary point sizes by scale",
+    "folder": "featurereduction-cluster-popup-chart",
+    "title": "Popup charts for clusters",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.002023922095588845,
     "percentageFormatted": "0.2024%"
+  },
+  {
+    "folder": "visualization-sm-location-scale",
+    "title": "Vary point sizes by scale",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0020183922537976187,
+    "percentageFormatted": "0.2018%"
   },
   {
     "folder": "scene-shadow",
@@ -1600,24 +1600,6 @@
     "distance": 0.015625,
     "percentage": 0.0018281656961794323,
     "percentageFormatted": "0.1828%"
-  },
-  {
-    "folder": "featurereduction-cluster-query",
-    "title": "Clustering - query clusters",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.0017949866454320743,
-    "percentageFormatted": "0.1795%"
-  },
-  {
-    "folder": "featurereduction-cluster-popup-chart",
-    "title": "Popup charts for clusters",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.0017883508352826026,
-    "percentageFormatted": "0.1788%"
   },
   {
     "folder": "layers-vectortilelayer-style",
@@ -1643,8 +1625,8 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.0017142509552801695,
-    "percentageFormatted": "0.1714%"
+    "percentage": 0.0017098270818471884,
+    "percentageFormatted": "0.171%"
   },
   {
     "folder": "layers-scenelayer-color-mix-mode",
@@ -1654,15 +1636,6 @@
     "distance": 0,
     "percentage": 0.0016744360943833398,
     "percentageFormatted": "0.1674%"
-  },
-  {
-    "folder": "widgets-bookmarks",
-    "title": "Bookmarks widget",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.0016501047905019437,
-    "percentageFormatted": "0.165%"
   },
   {
     "folder": "visualization-heatmap-scene",
@@ -1692,6 +1665,15 @@
     "percentageFormatted": "0.1454%"
   },
   {
+    "folder": "visualization-sm-relationship",
+    "title": "Generate a relationship visualization",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.001451030486017795,
+    "percentageFormatted": "0.1451%"
+  },
+  {
     "folder": "custom-render-node-color",
     "title": "Custom RenderNode - Color modification",
     "matches": true,
@@ -1699,15 +1681,6 @@
     "distance": 0.015625,
     "percentage": 0.0014410767707935875,
     "percentageFormatted": "0.1441%"
-  },
-  {
-    "folder": "visualization-sm-relationship",
-    "title": "Generate a relationship visualization",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.0014399708024353424,
-    "percentageFormatted": "0.144%"
   },
   {
     "folder": "widgets-elevation-profile",
@@ -1733,26 +1706,8 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.0012840292639227592,
-    "percentageFormatted": "0.1284%"
-  },
-  {
-    "folder": "elevation-query-points",
-    "title": "Query Elevation (points)",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.0012475323081006652,
-    "percentageFormatted": "0.1248%"
-  },
-  {
-    "folder": "featurelayer-query-pagination",
-    "title": "Query features with pagination",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.001222095035861024,
-    "percentageFormatted": "0.1222%"
+    "percentage": 0.0012939829791469666,
+    "percentageFormatted": "0.1294%"
   },
   {
     "folder": "layers-featurelayer-collection",
@@ -1789,15 +1744,6 @@
     "distance": 0,
     "percentage": 0.0009688282818228571,
     "percentageFormatted": "0.09688%"
-  },
-  {
-    "folder": "arcade-execute-chart",
-    "title": "Execute Arcade for a custom chart",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.0009621924716733854,
-    "percentageFormatted": "0.09622%"
   },
   {
     "folder": "blendmode-multiple-layers",
@@ -1854,6 +1800,15 @@
     "percentageFormatted": "0.07598%"
   },
   {
+    "folder": "arcade-execute-chart",
+    "title": "Execute Arcade for a custom chart",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0007310450848001239,
+    "percentageFormatted": "0.0731%"
+  },
+  {
     "folder": "cim-lines-and-polygons",
     "title": "CIMSymbol lines and polygons",
     "matches": true,
@@ -1890,6 +1845,15 @@
     "percentageFormatted": "0.06492%"
   },
   {
+    "folder": "mars",
+    "title": "Visualize data on Mars",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0006060706603184082,
+    "percentageFormatted": "0.06061%"
+  },
+  {
     "folder": "widgets-compass-2d",
     "title": "Compass widget",
     "matches": true,
@@ -1913,17 +1877,8 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.0005408185271819373,
-    "percentageFormatted": "0.05408%"
-  },
-  {
-    "folder": "mars",
-    "title": "Visualize data on Mars",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.0005375006221072015,
-    "percentageFormatted": "0.05375%"
+    "percentage": 0.0005330767486742204,
+    "percentageFormatted": "0.05331%"
   },
   {
     "folder": "featureeffect-geometry",
@@ -1998,6 +1953,15 @@
     "percentageFormatted": "0.04147%"
   },
   {
+    "folder": "layers-medialayer-video",
+    "title": "MediaLayer with video",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0004092082925507501,
+    "percentageFormatted": "0.04092%"
+  },
+  {
     "folder": "layers-imagery-renderer",
     "title": "ImageryTileLayer - shaded relief renderer",
     "matches": true,
@@ -2070,6 +2034,15 @@
     "percentageFormatted": "0.03274%"
   },
   {
+    "folder": "layers-wfs",
+    "title": "WFSLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0002709622477700913,
+    "percentageFormatted": "0.0271%"
+  },
+  {
     "folder": "popup-multipleelements",
     "title": "Multiple popup elements",
     "matches": true,
@@ -2077,6 +2050,15 @@
     "distance": 0,
     "percentage": 0.00025547869075465753,
     "percentageFormatted": "0.02555%"
+  },
+  {
+    "folder": "time-layer",
+    "title": "Time-based layer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00023888916538097844,
+    "percentageFormatted": "0.02389%"
   },
   {
     "folder": "visualization-vv-extrusion",
@@ -2088,8 +2070,8 @@
     "percentageFormatted": "0.02311%"
   },
   {
-    "folder": "visualization-sm-size-themes",
-    "title": "Size visual variable themes",
+    "folder": "layers-pointcloud-filters",
+    "title": "Filter points in a PointCloudLayer",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
@@ -2097,13 +2079,13 @@
     "percentageFormatted": "0.02146%"
   },
   {
-    "folder": "layers-pointcloud-filters",
-    "title": "Filter points in a PointCloudLayer",
+    "folder": "visualization-sm-size-themes",
+    "title": "Size visual variable themes",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.00021345189314133723,
-    "percentageFormatted": "0.02135%"
+    "percentage": 0.00021455786149958249,
+    "percentageFormatted": "0.02146%"
   },
   {
     "folder": "layers-vectortilelayer-json",
@@ -2212,15 +2194,6 @@
     "distance": 0,
     "percentage": 0.00008073569015190476,
     "percentageFormatted": "0.008074%"
-  },
-  {
-    "folder": "layers-medialayer-video",
-    "title": "MediaLayer with video",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.00007299391164418786,
-    "percentageFormatted": "0.007299%"
   },
   {
     "folder": "layers-streamlayer",
@@ -2403,6 +2376,24 @@
     "percentageFormatted": "0.001438%"
   },
   {
+    "folder": "elevation-query-points",
+    "title": "Query Elevation (points)",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000013271620298943246,
+    "percentageFormatted": "0.001327%"
+  },
+  {
+    "folder": "widgets-directions",
+    "title": "Directions widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000013271620298943246,
+    "percentageFormatted": "0.001327%"
+  },
+  {
     "folder": "cim-symbols",
     "title": "Intro to CIMSymbol",
     "matches": true,
@@ -2484,15 +2475,6 @@
     "percentageFormatted": "0.0007742%"
   },
   {
-    "folder": "layers-tilelayer",
-    "title": "Intro to TileLayer",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.000007741778507716894,
-    "percentageFormatted": "0.0007742%"
-  },
-  {
     "folder": "query-related-features",
     "title": "Query Related Features",
     "matches": true,
@@ -2567,6 +2549,15 @@
   {
     "folder": "view-disable-navigation",
     "title": "Disable all view navigation",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.000004423873432981082,
+    "percentageFormatted": "0.0004424%"
+  },
+  {
+    "folder": "widgets-bookmarks",
+    "title": "Bookmarks widget",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
@@ -2675,6 +2666,15 @@
   {
     "folder": "layers-custom-elevation-exaggerated",
     "title": "Custom ElevationLayer - Exaggerating elevation",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0000011059683582452705,
+    "percentageFormatted": "0.0001106%"
+  },
+  {
+    "folder": "layers-routelayer",
+    "title": "Intro to RouteLayer",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
@@ -2916,6 +2916,15 @@
     "percentageFormatted": "0%"
   },
   {
+    "folder": "geometry-operator-centroid",
+    "title": "Geometry operator - centroid analysis (beta)",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "percentageFormatted": "0%"
+  },
+  {
     "folder": "highlightoptions-layerviews",
     "title": "Highlight options for layer views",
     "matches": true,
@@ -3132,6 +3141,15 @@
     "percentageFormatted": "0%"
   },
   {
+    "folder": "layers-imagery-vfrenderer",
+    "title": "Visualizing wind data with VectorFieldRenderer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "percentageFormatted": "0%"
+  },
+  {
     "folder": "layers-imagerylayer",
     "title": "Intro to ImageryLayer",
     "matches": true,
@@ -3222,6 +3240,15 @@
     "percentageFormatted": "0%"
   },
   {
+    "folder": "layers-viewshed",
+    "title": "ViewshedLayer in slides",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "percentageFormatted": "0%"
+  },
+  {
     "folder": "layers-voxel-popup-config",
     "title": "Configuring the popup of a VoxelLayer",
     "matches": true,
@@ -3260,6 +3287,15 @@
   {
     "folder": "locate",
     "title": "Locate component",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "percentageFormatted": "0%"
+  },
+  {
+    "folder": "map-component-hittest",
+    "title": "Access features with hitTest",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
@@ -3521,15 +3557,6 @@
   {
     "folder": "visualization-vv-rotation",
     "title": "Visualize data with rotation",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0,
-    "percentageFormatted": "0%"
-  },
-  {
-    "folder": "watch-for-changes",
-    "title": "Watch for changes",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
