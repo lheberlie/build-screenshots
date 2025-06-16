@@ -1,14 +1,5 @@
 [
   {
-    "folder": "custom-render-node-windmills",
-    "title": "Custom RenderNode - Animated Windmills",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.078125,
-    "percentage": 0.9528315554891974,
-    "percentageFormatted": "95.28%"
-  },
-  {
     "folder": "widgets-valuepicker",
     "title": "ValuePicker widget",
     "matches": false,
@@ -61,15 +52,6 @@
     "distance": 0.15625,
     "percentage": 0.39205361734600774,
     "percentageFormatted": "39.21%"
-  },
-  {
-    "folder": "time-layer",
-    "title": "Time-based layer",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.09375,
-    "percentage": 0.3752229908702312,
-    "percentageFormatted": "37.52%"
   },
   {
     "folder": "swipe-scroll",
@@ -313,6 +295,15 @@
     "distance": 0,
     "percentage": 0.07567699088129089,
     "percentageFormatted": "7.568%"
+  },
+  {
+    "folder": "time-layer",
+    "title": "Time-based layer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.06607276165828896,
+    "percentageFormatted": "6.607%"
   },
   {
     "folder": "editing-scenelayer-applyedits",
@@ -673,6 +664,15 @@
     "distance": 0,
     "percentage": 0.01607193218202027,
     "percentageFormatted": "1.607%"
+  },
+  {
+    "folder": "custom-render-node-windmills",
+    "title": "Custom RenderNode - Animated Windmills",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.015418304882297318,
+    "percentageFormatted": "1.542%"
   },
   {
     "folder": "featureeffect-multiple-effects",

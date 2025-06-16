@@ -4,12 +4,8 @@
   "previousTotal": 432,
   "currentTotal": 432,
   "differenceTotal": 432,
-  "retakeScript": "grunt createSampleCodeScreenshots --skip-thumbnails --samples=layers-orientedimagerylayer-sceneview,custom-render-node-windmills,query-attribute-bins,widgets-valuepicker,layers-routelayer,webscene-slides,basemap-custom,time-layer --name=next.gha.afd.arcgis.com",
+  "retakeScript": "grunt createSampleCodeScreenshots --skip-thumbnails --samples=layers-orientedimagerylayer-sceneview,query-attribute-bins,widgets-valuepicker,layers-routelayer,webscene-slides,basemap-custom --name=next.gha.afd.arcgis.com",
   "samplesList": [
-    {
-      "folder": "custom-render-node-windmills",
-      "title": "Custom RenderNode - Animated Windmills"
-    },
     {
       "folder": "widgets-valuepicker",
       "title": "ValuePicker widget"
@@ -33,10 +29,6 @@
     {
       "folder": "layers-orientedimagerylayer-sceneview",
       "title": "OrientedImageryLayer in SceneView"
-    },
-    {
-      "folder": "time-layer",
-      "title": "Time-based layer"
     },
     {
       "folder": "swipe-scroll",
@@ -145,6 +137,10 @@
     {
       "folder": "webscene-save",
       "title": "Save a web scene"
+    },
+    {
+      "folder": "time-layer",
+      "title": "Time-based layer"
     },
     {
       "folder": "editing-scenelayer-applyedits",
@@ -305,6 +301,10 @@
     {
       "folder": "webmap-save",
       "title": "Save a web map"
+    },
+    {
+      "folder": "custom-render-node-windmills",
+      "title": "Custom RenderNode - Animated Windmills"
     },
     {
       "folder": "featureeffect-multiple-effects",
@@ -1737,37 +1737,6 @@
   ],
   "samplesWithErrors": [
     {
-      "folder": "custom-render-node-windmills",
-      "screenshot": {
-        "errors": [
-          "pageerror - TypeError: Cannot read properties of undefined (reading 'type')",
-          "waitForResources - setTimeout - screenshot timeout exceeded 10000ms"
-        ],
-        "screenshot_delay_ms": 10000,
-        "source": "C:\\devtopia\\arcgis-js-sdk-4\\build-screenshots\\images\\4.33\\custom-render-node-windmills.png",
-        "metrics": {
-          "Timestamp": 183965.995149,
-          "Documents": 3,
-          "Frames": 1,
-          "JSEventListeners": 7,
-          "Nodes": 41,
-          "LayoutCount": 3,
-          "RecalcStyleCount": 2,
-          "LayoutDuration": 0.000288,
-          "RecalcStyleDuration": 0.009469,
-          "ScriptDuration": 0.074578,
-          "TaskDuration": 0.331541,
-          "JSHeapUsedSize": 6025908,
-          "JSHeapTotalSize": 10051584
-        },
-        "browser": {
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-          "version": "Chrome/133.0.6943.98"
-        }
-      },
-      "title": "Custom RenderNode - Animated Windmills"
-    },
-    {
       "folder": "widgets-valuepicker",
       "screenshot": {
         "errors": [
@@ -1948,37 +1917,6 @@
         }
       },
       "title": "OrientedImageryLayer in SceneView"
-    },
-    {
-      "folder": "time-layer",
-      "screenshot": {
-        "errors": [
-          "pageerror - TypeError: Cannot read properties of undefined (reading 'type')",
-          "waitForResources - setTimeout - screenshot timeout exceeded 10000ms"
-        ],
-        "screenshot_delay_ms": 10000,
-        "source": "C:\\devtopia\\arcgis-js-sdk-4\\build-screenshots\\images\\4.33\\time-layer.png",
-        "metrics": {
-          "Timestamp": 192577.38066,
-          "Documents": 3,
-          "Frames": 1,
-          "JSEventListeners": 7,
-          "Nodes": 42,
-          "LayoutCount": 3,
-          "RecalcStyleCount": 2,
-          "LayoutDuration": 0.000324,
-          "RecalcStyleDuration": 0.010529,
-          "ScriptDuration": 0.06425,
-          "TaskDuration": 0.277101,
-          "JSHeapUsedSize": 5992088,
-          "JSHeapTotalSize": 10838016
-        },
-        "browser": {
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
-          "version": "Chrome/133.0.6943.98"
-        }
-      },
-      "title": "Time-based layer"
     },
     {
       "folder": "swipe-scroll",
@@ -2980,6 +2918,38 @@
         }
       },
       "title": "Save a web scene"
+    },
+    {
+      "folder": "time-layer",
+      "screenshot": {
+        "errors": [
+          "pageerror - TypeError: Cannot read properties of undefined (reading 'type')",
+          "waitForResources - setTimeout - screenshot timeout exceeded 10000ms",
+          "waitForResources - setTimeout - screenshot timeout exceeded 10000ms"
+        ],
+        "screenshot_delay_ms": 10000,
+        "source": "C:\\devtopia\\arcgis-js-sdk-4\\build-screenshots\\images\\4.33\\time-layer.png",
+        "metrics": {
+          "Timestamp": 236440.299247,
+          "Documents": 3,
+          "Frames": 3,
+          "JSEventListeners": 71,
+          "Nodes": 195,
+          "LayoutCount": 18,
+          "RecalcStyleCount": 17,
+          "LayoutDuration": 0.013632,
+          "RecalcStyleDuration": 0.014588,
+          "ScriptDuration": 1.609535,
+          "TaskDuration": 2.637532,
+          "JSHeapUsedSize": 38393656,
+          "JSHeapTotalSize": 63401984
+        },
+        "browser": {
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+          "version": "Chrome/133.0.6943.98"
+        }
+      },
+      "title": "Time-based layer"
     },
     {
       "folder": "editing-scenelayer-applyedits",
@@ -4156,6 +4126,38 @@
         }
       },
       "title": "Watch for changes in components"
+    },
+    {
+      "folder": "custom-render-node-windmills",
+      "screenshot": {
+        "errors": [
+          "pageerror - TypeError: Cannot read properties of undefined (reading 'type')",
+          "waitForResources - setTimeout - screenshot timeout exceeded 10000ms",
+          "waitForResources - setTimeout - screenshot timeout exceeded 10000ms"
+        ],
+        "screenshot_delay_ms": 10000,
+        "source": "C:\\devtopia\\arcgis-js-sdk-4\\build-screenshots\\images\\4.33\\custom-render-node-windmills.png",
+        "metrics": {
+          "Timestamp": 236410.104076,
+          "Documents": 3,
+          "Frames": 2,
+          "JSEventListeners": 1576,
+          "Nodes": 484,
+          "LayoutCount": 16,
+          "RecalcStyleCount": 16,
+          "LayoutDuration": 0.013844,
+          "RecalcStyleDuration": 0.011086,
+          "ScriptDuration": 8.775276,
+          "TaskDuration": 10.851405,
+          "JSHeapUsedSize": 190107592,
+          "JSHeapTotalSize": 236679168
+        },
+        "browser": {
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+          "version": "Chrome/133.0.6943.98"
+        }
+      },
+      "title": "Custom RenderNode - Animated Windmills"
     },
     {
       "folder": "featureeffect-multiple-effects",
@@ -14472,15 +14474,6 @@
   ],
   "samplesToReview": [
     {
-      "folder": "custom-render-node-windmills",
-      "title": "Custom RenderNode - Animated Windmills",
-      "matches": true,
-      "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-      "distance": 0.078125,
-      "percentage": 0.9528315554891974,
-      "percentageFormatted": "95.28%"
-    },
-    {
       "folder": "widgets-valuepicker",
       "title": "ValuePicker widget",
       "matches": false,
@@ -14533,15 +14526,6 @@
       "distance": 0.15625,
       "percentage": 0.39205361734600774,
       "percentageFormatted": "39.21%"
-    },
-    {
-      "folder": "time-layer",
-      "title": "Time-based layer",
-      "matches": true,
-      "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-      "distance": 0.09375,
-      "percentage": 0.3752229908702312,
-      "percentageFormatted": "37.52%"
     },
     {
       "folder": "swipe-scroll",
@@ -27602,24 +27586,25 @@
       "screenshot": {
         "errors": [
           "pageerror - TypeError: Cannot read properties of undefined (reading 'type')",
+          "waitForResources - setTimeout - screenshot timeout exceeded 10000ms",
           "waitForResources - setTimeout - screenshot timeout exceeded 10000ms"
         ],
         "screenshot_delay_ms": 10000,
         "source": "C:\\devtopia\\arcgis-js-sdk-4\\build-screenshots\\images\\4.33\\custom-render-node-windmills.png",
         "metrics": {
-          "Timestamp": 183965.995149,
+          "Timestamp": 236410.104076,
           "Documents": 3,
-          "Frames": 1,
-          "JSEventListeners": 7,
-          "Nodes": 41,
-          "LayoutCount": 3,
-          "RecalcStyleCount": 2,
-          "LayoutDuration": 0.000288,
-          "RecalcStyleDuration": 0.009469,
-          "ScriptDuration": 0.074578,
-          "TaskDuration": 0.331541,
-          "JSHeapUsedSize": 6025908,
-          "JSHeapTotalSize": 10051584
+          "Frames": 2,
+          "JSEventListeners": 1576,
+          "Nodes": 484,
+          "LayoutCount": 16,
+          "RecalcStyleCount": 16,
+          "LayoutDuration": 0.013844,
+          "RecalcStyleDuration": 0.011086,
+          "ScriptDuration": 8.775276,
+          "TaskDuration": 10.851405,
+          "JSHeapUsedSize": 190107592,
+          "JSHeapTotalSize": 236679168
         },
         "browser": {
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
@@ -35234,24 +35219,25 @@
       "screenshot": {
         "errors": [
           "pageerror - TypeError: Cannot read properties of undefined (reading 'type')",
+          "waitForResources - setTimeout - screenshot timeout exceeded 10000ms",
           "waitForResources - setTimeout - screenshot timeout exceeded 10000ms"
         ],
         "screenshot_delay_ms": 10000,
         "source": "C:\\devtopia\\arcgis-js-sdk-4\\build-screenshots\\images\\4.33\\time-layer.png",
         "metrics": {
-          "Timestamp": 192577.38066,
+          "Timestamp": 236440.299247,
           "Documents": 3,
-          "Frames": 1,
-          "JSEventListeners": 7,
-          "Nodes": 42,
-          "LayoutCount": 3,
-          "RecalcStyleCount": 2,
-          "LayoutDuration": 0.000324,
-          "RecalcStyleDuration": 0.010529,
-          "ScriptDuration": 0.06425,
-          "TaskDuration": 0.277101,
-          "JSHeapUsedSize": 5992088,
-          "JSHeapTotalSize": 10838016
+          "Frames": 3,
+          "JSEventListeners": 71,
+          "Nodes": 195,
+          "LayoutCount": 18,
+          "RecalcStyleCount": 17,
+          "LayoutDuration": 0.013632,
+          "RecalcStyleDuration": 0.014588,
+          "ScriptDuration": 1.609535,
+          "TaskDuration": 2.637532,
+          "JSHeapUsedSize": 38393656,
+          "JSHeapTotalSize": 63401984
         },
         "browser": {
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
@@ -39283,15 +39269,6 @@
     }
   },
   "difference": {
-    "custom-render-node-windmills": {
-      "folder": "custom-render-node-windmills",
-      "title": "Custom RenderNode - Animated Windmills",
-      "matches": true,
-      "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-      "distance": 0.078125,
-      "percentage": 0.9528315554891974,
-      "percentageFormatted": "95.28%"
-    },
     "widgets-valuepicker": {
       "folder": "widgets-valuepicker",
       "title": "ValuePicker widget",
@@ -39345,15 +39322,6 @@
       "distance": 0.15625,
       "percentage": 0.39205361734600774,
       "percentageFormatted": "39.21%"
-    },
-    "time-layer": {
-      "folder": "time-layer",
-      "title": "Time-based layer",
-      "matches": true,
-      "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-      "distance": 0.09375,
-      "percentage": 0.3752229908702312,
-      "percentageFormatted": "37.52%"
     },
     "swipe-scroll": {
       "folder": "swipe-scroll",
@@ -39597,6 +39565,15 @@
       "distance": 0,
       "percentage": 0.07567699088129089,
       "percentageFormatted": "7.568%"
+    },
+    "time-layer": {
+      "folder": "time-layer",
+      "title": "Time-based layer",
+      "matches": true,
+      "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+      "distance": 0.015625,
+      "percentage": 0.06607276165828896,
+      "percentageFormatted": "6.607%"
     },
     "editing-scenelayer-applyedits": {
       "folder": "editing-scenelayer-applyedits",
@@ -39957,6 +39934,15 @@
       "distance": 0,
       "percentage": 0.01607193218202027,
       "percentageFormatted": "1.607%"
+    },
+    "custom-render-node-windmills": {
+      "folder": "custom-render-node-windmills",
+      "title": "Custom RenderNode - Animated Windmills",
+      "matches": true,
+      "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+      "distance": 0,
+      "percentage": 0.015418304882297318,
+      "percentageFormatted": "1.542%"
     },
     "featureeffect-multiple-effects": {
       "folder": "featureeffect-multiple-effects",
