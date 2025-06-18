@@ -2493,15 +2493,6 @@
     "percentageFormatted": "0%"
   },
   {
-    "folder": "sceneview-visible-area",
-    "title": "SceneView - visibleArea",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0,
-    "percentageFormatted": "0%"
-  },
-  {
     "folder": "search-component-customsource",
     "title": "Search component with custom source",
     "matches": true,
@@ -2522,15 +2513,6 @@
   {
     "folder": "shadow-cast",
     "title": "Shadow Cast component",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0,
-    "percentageFormatted": "0%"
-  },
-  {
-    "folder": "simple-ui",
-    "title": "Using the view's UI",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
@@ -3782,15 +3764,6 @@
   {
     "folder": "widgets-valuepicker",
     "title": "ValuePicker widget",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0,
-    "percentageFormatted": "0%"
-  },
-  {
-    "folder": "widgets-videoplayer",
-    "title": "VideoLayer and VideoPlayer widget",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
