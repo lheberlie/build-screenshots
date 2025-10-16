@@ -7,7 +7,7 @@
     "distance": 0.296875,
     "percentage": 0.9418691971222704,
     "percentageFormatted": "94.19%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:27 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:29 PDT"
   },
   {
     "folder": "layers-routelayer",
@@ -17,7 +17,7 @@
     "distance": 0.046875,
     "percentage": 0.5068730403623153,
     "percentageFormatted": "50.69%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:25 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:28 PDT"
   },
   {
     "folder": "scene-local",
@@ -25,9 +25,9 @@
     "matches": false,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.4375,
-    "percentage": 0.4864070958929865,
+    "percentage": 0.48640598992462825,
     "percentageFormatted": "48.64%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:46 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:49 PDT"
   },
   {
     "folder": "analysis-objects",
@@ -35,9 +35,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.078125,
-    "percentage": 0.48037625043547505,
+    "percentage": 0.4803784623721915,
     "percentageFormatted": "48.04%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:29 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:32 PDT"
   },
   {
     "folder": "layers-voxel",
@@ -47,7 +47,7 @@
     "distance": 0.109375,
     "percentage": 0.46081498808319094,
     "percentageFormatted": "46.08%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:42 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:45 PDT"
   },
   {
     "folder": "layers-orientedimagerylayer-sceneview",
@@ -57,47 +57,27 @@
     "distance": 0.03125,
     "percentage": 0.4579328345416038,
     "percentageFormatted": "45.79%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:07 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:10 PDT"
   },
   {
-    "folder": "editor-basic",
-    "title": "Edit features with the Editor component",
+    "folder": "webscene-basic",
+    "title": "Load a basic web scene",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.03125,
-    "percentage": 0.3705524864933614,
-    "percentageFormatted": "37.06%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:42 PDT"
+    "distance": 0.078125,
+    "percentage": 0.41439970802435344,
+    "percentageFormatted": "41.44%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:41 PDT"
   },
   {
     "folder": "layers-imagery-afrenderer",
     "title": "FlowRenderer with visual variables",
-    "matches": true,
+    "matches": false,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.140625,
-    "percentage": 0.3695571149709407,
-    "percentageFormatted": "36.96%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:43 PDT"
-  },
-  {
-    "folder": "widgets-editor-basic",
-    "title": "Edit features with the Editor widget",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.046875,
-    "percentage": 0.36721909786161017,
-    "percentageFormatted": "36.72%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:14 PDT"
-  },
-  {
-    "folder": "widgets-feature-multiplelayers",
-    "title": "Feature widget - Query graphics from multiple layers",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.046875,
-    "percentage": 0.3563120379125953,
-    "percentageFormatted": "35.63%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:25 PDT"
+    "distance": 0.21875,
+    "percentage": 0.40039704264061005,
+    "percentageFormatted": "40.04%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:46 PDT"
   },
   {
     "folder": "time-layer",
@@ -107,7 +87,27 @@
     "distance": 0.046875,
     "percentage": 0.3394250070505483,
     "percentageFormatted": "33.94%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:49 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:52 PDT"
+  },
+  {
+    "folder": "editor-basic",
+    "title": "Edit features with the Editor component",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.078125,
+    "percentage": 0.32966594225739204,
+    "percentageFormatted": "32.97%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:45 PDT"
+  },
+  {
+    "folder": "widgets-editor-basic",
+    "title": "Edit features with the Editor widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.09375,
+    "percentage": 0.3138417469876187,
+    "percentageFormatted": "31.38%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:16 PDT"
   },
   {
     "folder": "visualization-vv-color-animate",
@@ -117,17 +117,7 @@
     "distance": 0.109375,
     "percentage": 0.3029048258929312,
     "percentageFormatted": "30.29%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:24 PDT"
-  },
-  {
-    "folder": "layers-medialayer-animated-gif",
-    "title": "MediaLayer with animated gif",
-    "matches": false,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.234375,
-    "percentage": 0.27032189209066726,
-    "percentageFormatted": "27.03%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:22 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:27 PDT"
   },
   {
     "folder": "featurelayerview-query-stats",
@@ -137,7 +127,17 @@
     "distance": 0.078125,
     "percentage": 0.2576795677875656,
     "percentageFormatted": "25.77%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:30 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:32 PDT"
+  },
+  {
+    "folder": "layers-medialayer-animated-gif",
+    "title": "MediaLayer with animated gif",
+    "matches": false,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.234375,
+    "percentage": 0.2540077528381913,
+    "percentageFormatted": "25.4%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:24 PDT"
   },
   {
     "folder": "scene-weather",
@@ -147,7 +147,7 @@
     "distance": 0.015625,
     "percentage": 0.23689621039942046,
     "percentageFormatted": "23.69%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:41 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:44 PDT"
   },
   {
     "folder": "overview-map",
@@ -155,9 +155,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.078125,
-    "percentage": 0.22147237567533193,
-    "percentageFormatted": "22.15%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:43 PDT"
+    "percentage": 0.2213639907762239,
+    "percentageFormatted": "22.14%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:46 PDT"
   },
   {
     "folder": "visualization-sm-color-mesh",
@@ -167,7 +167,7 @@
     "distance": 0.09375,
     "percentage": 0.22033765213977227,
     "percentageFormatted": "22.03%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:37 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:40 PDT"
   },
   {
     "folder": "visualization-sm-uni-colorsize",
@@ -177,7 +177,7 @@
     "distance": 0.15625,
     "percentage": 0.20703617069515642,
     "percentageFormatted": "20.7%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:24 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:26 PDT"
   },
   {
     "folder": "query-attribute-bins",
@@ -187,7 +187,7 @@
     "distance": 0.078125,
     "percentage": 0.19052738101162925,
     "percentageFormatted": "19.05%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:12 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:14 PDT"
   },
   {
     "folder": "legend-card",
@@ -195,19 +195,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.046875,
-    "percentage": 0.18578941256490653,
-    "percentageFormatted": "18.58%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:45 PDT"
-  },
-  {
-    "folder": "widgets-editor-3d",
-    "title": "Edit features in 3D with the Editor widget",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.03125,
-    "percentage": 0.18151484486028854,
-    "percentageFormatted": "18.15%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:28 PDT"
+    "percentage": 0.18637004595298529,
+    "percentageFormatted": "18.64%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:49 PDT"
   },
   {
     "folder": "layerlist-legend",
@@ -215,9 +205,9 @@
     "matches": false,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.359375,
-    "percentage": 0.17749575584642524,
+    "percentage": 0.17749354390970876,
     "percentageFormatted": "17.75%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:30 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:33 PDT"
   },
   {
     "folder": "view-breakpoints-css",
@@ -227,7 +217,7 @@
     "distance": 0.09375,
     "percentage": 0.17717834292760884,
     "percentageFormatted": "17.72%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:13 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:16 PDT"
   },
   {
     "folder": "custom-render-node-windmills",
@@ -235,19 +225,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.03125,
-    "percentage": 0.16371317816597267,
-    "percentageFormatted": "16.37%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:29 PDT"
-  },
-  {
-    "folder": "popuptemplate-promise",
-    "title": "PopupTemplate with promise",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.046875,
-    "percentage": 0.14600220087703292,
-    "percentageFormatted": "14.6%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:06 PDT"
+    "percentage": 0.15670355071141415,
+    "percentageFormatted": "15.67%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:32 PDT"
   },
   {
     "folder": "layers-wmts-sublayers",
@@ -257,7 +237,7 @@
     "distance": 0.09375,
     "percentage": 0.14304373551872682,
     "percentageFormatted": "14.3%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:05 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:08 PDT"
   },
   {
     "folder": "widgets-tablelist",
@@ -267,7 +247,7 @@
     "distance": 0,
     "percentage": 0.14136155764583574,
     "percentageFormatted": "14.14%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:29 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:32 PDT"
   },
   {
     "folder": "layers-scenelayer-texture",
@@ -277,7 +257,7 @@
     "distance": 0.015625,
     "percentage": 0.1359688559310318,
     "percentageFormatted": "13.6%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:44 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:47 PDT"
   },
   {
     "folder": "featurereduction-binning-arcade-summary",
@@ -287,7 +267,47 @@
     "distance": 0.125,
     "percentage": 0.13596222012088235,
     "percentageFormatted": "13.6%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:04 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:07 PDT"
+  },
+  {
+    "folder": "widgets-histogramrangeslider",
+    "title": "HistogramRangeSlider",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.1168179078396567,
+    "percentageFormatted": "11.68%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:36 PDT"
+  },
+  {
+    "folder": "layers-medialayer-images",
+    "title": "MediaLayer with images",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.0625,
+    "percentage": 0.11589221232380542,
+    "percentageFormatted": "11.59%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:54 PDT"
+  },
+  {
+    "folder": "layers-imagery-afrenderer-blending",
+    "title": "FlowRenderer with effects and blending",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.10908165917373104,
+    "percentageFormatted": "10.91%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:15 PDT"
+  },
+  {
+    "folder": "widgets-editor-3d",
+    "title": "Edit features in 3D with the Editor widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.10727671881307475,
+    "percentageFormatted": "10.73%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:31 PDT"
   },
   {
     "folder": "widgets-editor-3d-scenelayer",
@@ -295,9 +315,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.03125,
-    "percentage": 0.09619602183181539,
-    "percentageFormatted": "9.62%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:32 PDT"
+    "percentage": 0.09618275021151645,
+    "percentageFormatted": "9.618%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:35 PDT"
   },
   {
     "folder": "layers-mapimagelayer",
@@ -307,7 +327,7 @@
     "distance": 0.015625,
     "percentage": 0.09435126661026227,
     "percentageFormatted": "9.435%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:11 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:13 PDT"
   },
   {
     "folder": "widgets-orientedimageryviewer-datacapture",
@@ -315,9 +335,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.03125,
-    "percentage": 0.0935284261517278,
-    "percentageFormatted": "9.353%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:04 PDT"
+    "percentage": 0.09357708875949058,
+    "percentageFormatted": "9.358%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:06 PDT"
   },
   {
     "folder": "visualization-heatmap",
@@ -325,29 +345,19 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.0625,
-    "percentage": 0.08977476954384335,
-    "percentageFormatted": "8.977%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:07 PDT"
+    "percentage": 0.08634516166492477,
+    "percentageFormatted": "8.635%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:10 PDT"
   },
   {
-    "folder": "featurereduction-cluster-visualvariables",
-    "title": "Clustering with visual variables",
+    "folder": "custom-gl-animated-lines",
+    "title": "Animated lines with WebGL",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.078125,
-    "percentage": 0.08832816293125853,
-    "percentageFormatted": "8.833%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:04 PDT"
-  },
-  {
-    "folder": "layers-imagery-afrenderer-blending",
-    "title": "FlowRenderer with effects and blending",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.03125,
-    "percentage": 0.08506998014786797,
-    "percentageFormatted": "8.507%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:12 PDT"
+    "distance": 0.046875,
+    "percentage": 0.0845015124117299,
+    "percentageFormatted": "8.45%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:50 PDT"
   },
   {
     "folder": "editing-applyedits",
@@ -357,7 +367,7 @@
     "distance": 0.046875,
     "percentage": 0.08428031874008085,
     "percentageFormatted": "8.428%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:19 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:21 PDT"
   },
   {
     "folder": "visualization-webstylesymbol",
@@ -365,19 +375,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.0625,
-    "percentage": 0.07891858413930777,
-    "percentageFormatted": "7.892%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:32 PDT"
-  },
-  {
-    "folder": "widgets-histogramrangeslider",
-    "title": "HistogramRangeSlider",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.046875,
-    "percentage": 0.07820191664316484,
-    "percentageFormatted": "7.82%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:34 PDT"
+    "percentage": 0.08151539784446767,
+    "percentageFormatted": "8.152%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:35 PDT"
   },
   {
     "folder": "elevation-profile",
@@ -387,27 +387,7 @@
     "distance": 0.09375,
     "percentage": 0.07550888369083761,
     "percentageFormatted": "7.551%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:23 PDT"
-  },
-  {
-    "folder": "featurelayerview-query-geometry",
-    "title": "FeatureLayerView - query statistics by geometry",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.1875,
-    "percentage": 0.07358781665256557,
-    "percentageFormatted": "7.359%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:16 PDT"
-  },
-  {
-    "folder": "featurereduction-cluster",
-    "title": "Intro to clustering",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.09375,
-    "percentage": 0.07294414306806682,
-    "percentageFormatted": "7.294%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:50 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:26 PDT"
   },
   {
     "folder": "layers-cataloglayer",
@@ -417,17 +397,17 @@
     "distance": 0,
     "percentage": 0.0716490541205616,
     "percentageFormatted": "7.165%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:15 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:17 PDT"
   },
   {
-    "folder": "featurereduction-cluster-symbol",
-    "title": "Override cluster symbol",
+    "folder": "timeslider",
+    "title": "TimeSlider component",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.09375,
-    "percentage": 0.068575568052998,
-    "percentageFormatted": "6.858%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:17 PDT"
+    "distance": 0.171875,
+    "percentage": 0.06914956563092729,
+    "percentageFormatted": "6.915%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:53 PDT"
   },
   {
     "folder": "watch-for-changes-reactiveutils-components",
@@ -437,7 +417,7 @@
     "distance": 0.140625,
     "percentage": 0.06744858629594608,
     "percentageFormatted": "6.745%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:03 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:05 PDT"
   },
   {
     "folder": "visualization-multivariate-2d",
@@ -445,19 +425,29 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.046875,
-    "percentage": 0.06670205765413051,
-    "percentageFormatted": "6.67%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:27 PDT"
+    "percentage": 0.0646958310522736,
+    "percentageFormatted": "6.47%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:30 PDT"
   },
   {
-    "folder": "daylight",
-    "title": "Daylight component",
+    "folder": "featurereduction-cluster-symbol",
+    "title": "Override cluster symbol",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.06321272748386669,
+    "percentageFormatted": "6.321%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:19 PDT"
+  },
+  {
+    "folder": "widgets-timeslider",
+    "title": "TimeSlider widget and time zone",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.125,
-    "percentage": 0.06156594059843948,
-    "percentageFormatted": "6.157%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:52 PDT"
+    "percentage": 0.06143654230052478,
+    "percentageFormatted": "6.144%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:24 PDT"
   },
   {
     "folder": "basemap-gallery",
@@ -467,17 +457,7 @@
     "distance": 0,
     "percentage": 0.06042236931601387,
     "percentageFormatted": "6.042%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:32 PDT"
-  },
-  {
-    "folder": "timeslider",
-    "title": "TimeSlider component",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.15625,
-    "percentage": 0.059001199975668696,
-    "percentageFormatted": "5.9%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:49 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:35 PDT"
   },
   {
     "folder": "visualization-sm-dotdensity",
@@ -485,29 +465,19 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.05891604041208381,
-    "percentageFormatted": "5.892%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:38 PDT"
+    "percentage": 0.05879217195596034,
+    "percentageFormatted": "5.879%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:40 PDT"
   },
   {
-    "folder": "widgets-featuretable-custom-content",
-    "title": "FeatureTable with custom content",
+    "folder": "featurereduction-cluster",
+    "title": "Intro to clustering",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.0578189198007045,
-    "percentageFormatted": "5.782%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:11 PDT"
-  },
-  {
-    "folder": "custom-gl-animated-lines",
-    "title": "Animated lines with WebGL",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.05513805250031797,
-    "percentageFormatted": "5.514%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:48 PDT"
+    "distance": 0.015625,
+    "percentage": 0.056335816232297595,
+    "percentageFormatted": "5.634%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:52 PDT"
   },
   {
     "folder": "editing-scenelayer-applyedits",
@@ -515,9 +485,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
-    "percentage": 0.053417165734888326,
+    "percentage": 0.05342269557667955,
     "percentageFormatted": "5.342%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:25 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:27 PDT"
   },
   {
     "folder": "visualization-label-callout",
@@ -527,27 +497,7 @@
     "distance": 0.046875,
     "percentage": 0.05159674181721661,
     "percentageFormatted": "5.16%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:37 PDT"
-  },
-  {
-    "folder": "widgets-timeslider",
-    "title": "TimeSlider widget and time zone",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.09375,
-    "percentage": 0.049774105962828406,
-    "percentageFormatted": "4.977%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:22 PDT"
-  },
-  {
-    "folder": "cim-animations",
-    "title": "Animated symbols",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.0625,
-    "percentage": 0.04556921426477988,
-    "percentageFormatted": "4.557%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:36 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:39 PDT"
   },
   {
     "folder": "widgets-editor-configurable",
@@ -555,9 +505,29 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.04510470755431687,
-    "percentageFormatted": "4.51%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:38 PDT"
+    "percentage": 0.04756659311977084,
+    "percentageFormatted": "4.757%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:40 PDT"
+  },
+  {
+    "folder": "cim-animations",
+    "title": "Animated symbols",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.0625,
+    "percentage": 0.04551280987850938,
+    "percentageFormatted": "4.551%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:39 PDT"
+  },
+  {
+    "folder": "daylight",
+    "title": "Daylight component",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.046875,
+    "percentage": 0.04550175019492692,
+    "percentageFormatted": "4.55%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:55 PDT"
   },
   {
     "folder": "layers-webtile-3d",
@@ -567,7 +537,7 @@
     "distance": 0.09375,
     "percentage": 0.044444444444444446,
     "percentageFormatted": "4.444%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:26 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:28 PDT"
   },
   {
     "folder": "sceneview-hittest",
@@ -577,7 +547,7 @@
     "distance": 0.171875,
     "percentage": 0.043722247106510286,
     "percentageFormatted": "4.372%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:26 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:29 PDT"
   },
   {
     "folder": "visualization-polygon-patterns",
@@ -585,9 +555,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.03125,
-    "percentage": 0.04250568191244049,
-    "percentageFormatted": "4.251%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:23 PDT"
+    "percentage": 0.042497940133932766,
+    "percentageFormatted": "4.25%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:26 PDT"
   },
   {
     "folder": "scene-elevationinfo",
@@ -597,7 +567,7 @@
     "distance": 0.046875,
     "percentage": 0.041984770815706965,
     "percentageFormatted": "4.198%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:17 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:19 PDT"
   },
   {
     "folder": "layers-geojson",
@@ -605,19 +575,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.040591250684317924,
-    "percentageFormatted": "4.059%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:37 PDT"
-  },
-  {
-    "folder": "layers-imagery-popup",
-    "title": "ImageryLayer - server side raster function",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.0625,
-    "percentage": 0.03943551374995161,
-    "percentageFormatted": "3.944%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:11 PDT"
+    "percentage": 0.04080470257745926,
+    "percentageFormatted": "4.08%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:40 PDT"
   },
   {
     "folder": "sceneview-memory",
@@ -625,9 +585,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
-    "percentage": 0.038749813367839545,
-    "percentageFormatted": "3.875%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:31 PDT"
+    "percentage": 0.03871110447530096,
+    "percentageFormatted": "3.871%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:34 PDT"
   },
   {
     "folder": "scene-goto",
@@ -637,7 +597,7 @@
     "distance": 0.03125,
     "percentage": 0.03810724575169904,
     "percentageFormatted": "3.811%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:49 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:52 PDT"
   },
   {
     "folder": "featurereduction-cluster-pie-charts",
@@ -647,7 +607,17 @@
     "distance": 0,
     "percentage": 0.0373463395212263,
     "percentageFormatted": "3.735%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:09 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:12 PDT"
+  },
+  {
+    "folder": "layers-imagery-popup",
+    "title": "ImageryLayer - server side raster function",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.0625,
+    "percentage": 0.03635539187223853,
+    "percentageFormatted": "3.636%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:13 PDT"
   },
   {
     "folder": "building-scene-layer-slice",
@@ -655,9 +625,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.03125,
-    "percentage": 0.036346544125372575,
+    "percentage": 0.036345438157014326,
     "percentageFormatted": "3.635%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:38 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:41 PDT"
   },
   {
     "folder": "visualization-point-styles",
@@ -665,9 +635,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.03542416651459602,
-    "percentageFormatted": "3.542%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:41 PDT"
+    "percentage": 0.035350066634593585,
+    "percentageFormatted": "3.535%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:43 PDT"
   },
   {
     "folder": "scene-blendmode",
@@ -675,9 +645,29 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
-    "percentage": 0.03404391800350592,
+    "percentage": 0.034041706066789426,
     "percentageFormatted": "3.404%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:34 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:37 PDT"
+  },
+  {
+    "folder": "layers-medialayer-video",
+    "title": "MediaLayer with video",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.03268247095450599,
+    "percentageFormatted": "3.268%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:58 PDT"
+  },
+  {
+    "folder": "geometry-mesh-elevation",
+    "title": "Low poly terrain using mesh geometry",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.03240044902315345,
+    "percentageFormatted": "3.24%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:57 PDT"
   },
   {
     "folder": "widgets-editor-subtypes",
@@ -687,7 +677,7 @@
     "distance": 0,
     "percentage": 0.030827762017728674,
     "percentageFormatted": "3.083%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:57 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:59 PDT"
   },
   {
     "folder": "cim-marker-placement",
@@ -697,7 +687,7 @@
     "distance": 0,
     "percentage": 0.03045173277592528,
     "percentageFormatted": "3.045%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:09 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:12 PDT"
   },
   {
     "folder": "feature-table",
@@ -707,37 +697,27 @@
     "distance": 0,
     "percentage": 0.03042187163025266,
     "percentageFormatted": "3.042%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:38 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:41 PDT"
+  },
+  {
+    "folder": "widgets-featuretable-custom-content",
+    "title": "FeatureTable with custom content",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.03004694835680751,
+    "percentageFormatted": "3.005%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:14 PDT"
   },
   {
     "folder": "custom-lv-masking",
     "title": "Masking effect using a custom layer view",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.109375,
-    "percentage": 0.02942760607619016,
-    "percentageFormatted": "2.943%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:23 PDT"
-  },
-  {
-    "folder": "layers-medialayer-video",
-    "title": "MediaLayer with video",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.0281900274833137,
-    "percentageFormatted": "2.819%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:55 PDT"
-  },
-  {
-    "folder": "widgets-editor-relates-calculations",
-    "title": "Editing related data with calculated expressions",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.027722202867775953,
-    "percentageFormatted": "2.772%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:11 PDT"
+    "distance": 0.046875,
+    "percentage": 0.029864463577697044,
+    "percentageFormatted": "2.986%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:26 PDT"
   },
   {
     "folder": "layers-scenelayer-time",
@@ -745,9 +725,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
-    "percentage": 0.027635937335832823,
-    "percentageFormatted": "2.764%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:00 PDT"
+    "percentage": 0.02763151346239984,
+    "percentageFormatted": "2.763%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:03 PDT"
   },
   {
     "folder": "featurereduction-binning-filter",
@@ -757,7 +737,7 @@
     "distance": 0.046875,
     "percentage": 0.02759612247493599,
     "percentageFormatted": "2.76%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:16 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:19 PDT"
   },
   {
     "folder": "elevation-query",
@@ -765,9 +745,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.027330690068957126,
-    "percentageFormatted": "2.733%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:33 PDT"
+    "percentage": 0.027340643784181336,
+    "percentageFormatted": "2.734%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:36 PDT"
   },
   {
     "folder": "featurereduction-cluster-filter-slider",
@@ -775,9 +755,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.046875,
-    "percentage": 0.026964614542377943,
+    "percentage": 0.02696019066894496,
     "percentageFormatted": "2.696%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:05 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:08 PDT"
   },
   {
     "folder": "visualization-icon-rotation-3d",
@@ -785,9 +765,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.026594115142365777,
-    "percentageFormatted": "2.659%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:23 PDT"
+    "percentage": 0.02659853901579876,
+    "percentageFormatted": "2.66%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:26 PDT"
   },
   {
     "folder": "custom-render-node-xfade",
@@ -795,9 +775,19 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.026450339255793893,
-    "percentageFormatted": "2.645%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:49 PDT"
+    "percentage": 0.02644370344564442,
+    "percentageFormatted": "2.644%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:51 PDT"
+  },
+  {
+    "folder": "widgets-editor-relates-calculations",
+    "title": "Editing related data with calculated expressions",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.026239099299369045,
+    "percentageFormatted": "2.624%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:13 PDT"
   },
   {
     "folder": "knowledgegraph-applyedits",
@@ -807,17 +797,7 @@
     "distance": 0.03125,
     "percentage": 0.0261793770080238,
     "percentageFormatted": "2.618%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:42 PDT"
-  },
-  {
-    "folder": "import-gltf",
-    "title": "Import glTF 3D Models",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.015625,
-    "percentage": 0.025918368475477918,
-    "percentageFormatted": "2.592%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:45 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:45 PDT"
   },
   {
     "folder": "scene-visible-area",
@@ -825,9 +805,19 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.025895143139954765,
-    "percentageFormatted": "2.59%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:21 PDT"
+    "percentage": 0.02595265349458352,
+    "percentageFormatted": "2.595%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:23 PDT"
+  },
+  {
+    "folder": "import-gltf",
+    "title": "Import glTF 3D Models",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.025825467133385314,
+    "percentageFormatted": "2.583%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:48 PDT"
   },
   {
     "folder": "visualization-path-3d",
@@ -835,9 +825,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
-    "percentage": 0.025650724132782562,
-    "percentageFormatted": "2.565%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:08 PDT"
+    "percentage": 0.025516901961434885,
+    "percentageFormatted": "2.552%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:10 PDT"
   },
   {
     "folder": "watch-for-changes-components",
@@ -845,19 +835,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
-    "percentage": 0.024667518262302516,
-    "percentageFormatted": "2.467%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:32 PDT"
-  },
-  {
-    "folder": "geometry-operator-worker",
-    "title": "Geometry operator - using a worker for analysis",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.024434158938712765,
-    "percentageFormatted": "2.443%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:50 PDT"
+    "percentage": 0.024697379407975138,
+    "percentageFormatted": "2.47%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:35 PDT"
   },
   {
     "folder": "intro-popup",
@@ -867,17 +847,7 @@
     "distance": 0,
     "percentage": 0.024356741153635595,
     "percentageFormatted": "2.436%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:45 PDT"
-  },
-  {
-    "folder": "geometry-mesh-elevation",
-    "title": "Low poly terrain using mesh geometry",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.046875,
-    "percentage": 0.024247250286169312,
-    "percentageFormatted": "2.425%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:54 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:48 PDT"
   },
   {
     "folder": "visualization-trees-realistic",
@@ -885,9 +855,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.024188633963182313,
+    "percentage": 0.024187527994824067,
     "percentageFormatted": "2.419%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:29 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:31 PDT"
   },
   {
     "folder": "widgets-featureform-async",
@@ -895,9 +865,19 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
-    "percentage": 0.024137759418703032,
-    "percentageFormatted": "2.414%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:47 PDT"
+    "percentage": 0.02411232214646339,
+    "percentageFormatted": "2.411%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:50 PDT"
+  },
+  {
+    "folder": "analysis-viewshed",
+    "title": "Interactive viewshed analysis",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.023433257574500793,
+    "percentageFormatted": "2.343%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:25 PDT"
   },
   {
     "folder": "layers-csv",
@@ -907,17 +887,27 @@
     "distance": 0.03125,
     "percentage": 0.0233967606186787,
     "percentageFormatted": "2.34%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:48 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:51 PDT"
   },
   {
-    "folder": "widgets-featuretable-popup-interaction",
-    "title": "FeatureTable with popup interaction",
+    "folder": "layers-streamlayer-client",
+    "title": "Client-side StreamLayer",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.03125,
-    "percentage": 0.021732278239519568,
-    "percentageFormatted": "2.173%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:06 PDT"
+    "distance": 0,
+    "percentage": 0.02237705779237656,
+    "percentageFormatted": "2.238%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:47 PDT"
+  },
+  {
+    "folder": "geometry-operator-worker",
+    "title": "Geometry operator - using a worker for analysis",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.021769881163699906,
+    "percentageFormatted": "2.177%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:53 PDT"
   },
   {
     "folder": "legend-update",
@@ -927,7 +917,7 @@
     "distance": 0,
     "percentage": 0.021584078479514702,
     "percentageFormatted": "2.158%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:39 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:42 PDT"
   },
   {
     "folder": "visualization-realistic-water",
@@ -935,9 +925,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.021555323302200325,
-    "percentageFormatted": "2.156%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:28 PDT"
+    "percentage": 0.021387216111747043,
+    "percentageFormatted": "2.139%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:30 PDT"
   },
   {
     "folder": "visualization-dictionary",
@@ -945,9 +935,19 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.020388526684251562,
-    "percentageFormatted": "2.039%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:53 PDT"
+    "percentage": 0.020995703312928216,
+    "percentageFormatted": "2.1%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:56 PDT"
+  },
+  {
+    "folder": "satellites-3d",
+    "title": "Satellites in 3D view",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.03125,
+    "percentage": 0.01996162289796889,
+    "percentageFormatted": "1.996%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:43 PDT"
   },
   {
     "folder": "layers-cataloglayer-2d",
@@ -957,7 +957,7 @@
     "distance": 0,
     "percentage": 0.018788190469870656,
     "percentageFormatted": "1.879%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:59 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:02 PDT"
   },
   {
     "folder": "utility-network-trace",
@@ -965,9 +965,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.018663216045388942,
-    "percentageFormatted": "1.866%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:07 PDT"
+    "percentage": 0.018732892051958393,
+    "percentageFormatted": "1.873%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:09 PDT"
   },
   {
     "folder": "intro-layers",
@@ -977,7 +977,7 @@
     "distance": 0,
     "percentage": 0.018606811659118434,
     "percentageFormatted": "1.861%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:42 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:45 PDT"
   },
   {
     "folder": "knowledgegraph-search",
@@ -987,17 +987,7 @@
     "distance": 0.046875,
     "percentage": 0.018526075968966528,
     "percentageFormatted": "1.853%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:04 PDT"
-  },
-  {
-    "folder": "highlight-scenelayer",
-    "title": "Highlight SceneLayer",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.018526075968966528,
-    "percentageFormatted": "1.853%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:10 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:07 PDT"
   },
   {
     "folder": "knowledgegraph-query",
@@ -1007,17 +997,17 @@
     "distance": 0.015625,
     "percentage": 0.01845308205732234,
     "percentageFormatted": "1.845%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:10 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:13 PDT"
   },
   {
-    "folder": "satellites-3d",
-    "title": "Satellites in 3D view",
+    "folder": "highlight-scenelayer",
+    "title": "Highlight SceneLayer",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.03125,
-    "percentage": 0.01788240238446778,
-    "percentageFormatted": "1.788%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:40 PDT"
+    "distance": 0,
+    "percentage": 0.018152258663879626,
+    "percentageFormatted": "1.815%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:12 PDT"
   },
   {
     "folder": "visualization-sm-classbreaks",
@@ -1027,7 +1017,17 @@
     "distance": 0,
     "percentage": 0.01762581772535488,
     "percentageFormatted": "1.763%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:31 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:34 PDT"
+  },
+  {
+    "folder": "layers-scenelayerview-query-stats",
+    "title": "SceneLayerView - query statistics by geometry",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.017149145362951167,
+    "percentageFormatted": "1.715%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:16 PDT"
   },
   {
     "folder": "utility-network-associations",
@@ -1037,7 +1037,7 @@
     "distance": 0,
     "percentage": 0.016780857899655492,
     "percentageFormatted": "1.678%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:30 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:33 PDT"
   },
   {
     "folder": "elevation-analysis",
@@ -1047,7 +1047,7 @@
     "distance": 0,
     "percentage": 0.016536438892483286,
     "percentageFormatted": "1.654%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:20 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:22 PDT"
   },
   {
     "folder": "layers-voxel-discrete-variable",
@@ -1057,7 +1057,7 @@
     "distance": 0.015625,
     "percentage": 0.016439113676957703,
     "percentageFormatted": "1.644%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:23 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:25 PDT"
   },
   {
     "folder": "visualization-sm-relationship",
@@ -1065,19 +1065,19 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
-    "percentage": 0.016101793327692893,
-    "percentageFormatted": "1.61%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:29 PDT"
+    "percentage": 0.01609073364411044,
+    "percentageFormatted": "1.609%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:31 PDT"
   },
   {
-    "folder": "webstylesymbol-2d",
-    "title": "WebStyleSymbol (2D)",
+    "folder": "featurelayerview-query-geometry",
+    "title": "FeatureLayerView - query statistics by geometry",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.01579875799753369,
-    "percentageFormatted": "1.58%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:28 PDT"
+    "distance": 0.015625,
+    "percentage": 0.015852950447087708,
+    "percentageFormatted": "1.585%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:18 PDT"
   },
   {
     "folder": "weather",
@@ -1087,7 +1087,17 @@
     "distance": 0,
     "percentage": 0.015670465667977238,
     "percentageFormatted": "1.567%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:53 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:56 PDT"
+  },
+  {
+    "folder": "webstylesymbol-2d",
+    "title": "WebStyleSymbol (2D)",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.01565608807932005,
+    "percentageFormatted": "1.566%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:31 PDT"
   },
   {
     "folder": "visualization-multivariate-3d",
@@ -1095,9 +1105,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.015625,
-    "percentage": 0.015605213534840769,
+    "percentage": 0.015606319503199014,
     "percentageFormatted": "1.561%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:28 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:30 PDT"
   },
   {
     "folder": "webscene-slides",
@@ -1105,9 +1115,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.015250197691844037,
-    "percentageFormatted": "1.525%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:35 PDT"
+    "percentage": 0.015277846900800168,
+    "percentageFormatted": "1.528%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:37 PDT"
   },
   {
     "folder": "visualization-line-patterns",
@@ -1115,9 +1125,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.014879698291831871,
-    "percentageFormatted": "1.488%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:37 PDT"
+    "percentage": 0.014889652007056078,
+    "percentageFormatted": "1.489%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:40 PDT"
   },
   {
     "folder": "layers-integratedmeshlayer-modification",
@@ -1125,9 +1135,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.014686153829138949,
+    "percentage": 0.014687259797497194,
     "percentageFormatted": "1.469%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:05 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:07 PDT"
   },
   {
     "folder": "layers-scenelayer-filter-query",
@@ -1137,7 +1147,17 @@
     "distance": 0,
     "percentage": 0.01458772264525512,
     "percentageFormatted": "1.459%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:22 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:25 PDT"
+  },
+  {
+    "folder": "visualization-unique-value-groups",
+    "title": "Unique value groups with headings",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.014450582568832705,
+    "percentageFormatted": "1.445%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:16 PDT"
   },
   {
     "folder": "widgets-histogram",
@@ -1147,7 +1167,17 @@
     "distance": 0,
     "percentage": 0.014438416916892008,
     "percentageFormatted": "1.444%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:28 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:31 PDT"
+  },
+  {
+    "folder": "featurereduction-cluster-visualvariables",
+    "title": "Clustering with visual variables",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.014190680004645068,
+    "percentageFormatted": "1.419%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:06 PDT"
   },
   {
     "folder": "geometry-operator-centroid",
@@ -1157,17 +1187,7 @@
     "distance": 0.015625,
     "percentage": 0.014107732377776672,
     "percentageFormatted": "1.411%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:39 PDT"
-  },
-  {
-    "folder": "visualization-unique-value-groups",
-    "title": "Unique value groups with headings",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.013856677560454996,
-    "percentageFormatted": "1.386%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:14 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:41 PDT"
   },
   {
     "folder": "widgets-directions",
@@ -1177,7 +1197,17 @@
     "distance": 0,
     "percentage": 0.013645437604030149,
     "percentageFormatted": "1.365%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:22 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:24 PDT"
+  },
+  {
+    "folder": "layers-tilelayer",
+    "title": "Intro to TileLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.0625,
+    "percentage": 0.013323600811780774,
+    "percentageFormatted": "1.332%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:34 PDT"
   },
   {
     "folder": "tablelist",
@@ -1187,7 +1217,7 @@
     "distance": 0,
     "percentage": 0.013277150140734474,
     "percentageFormatted": "1.328%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:51 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:55 PDT"
   },
   {
     "folder": "expand",
@@ -1197,7 +1227,7 @@
     "distance": 0,
     "percentage": 0.013228487532971681,
     "percentageFormatted": "1.323%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:53 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:56 PDT"
   },
   {
     "folder": "geoprocessing-viewshed",
@@ -1207,7 +1237,7 @@
     "distance": 0,
     "percentage": 0.013197520418940813,
     "percentageFormatted": "1.32%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:59 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:01 PDT"
   },
   {
     "folder": "layers-integratedmesh3dtileslayer",
@@ -1217,7 +1247,7 @@
     "distance": 0.015625,
     "percentage": 0.013026095323412798,
     "percentageFormatted": "1.303%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:13 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:16 PDT"
   },
   {
     "folder": "layers-dimension",
@@ -1227,7 +1257,7 @@
     "distance": 0.015625,
     "percentage": 0.012710894341312895,
     "percentageFormatted": "1.271%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:30 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:33 PDT"
   },
   {
     "folder": "swipe-scroll",
@@ -1237,7 +1267,7 @@
     "distance": 0,
     "percentage": 0.012658913828475367,
     "percentageFormatted": "1.266%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:43 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:46 PDT"
   },
   {
     "folder": "visualization-unique-value-order",
@@ -1247,7 +1277,7 @@
     "distance": 0,
     "percentage": 0.012490806638022087,
     "percentageFormatted": "1.249%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:15 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:18 PDT"
   },
   {
     "folder": "layers-featurelayer-labeling-3d",
@@ -1257,17 +1287,7 @@
     "distance": 0.015625,
     "percentage": 0.012395693359212994,
     "percentageFormatted": "1.24%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:17 PDT"
-  },
-  {
-    "folder": "popup-editaction",
-    "title": "Popup with edit action",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.011746489932923019,
-    "percentageFormatted": "1.175%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:31 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:20 PDT"
   },
   {
     "folder": "highlight-point-features",
@@ -1275,9 +1295,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.011468891875003457,
-    "percentageFormatted": "1.147%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:51 PDT"
+    "percentage": 0.011499858989034323,
+    "percentageFormatted": "1.15%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:53 PDT"
   },
   {
     "folder": "visualization-dot-density",
@@ -1287,17 +1307,7 @@
     "distance": 0.046875,
     "percentage": 0.010966782240360103,
     "percentageFormatted": "1.097%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:46 PDT"
-  },
-  {
-    "folder": "cim-line-arrows",
-    "title": "Arrows along a line",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.01091369575916433,
-    "percentageFormatted": "1.091%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:33 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:48 PDT"
   },
   {
     "folder": "editing-coordinate-inputs",
@@ -1305,9 +1315,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.010851761531102596,
-    "percentageFormatted": "1.085%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:42 PDT"
+    "percentage": 0.010863927183043293,
+    "percentageFormatted": "1.086%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:44 PDT"
   },
   {
     "folder": "line-of-sight",
@@ -1315,9 +1325,19 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.01052550086542024,
-    "percentageFormatted": "1.053%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:39 PDT"
+    "percentage": 0.010524394897061995,
+    "percentageFormatted": "1.052%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:43 PDT"
+  },
+  {
+    "folder": "cim-line-arrows",
+    "title": "Arrows along a line",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.010327532529294336,
+    "percentageFormatted": "1.033%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:36 PDT"
   },
   {
     "folder": "legend",
@@ -1325,9 +1345,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.00991279439495236,
-    "percentageFormatted": "0.9913%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:53 PDT"
+    "percentage": 0.009937125698833756,
+    "percentageFormatted": "0.9937%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:57 PDT"
   },
   {
     "folder": "watch-for-changes-reactiveutils",
@@ -1337,7 +1357,17 @@
     "distance": 0.03125,
     "percentage": 0.00978450206539591,
     "percentageFormatted": "0.9785%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:19 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:21 PDT"
+  },
+  {
+    "folder": "popup-editaction",
+    "title": "Popup with edit action",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.009697130565094532,
+    "percentageFormatted": "0.9697%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:34 PDT"
   },
   {
     "folder": "bookmarks",
@@ -1347,7 +1377,7 @@
     "distance": 0.015625,
     "percentage": 0.009635196337032798,
     "percentageFormatted": "0.9635%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:50 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:53 PDT"
   },
   {
     "folder": "widgets-featuretable",
@@ -1357,7 +1387,17 @@
     "distance": 0,
     "percentage": 0.009471513020012498,
     "percentageFormatted": "0.9472%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:14 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:16 PDT"
+  },
+  {
+    "folder": "editing-featureform-fieldvisibility",
+    "title": "Advanced Attribute Editing",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.009338796817023065,
+    "percentageFormatted": "0.9339%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:11 PDT"
   },
   {
     "folder": "layers-medialayer-control-points",
@@ -1367,7 +1407,7 @@
     "distance": 0.015625,
     "percentage": 0.009229305949556784,
     "percentageFormatted": "0.9229%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:15 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:17 PDT"
   },
   {
     "folder": "mars",
@@ -1377,7 +1417,7 @@
     "distance": 0.015625,
     "percentage": 0.009138616544180671,
     "percentageFormatted": "0.9139%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:55 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:59 PDT"
   },
   {
     "folder": "sceneview-underground",
@@ -1387,7 +1427,7 @@
     "distance": 0.015625,
     "percentage": 0.00905898682238701,
     "percentageFormatted": "0.9059%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:06 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:09 PDT"
   },
   {
     "folder": "building-scene-layer-filter",
@@ -1397,7 +1437,7 @@
     "distance": 0,
     "percentage": 0.008882031885067768,
     "percentageFormatted": "0.8882%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:34 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:37 PDT"
   },
   {
     "folder": "visualization-update-data",
@@ -1407,7 +1447,7 @@
     "distance": 0,
     "percentage": 0.008805720068348845,
     "percentageFormatted": "0.8806%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:46 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:49 PDT"
   },
   {
     "folder": "layer-list",
@@ -1415,9 +1455,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.00876701117581026,
-    "percentageFormatted": "0.8767%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:47 PDT"
+    "percentage": 0.008753739555511317,
+    "percentageFormatted": "0.8754%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:51 PDT"
   },
   {
     "folder": "visualization-vv-extrusion",
@@ -1427,7 +1467,7 @@
     "distance": 0,
     "percentage": 0.008753739555511317,
     "percentageFormatted": "0.8754%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:41 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:44 PDT"
   },
   {
     "folder": "shadow-cast",
@@ -1437,7 +1477,7 @@
     "distance": 0.015625,
     "percentage": 0.008711712757897996,
     "percentageFormatted": "0.8712%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:46 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:50 PDT"
   },
   {
     "folder": "sketch-snapping-magnifier",
@@ -1447,7 +1487,7 @@
     "distance": 0,
     "percentage": 0.008644248688045034,
     "percentageFormatted": "0.8644%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:45 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:48 PDT"
   },
   {
     "folder": "view-theme",
@@ -1455,9 +1495,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.00861991738416364,
-    "percentageFormatted": "0.862%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:50 PDT"
+    "percentage": 0.008621023352521885,
+    "percentageFormatted": "0.8621%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:53 PDT"
   },
   {
     "folder": "layers-orientedimagerylayer",
@@ -1467,7 +1507,7 @@
     "distance": 0,
     "percentage": 0.008539181694011735,
     "percentageFormatted": "0.8539%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:35 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:38 PDT"
   },
   {
     "folder": "cim-lines-and-polygons",
@@ -1477,7 +1517,7 @@
     "distance": 0,
     "percentage": 0.008513744421772093,
     "percentageFormatted": "0.8514%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:57 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:00 PDT"
   },
   {
     "folder": "layers-voxel-dynamic-sections",
@@ -1487,17 +1527,7 @@
     "distance": 0,
     "percentage": 0.008471717624158773,
     "percentageFormatted": "0.8472%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:26 PDT"
-  },
-  {
-    "folder": "editing-featureform-fieldvisibility",
-    "title": "Advanced Attribute Editing",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.008365544661767227,
-    "percentageFormatted": "0.8366%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:09 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:29 PDT"
   },
   {
     "folder": "intro-popuptemplate",
@@ -1507,7 +1537,7 @@
     "distance": 0,
     "percentage": 0.00835337900982653,
     "percentageFormatted": "0.8353%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:15 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:17 PDT"
   },
   {
     "folder": "visualization-buildings-3d",
@@ -1515,9 +1545,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.008239464268927266,
-    "percentageFormatted": "0.8239%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:40 PDT"
+    "percentage": 0.008252735889226209,
+    "percentageFormatted": "0.8253%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:43 PDT"
   },
   {
     "folder": "layers-medialayer-interactive",
@@ -1527,7 +1557,17 @@
     "distance": 0,
     "percentage": 0.008195225534597455,
     "percentageFormatted": "0.8195%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:26 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:28 PDT"
+  },
+  {
+    "folder": "geometry-mesh-primitives",
+    "title": "Working with 3D mesh primitives",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.008159834547133607,
+    "percentageFormatted": "0.816%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:53 PDT"
   },
   {
     "folder": "layers-imagery-renderer",
@@ -1537,17 +1577,7 @@
     "distance": 0,
     "percentage": 0.007940852812201043,
     "percentageFormatted": "0.7941%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:55 PDT"
-  },
-  {
-    "folder": "layers-streamlayer-client",
-    "title": "Client-side StreamLayer",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.007876706647422817,
-    "percentageFormatted": "0.7877%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:45 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:57 PDT"
   },
   {
     "folder": "layers-mapimagelayer-definitionexpression",
@@ -1557,7 +1587,7 @@
     "distance": 0.03125,
     "percentage": 0.007837997754884233,
     "percentageFormatted": "0.7838%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:03 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:06 PDT"
   },
   {
     "folder": "layers-custom-elevation-thematic",
@@ -1567,7 +1597,7 @@
     "distance": 0,
     "percentage": 0.007538280329799764,
     "percentageFormatted": "0.7538%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:14 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:17 PDT"
   },
   {
     "folder": "featurelayerview-query-distance",
@@ -1577,7 +1607,7 @@
     "distance": 0,
     "percentage": 0.007453120766214879,
     "percentageFormatted": "0.7453%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:16 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:18 PDT"
   },
   {
     "folder": "layers-viewshed",
@@ -1587,7 +1617,7 @@
     "distance": 0.015625,
     "percentage": 0.007317086658150711,
     "percentageFormatted": "0.7317%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:34 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:37 PDT"
   },
   {
     "folder": "sceneview-screenshot",
@@ -1597,7 +1627,17 @@
     "distance": 0,
     "percentage": 0.007301603101135277,
     "percentageFormatted": "0.7302%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:13 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:15 PDT"
+  },
+  {
+    "folder": "layers-kml",
+    "title": "KMLLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.007290543417552824,
+    "percentageFormatted": "0.7291%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:51 PDT"
   },
   {
     "folder": "timestamp-offset-field",
@@ -1607,17 +1647,7 @@
     "distance": 0.015625,
     "percentage": 0.007196536107101976,
     "percentageFormatted": "0.7197%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:02 PDT"
-  },
-  {
-    "folder": "arcade-execute-chart",
-    "title": "Execute Arcade for a custom chart",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.007165568993071109,
-    "percentageFormatted": "0.7166%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:09 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:04 PDT"
   },
   {
     "folder": "layers-pointcloud",
@@ -1625,9 +1655,19 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.007127966068890769,
-    "percentageFormatted": "0.7128%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:24 PDT"
+    "percentage": 0.007126860100532524,
+    "percentageFormatted": "0.7127%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:27 PDT"
+  },
+  {
+    "folder": "arcade-execute-chart",
+    "title": "Execute Arcade for a custom chart",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0.015625,
+    "percentage": 0.007105846701725864,
+    "percentageFormatted": "0.7106%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:11 PDT"
   },
   {
     "folder": "timeslider-component-filter",
@@ -1637,17 +1677,7 @@
     "distance": 0,
     "percentage": 0.007060501999037808,
     "percentageFormatted": "0.7061%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:36 PDT"
-  },
-  {
-    "folder": "layers-kml",
-    "title": "KMLLayer",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.006407980667673098,
-    "percentageFormatted": "0.6408%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:48 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:39 PDT"
   },
   {
     "folder": "layers-scenelayer-scene-masking",
@@ -1655,9 +1685,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.006302913673639797,
-    "percentageFormatted": "0.6303%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:18 PDT"
+    "percentage": 0.006299595768565061,
+    "percentageFormatted": "0.63%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:20 PDT"
   },
   {
     "folder": "layers-integratedmeshlayer",
@@ -1667,17 +1697,17 @@
     "distance": 0,
     "percentage": 0.006254251065877005,
     "percentageFormatted": "0.6254%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:40 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:42 PDT"
   },
   {
-    "folder": "widgets-featuretable-map",
-    "title": "FeatureTable with a map",
+    "folder": "custom-gl-visuals",
+    "title": "Custom WebGL layer view",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.006172409407366855,
-    "percentageFormatted": "0.6172%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:54 PDT"
+    "percentage": 0.006201164584681233,
+    "percentageFormatted": "0.6201%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:25 PDT"
   },
   {
     "folder": "sceneview-background",
@@ -1687,7 +1717,17 @@
     "distance": 0,
     "percentage": 0.006044117077810404,
     "percentageFormatted": "0.6044%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:13 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:15 PDT"
+  },
+  {
+    "folder": "widgets-featuretable-map",
+    "title": "FeatureTable with a map",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.006035269330944441,
+    "percentageFormatted": "0.6035%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:56 PDT"
   },
   {
     "folder": "intro-sceneview",
@@ -1697,17 +1737,7 @@
     "distance": 0,
     "percentage": 0.005962275419300254,
     "percentageFormatted": "0.5962%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:34 PDT"
-  },
-  {
-    "folder": "webscene-basic",
-    "title": "Load a basic web scene",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.005929096368552896,
-    "percentageFormatted": "0.5929%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:37 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:36 PDT"
   },
   {
     "folder": "widgets-featuretable-editing",
@@ -1715,9 +1745,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.005892599412730802,
-    "percentageFormatted": "0.5893%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:33 PDT"
+    "percentage": 0.005894811349447292,
+    "percentageFormatted": "0.5895%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:36 PDT"
   },
   {
     "folder": "visualization-heatmap-scene",
@@ -1727,7 +1757,7 @@
     "distance": 0,
     "percentage": 0.005799698070638199,
     "percentageFormatted": "0.58%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:36 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:39 PDT"
   },
   {
     "folder": "popuptemplate-arcade-expression-content",
@@ -1737,7 +1767,7 @@
     "distance": 0.015625,
     "percentage": 0.005650392342275087,
     "percentageFormatted": "0.565%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:05 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:07 PDT"
   },
   {
     "folder": "symbols-points-3d",
@@ -1747,7 +1777,7 @@
     "distance": 0.046875,
     "percentage": 0.00561942522824422,
     "percentageFormatted": "0.5619%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:27 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:30 PDT"
   },
   {
     "folder": "layers-wmts",
@@ -1757,7 +1787,7 @@
     "distance": 0,
     "percentage": 0.0054756493416723345,
     "percentageFormatted": "0.5476%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:45 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:48 PDT"
   },
   {
     "folder": "layers-pointcloud-filters",
@@ -1767,7 +1797,17 @@
     "distance": 0,
     "percentage": 0.00547454337331409,
     "percentageFormatted": "0.5475%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:44 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:46 PDT"
+  },
+  {
+    "folder": "popuptemplate-promise",
+    "title": "PopupTemplate with promise",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.005462377721373392,
+    "percentageFormatted": "0.5462%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:09 PDT"
   },
   {
     "folder": "highlight-features-by-geometry",
@@ -1777,7 +1817,7 @@
     "distance": 0,
     "percentage": 0.005389383809729204,
     "percentageFormatted": "0.5389%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:20 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:23 PDT"
   },
   {
     "folder": "widgets-featuretable-relates",
@@ -1787,7 +1827,7 @@
     "distance": 0,
     "percentage": 0.005370582347639034,
     "percentageFormatted": "0.5371%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:33 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:36 PDT"
   },
   {
     "folder": "webmap-save",
@@ -1797,7 +1837,7 @@
     "distance": 0,
     "percentage": 0.005346251043757638,
     "percentageFormatted": "0.5346%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:47 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:50 PDT"
   },
   {
     "folder": "featurelayer-queryextent",
@@ -1807,7 +1847,7 @@
     "distance": 0.078125,
     "percentage": 0.005305330214502563,
     "percentageFormatted": "0.5305%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:49 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:52 PDT"
   },
   {
     "folder": "labels-multiple-classes",
@@ -1817,7 +1857,7 @@
     "distance": 0,
     "percentage": 0.005230124366141885,
     "percentageFormatted": "0.523%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:54 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:57 PDT"
   },
   {
     "folder": "analysis-area-measurement",
@@ -1825,9 +1865,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.00521021693569347,
-    "percentageFormatted": "0.521%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:41 PDT"
+    "percentage": 0.005215746777484696,
+    "percentageFormatted": "0.5216%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:44 PDT"
   },
   {
     "folder": "layers-voxel-variable",
@@ -1837,7 +1877,17 @@
     "distance": 0,
     "percentage": 0.0051936274103197904,
     "percentageFormatted": "0.5194%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:05 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:08 PDT"
+  },
+  {
+    "folder": "scene-shadow",
+    "title": "SceneView - shadow and lighting settings",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0051858856318120735,
+    "percentageFormatted": "0.5186%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:46 PDT"
   },
   {
     "folder": "client-projection",
@@ -1847,7 +1897,7 @@
     "distance": 0,
     "percentage": 0.005169296106438395,
     "percentageFormatted": "0.5169%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:23 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:25 PDT"
   },
   {
     "folder": "visualization-line-markers",
@@ -1857,17 +1907,7 @@
     "distance": 0.015625,
     "percentage": 0.005163766264647168,
     "percentageFormatted": "0.5164%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:40 PDT"
-  },
-  {
-    "folder": "scene-shadow",
-    "title": "SceneView - shadow and lighting settings",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.005161554327930678,
-    "percentageFormatted": "0.5162%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:43 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:43 PDT"
   },
   {
     "folder": "layers-vectortilelayer-hittest",
@@ -1877,7 +1917,7 @@
     "distance": 0,
     "percentage": 0.0051316931822580555,
     "percentageFormatted": "0.5132%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:23 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:25 PDT"
   },
   {
     "folder": "visualization-sm-sublayer",
@@ -1887,17 +1927,27 @@
     "distance": 0,
     "percentage": 0.0050907723530029805,
     "percentageFormatted": "0.5091%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:46 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:48 PDT"
   },
   {
-    "folder": "feature",
-    "title": "Feature Component",
+    "folder": "gx-geodesicbuffer",
+    "title": "Geometry operator - geodesic buffers",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.005084136542853509,
-    "percentageFormatted": "0.5084%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:52 PDT"
+    "percentage": 0.005024414251508264,
+    "percentageFormatted": "0.5024%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:27 PDT"
+  },
+  {
+    "folder": "layers-custom-dynamiclayer",
+    "title": "Custom DynamicLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.005004506821059849,
+    "percentageFormatted": "0.5005%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:42 PDT"
   },
   {
     "folder": "visualization-sm-size",
@@ -1905,9 +1955,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.005070864922554565,
-    "percentageFormatted": "0.5071%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:08 PDT"
+    "percentage": 0.004960268086730038,
+    "percentageFormatted": "0.496%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:10 PDT"
   },
   {
     "folder": "visualization-sm-predominance",
@@ -1917,7 +1967,17 @@
     "distance": 0,
     "percentage": 0.0049547382449388125,
     "percentageFormatted": "0.4955%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:28 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:31 PDT"
+  },
+  {
+    "folder": "featurelayer-query-pagination",
+    "title": "Query features with pagination",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0048574130294132285,
+    "percentageFormatted": "0.4857%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:28 PDT"
   },
   {
     "folder": "route",
@@ -1927,7 +1987,7 @@
     "distance": 0,
     "percentage": 0.004839717535681304,
     "percentageFormatted": "0.484%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:55 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:58 PDT"
   },
   {
     "folder": "layer-list-actions",
@@ -1937,7 +1997,7 @@
     "distance": 0,
     "percentage": 0.004718061016274325,
     "percentageFormatted": "0.4718%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:20 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:23 PDT"
   },
   {
     "folder": "popuptemplate-arcade-groupby",
@@ -1947,17 +2007,7 @@
     "distance": 0.015625,
     "percentage": 0.0046008283703003255,
     "percentageFormatted": "0.4601%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:30 PDT"
-  },
-  {
-    "folder": "featurelayer-query-pagination",
-    "title": "Query features with pagination",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.004440462958354761,
-    "percentageFormatted": "0.444%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:25 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:33 PDT"
   },
   {
     "folder": "scene-easy-navigate",
@@ -1967,17 +2017,7 @@
     "distance": 0,
     "percentage": 0.004326548217455498,
     "percentageFormatted": "0.4327%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:17 PDT"
-  },
-  {
-    "folder": "layers-custom-dynamiclayer",
-    "title": "Custom DynamicLayer",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.004274567704617971,
-    "percentageFormatted": "0.4275%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:39 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:19 PDT"
   },
   {
     "folder": "featurereduction-cluster-polygons",
@@ -1987,7 +2027,7 @@
     "distance": 0,
     "percentage": 0.004212633476556236,
     "percentageFormatted": "0.4213%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:13 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:15 PDT"
   },
   {
     "folder": "popuptemplate-arcade",
@@ -1997,7 +2037,7 @@
     "distance": 0,
     "percentage": 0.0041518052168527456,
     "percentageFormatted": "0.4152%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:12 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:14 PDT"
   },
   {
     "folder": "widgets-featuretable-row-highlights",
@@ -2007,17 +2047,27 @@
     "distance": 0,
     "percentage": 0.004104248577448199,
     "percentageFormatted": "0.4104%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:11 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:14 PDT"
   },
   {
     "folder": "coordinate-conversion",
-    "title": "CoordinateConversion component",
+    "title": "Coordinate Conversion component",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
     "percentage": 0.0040777053368503124,
     "percentageFormatted": "0.4078%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:04 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:06 PDT"
+  },
+  {
+    "folder": "editing-groupedfeatureform",
+    "title": "Update Feature Attributes",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00402904272908752,
+    "percentageFormatted": "0.4029%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:41 PDT"
   },
   {
     "folder": "visualization-heatmap-scale",
@@ -2027,7 +2077,7 @@
     "distance": 0,
     "percentage": 0.004006923361922615,
     "percentageFormatted": "0.4007%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:36 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:39 PDT"
   },
   {
     "folder": "featurelayerview-query",
@@ -2037,17 +2087,7 @@
     "distance": 0,
     "percentage": 0.003916233956546503,
     "percentageFormatted": "0.3916%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:59 PDT"
-  },
-  {
-    "folder": "custom-gl-visuals",
-    "title": "Custom WebGL layer view",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.0038399221398275796,
-    "percentageFormatted": "0.384%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:23 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:01 PDT"
   },
   {
     "folder": "layers-pointcloud-portal",
@@ -2055,9 +2095,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.0038332863296781077,
-    "percentageFormatted": "0.3833%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:52 PDT"
+    "percentage": 0.0038343922980363532,
+    "percentageFormatted": "0.3834%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:54 PDT"
   },
   {
     "folder": "widgets-timeslider-offset",
@@ -2067,7 +2107,7 @@
     "distance": 0,
     "percentage": 0.0038067430890802215,
     "percentageFormatted": "0.3807%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:48 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:50 PDT"
   },
   {
     "folder": "timeslider-filter",
@@ -2077,7 +2117,7 @@
     "distance": 0.03125,
     "percentage": 0.0038023192156472403,
     "percentageFormatted": "0.3802%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:27 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:30 PDT"
   },
   {
     "folder": "layers-scenelayer-edges",
@@ -2087,7 +2127,7 @@
     "distance": 0,
     "percentage": 0.0037945774371395233,
     "percentageFormatted": "0.3795%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:56 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:58 PDT"
   },
   {
     "folder": "visualization-trees-2d",
@@ -2097,7 +2137,7 @@
     "distance": 0.015625,
     "percentage": 0.0037625043547504108,
     "percentageFormatted": "0.3763%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:03 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:05 PDT"
   },
   {
     "folder": "sketch-update-validation",
@@ -2107,7 +2147,7 @@
     "distance": 0.015625,
     "percentage": 0.0037160536837041094,
     "percentageFormatted": "0.3716%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:53 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:55 PDT"
   },
   {
     "folder": "widgets-valuepicker",
@@ -2117,7 +2157,17 @@
     "distance": 0.015625,
     "percentage": 0.0037094178735546375,
     "percentageFormatted": "0.3709%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:19 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:21 PDT"
+  },
+  {
+    "folder": "layers-feature-sort-order",
+    "title": "Configure feature sort order",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.003702782063405166,
+    "percentageFormatted": "0.3703%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:45 PDT"
   },
   {
     "folder": "basemap-worldview",
@@ -2127,7 +2177,7 @@
     "distance": 0,
     "percentage": 0.0036884044747479776,
     "percentageFormatted": "0.3688%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:22 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:25 PDT"
   },
   {
     "folder": "popup-docking-position",
@@ -2137,7 +2187,7 @@
     "distance": 0,
     "percentage": 0.0036508015505676383,
     "percentageFormatted": "0.3651%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:01 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:03 PDT"
   },
   {
     "folder": "featurefilter-attributes",
@@ -2147,7 +2197,7 @@
     "distance": 0.015625,
     "percentage": 0.003619834436536771,
     "percentageFormatted": "0.362%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:49 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:51 PDT"
   },
   {
     "folder": "layers-geojson-refresh",
@@ -2157,7 +2207,7 @@
     "distance": 0,
     "percentage": 0.003595503132655375,
     "percentageFormatted": "0.3596%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:59 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:02 PDT"
   },
   {
     "folder": "request",
@@ -2167,7 +2217,7 @@
     "distance": 0,
     "percentage": 0.0035932911959388842,
     "percentageFormatted": "0.3593%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:52 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:56 PDT"
   },
   {
     "folder": "search-component-customsource",
@@ -2177,7 +2227,7 @@
     "distance": 0,
     "percentage": 0.003469422739815414,
     "percentageFormatted": "0.3469%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:27 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:29 PDT"
   },
   {
     "folder": "layers-hosted-imagerytilelayer",
@@ -2187,7 +2237,7 @@
     "distance": 0,
     "percentage": 0.0034484093410087537,
     "percentageFormatted": "0.3448%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:21 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:23 PDT"
   },
   {
     "folder": "display-filter",
@@ -2197,7 +2247,7 @@
     "distance": 0,
     "percentage": 0.003345554283691944,
     "percentageFormatted": "0.3346%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:36 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:39 PDT"
   },
   {
     "folder": "layers-scenelayer-feature-masking",
@@ -2207,7 +2257,7 @@
     "distance": 0,
     "percentage": 0.0032913618341379254,
     "percentageFormatted": "0.3291%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:13 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:16 PDT"
   },
   {
     "folder": "widgets-line-of-sight",
@@ -2215,9 +2265,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.0032183679224937374,
-    "percentageFormatted": "0.3218%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:08 PDT"
+    "percentage": 0.003228321637717945,
+    "percentageFormatted": "0.3228%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:11 PDT"
   },
   {
     "folder": "scene-toggle-elevation",
@@ -2225,9 +2275,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.0032139440490607566,
-    "percentageFormatted": "0.3214%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:02 PDT"
+    "percentage": 0.003203990333836549,
+    "percentageFormatted": "0.3204%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:04 PDT"
   },
   {
     "folder": "layers-osm-3d",
@@ -2237,7 +2287,7 @@
     "distance": 0,
     "percentage": 0.0031586456311484927,
     "percentageFormatted": "0.3159%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:39 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:42 PDT"
   },
   {
     "folder": "layers-pointcloud-size-density",
@@ -2247,17 +2297,7 @@
     "distance": 0,
     "percentage": 0.0031121949601021913,
     "percentageFormatted": "0.3112%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:22 PDT"
-  },
-  {
-    "folder": "basemap-custom",
-    "title": "Custom Basemap",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.0030956054347285123,
-    "percentageFormatted": "0.3096%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:35 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:25 PDT"
   },
   {
     "folder": "widgets-daylight",
@@ -2267,7 +2307,7 @@
     "distance": 0,
     "percentage": 0.0030845457511460596,
     "percentageFormatted": "0.3085%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:32 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:35 PDT"
   },
   {
     "folder": "popuptemplate-browse-related-records",
@@ -2277,7 +2317,27 @@
     "distance": 0,
     "percentage": 0.0030745920359218524,
     "percentageFormatted": "0.3075%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:09 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:11 PDT"
+  },
+  {
+    "folder": "basemap-custom",
+    "title": "Custom Basemap",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0030712741308471163,
+    "percentageFormatted": "0.3071%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:38 PDT"
+  },
+  {
+    "folder": "widgets-featuretable-popup-interaction",
+    "title": "FeatureTable with popup interaction",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0030712741308471163,
+    "percentageFormatted": "0.3071%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:08 PDT"
   },
   {
     "folder": "widgets-layerlist",
@@ -2285,39 +2345,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.00304473089024923,
-    "percentageFormatted": "0.3045%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:29 PDT"
-  },
-  {
-    "folder": "elevation-query-points",
-    "title": "Query Elevation (points)",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.003029247333233796,
-    "percentageFormatted": "0.3029%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:58 PDT"
-  },
-  {
-    "folder": "visualization-location-types",
-    "title": "Visualize features by type",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.002980584725471004,
-    "percentageFormatted": "0.2981%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:31 PDT"
-  },
-  {
-    "folder": "layers-medialayer-images",
-    "title": "MediaLayer with images",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.015625,
-    "percentage": 0.0029341340544247027,
-    "percentageFormatted": "0.2934%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:52 PDT"
+    "percentage": 0.003056896542189928,
+    "percentageFormatted": "0.3057%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:32 PDT"
   },
   {
     "folder": "visualization-sm-types",
@@ -2327,7 +2357,7 @@
     "distance": 0,
     "percentage": 0.002929710180991722,
     "percentageFormatted": "0.293%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:02 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:05 PDT"
   },
   {
     "folder": "layers-geojson-trackinfo",
@@ -2335,9 +2365,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0.046875,
-    "percentage": 0.002845656585765081,
-    "percentageFormatted": "0.2846%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:51 PDT"
+    "percentage": 0.002856716269347534,
+    "percentageFormatted": "0.2857%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:54 PDT"
   },
   {
     "folder": "widgets-layerlist-legend",
@@ -2347,7 +2377,7 @@
     "distance": 0.046875,
     "percentage": 0.002829067060391402,
     "percentageFormatted": "0.2829%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:54 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:56 PDT"
   },
   {
     "folder": "visualization-histogram-color",
@@ -2357,7 +2387,7 @@
     "distance": 0,
     "percentage": 0.0028102655983012325,
     "percentageFormatted": "0.281%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:27 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:29 PDT"
   },
   {
     "folder": "widgets-elevation-profile",
@@ -2367,7 +2397,7 @@
     "distance": 0,
     "percentage": 0.0028102655983012325,
     "percentageFormatted": "0.281%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:47 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:49 PDT"
   },
   {
     "folder": "layers-wms",
@@ -2375,9 +2405,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.002787040262778082,
-    "percentageFormatted": "0.2787%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:48 PDT"
+    "percentage": 0.0027859342944198365,
+    "percentageFormatted": "0.2786%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:52 PDT"
   },
   {
     "folder": "featurereduction-cluster-filter",
@@ -2387,7 +2417,7 @@
     "distance": 0,
     "percentage": 0.002770450737404403,
     "percentageFormatted": "0.277%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:16 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:19 PDT"
   },
   {
     "folder": "featurereduction-cluster-renderer-sum",
@@ -2397,7 +2427,7 @@
     "distance": 0,
     "percentage": 0.0027494373385977427,
     "percentageFormatted": "0.2749%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:06 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:09 PDT"
   },
   {
     "folder": "widgets-shadow-cast",
@@ -2407,7 +2437,7 @@
     "distance": 0.015625,
     "percentage": 0.002673125521878819,
     "percentageFormatted": "0.2673%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:18 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:21 PDT"
   },
   {
     "folder": "layers-imagerytilelayer",
@@ -2417,7 +2447,7 @@
     "distance": 0,
     "percentage": 0.0026587479332216305,
     "percentageFormatted": "0.2659%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:55 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:58 PDT"
   },
   {
     "folder": "popup-actions",
@@ -2427,7 +2457,7 @@
     "distance": 0,
     "percentage": 0.002624462914116027,
     "percentageFormatted": "0.2624%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:40 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:43 PDT"
   },
   {
     "folder": "search-component-multisource",
@@ -2437,7 +2467,7 @@
     "distance": 0,
     "percentage": 0.002604555483667612,
     "percentageFormatted": "0.2605%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:30 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:33 PDT"
   },
   {
     "folder": "layers-imagery-multidimensional",
@@ -2447,7 +2477,7 @@
     "distance": 0,
     "percentage": 0.002599025641876386,
     "percentageFormatted": "0.2599%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:18 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:20 PDT"
   },
   {
     "folder": "layers-streamlayer",
@@ -2457,7 +2487,7 @@
     "distance": 0,
     "percentage": 0.002586859989935688,
     "percentageFormatted": "0.2587%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:20 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:23 PDT"
   },
   {
     "folder": "visualization-vv-opacity-animate",
@@ -2467,7 +2497,7 @@
     "distance": 0,
     "percentage": 0.0025857540215774425,
     "percentageFormatted": "0.2586%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:15 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:18 PDT"
   },
   {
     "folder": "identity-oauth-component",
@@ -2477,17 +2507,7 @@
     "distance": 0,
     "percentage": 0.002530455603665179,
     "percentageFormatted": "0.253%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:51 PDT"
-  },
-  {
-    "folder": "layers-feature-sort-order",
-    "title": "Configure feature sort order",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.002509442204858519,
-    "percentageFormatted": "0.2509%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:43 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:53 PDT"
   },
   {
     "folder": "layers-ogcfeaturelayer",
@@ -2497,7 +2517,7 @@
     "distance": 0,
     "percentage": 0.002509442204858519,
     "percentageFormatted": "0.2509%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:00 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:02 PDT"
   },
   {
     "folder": "floorfilter",
@@ -2507,7 +2527,7 @@
     "distance": 0,
     "percentage": 0.002506124299783783,
     "percentageFormatted": "0.2506%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:44 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:48 PDT"
   },
   {
     "folder": "basemaps-portal",
@@ -2517,7 +2537,7 @@
     "distance": 0,
     "percentage": 0.0024762631541111607,
     "percentageFormatted": "0.2476%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:33 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:35 PDT"
   },
   {
     "folder": "sketch",
@@ -2527,7 +2547,7 @@
     "distance": 0,
     "percentage": 0.002468521375603444,
     "percentageFormatted": "0.2469%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:54 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:57 PDT"
   },
   {
     "folder": "webscene-slide-tour",
@@ -2537,7 +2557,7 @@
     "distance": 0,
     "percentage": 0.0024419781350055575,
     "percentageFormatted": "0.2442%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:17 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:20 PDT"
   },
   {
     "folder": "graphics-basic-3d",
@@ -2547,7 +2567,7 @@
     "distance": 0,
     "percentage": 0.002407693115899954,
     "percentageFormatted": "0.2408%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:24 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:27 PDT"
   },
   {
     "folder": "query-attachments",
@@ -2557,7 +2577,7 @@
     "distance": 0.046875,
     "percentage": 0.0023811498753020677,
     "percentageFormatted": "0.2381%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:26 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:29 PDT"
   },
   {
     "folder": "layers-imagery-clientside",
@@ -2567,17 +2587,17 @@
     "distance": 0,
     "percentage": 0.002354606634704181,
     "percentageFormatted": "0.2355%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:43 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:46 PDT"
   },
   {
-    "folder": "widgets-features",
-    "title": "Features Widget",
+    "folder": "visualization-sm-location-scale",
+    "title": "Vary point sizes by scale",
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.0023346992042557664,
-    "percentageFormatted": "0.2335%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:32 PDT"
+    "distance": 0.015625,
+    "percentage": 0.0023181096788820873,
+    "percentageFormatted": "0.2318%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:21 PDT"
   },
   {
     "folder": "intro-blendmode-layer",
@@ -2587,7 +2607,7 @@
     "distance": 0,
     "percentage": 0.002313685805449106,
     "percentageFormatted": "0.2314%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:04 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:07 PDT"
   },
   {
     "folder": "intro-graphics",
@@ -2597,17 +2617,7 @@
     "distance": 0,
     "percentage": 0.002313685805449106,
     "percentageFormatted": "0.2314%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:37 PDT"
-  },
-  {
-    "folder": "visualization-sm-location-scale",
-    "title": "Vary point sizes by scale",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0.015625,
-    "percentage": 0.002298202248433672,
-    "percentageFormatted": "0.2298%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:18 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:40 PDT"
   },
   {
     "folder": "featureeffect-geometry",
@@ -2617,7 +2627,7 @@
     "distance": 0.015625,
     "percentage": 0.0022594933558950877,
     "percentageFormatted": "0.2259%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:58 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:01 PDT"
   },
   {
     "folder": "layers-scenelayer-color-mix-mode",
@@ -2627,7 +2637,7 @@
     "distance": 0,
     "percentage": 0.0022285262418642203,
     "percentageFormatted": "0.2229%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:15 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:17 PDT"
   },
   {
     "folder": "event-explorer",
@@ -2637,7 +2647,7 @@
     "distance": 0,
     "percentage": 0.002221890431714749,
     "percentageFormatted": "0.2222%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:36 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:39 PDT"
   },
   {
     "folder": "portalitem-dragndrop",
@@ -2647,7 +2657,7 @@
     "distance": 0,
     "percentage": 0.0022130426848487863,
     "percentageFormatted": "0.2213%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:12 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:14 PDT"
   },
   {
     "folder": "geoprocessing-hotspot",
@@ -2657,7 +2667,7 @@
     "distance": 0,
     "percentage": 0.002174333792310202,
     "percentageFormatted": "0.2174%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:04 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:06 PDT"
   },
   {
     "folder": "visualization-sm-size-themes",
@@ -2667,27 +2677,7 @@
     "distance": 0,
     "percentage": 0.00216548604544424,
     "percentageFormatted": "0.2165%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:31 PDT"
-  },
-  {
-    "folder": "analysis-viewshed",
-    "title": "Interactive viewshed analysis",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.0021599562036530135,
-    "percentageFormatted": "0.216%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:22 PDT"
-  },
-  {
-    "folder": "scene-elevationlayer",
-    "title": "ElevationLayer",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.002154426361861787,
-    "percentageFormatted": "0.2154%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:12 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:34 PDT"
   },
   {
     "folder": "webscene-save",
@@ -2697,7 +2687,17 @@
     "distance": 0,
     "percentage": 0.0021511084567870514,
     "percentageFormatted": "0.2151%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:41 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:44 PDT"
+  },
+  {
+    "folder": "scene-elevationlayer",
+    "title": "ElevationLayer",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.00214668458335407,
+    "percentageFormatted": "0.2147%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:15 PDT"
   },
   {
     "folder": "basemap-static-tiles",
@@ -2707,7 +2707,7 @@
     "distance": 0,
     "percentage": 0.0021356248997716175,
     "percentageFormatted": "0.2136%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:09 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:11 PDT"
   },
   {
     "folder": "custom-render-node-color",
@@ -2717,17 +2717,7 @@
     "distance": 0,
     "percentage": 0.0021201413427561835,
     "percentageFormatted": "0.212%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:48 PDT"
-  },
-  {
-    "folder": "editing-groupedfeatureform",
-    "title": "Update Feature Attributes",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.002096916007233033,
-    "percentageFormatted": "0.2097%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:39 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:51 PDT"
   },
   {
     "folder": "layers-scenelayerview-query",
@@ -2735,19 +2725,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.0020692667982769013,
-    "percentageFormatted": "0.2069%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:35 PDT"
-  },
-  {
-    "folder": "features",
-    "title": "Features component",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.002054889209619713,
-    "percentageFormatted": "0.2055%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:52 PDT"
+    "percentage": 0.0020681608299186562,
+    "percentageFormatted": "0.2068%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:38 PDT"
   },
   {
     "folder": "measurement-3d",
@@ -2757,7 +2737,17 @@
     "distance": 0,
     "percentage": 0.0020349817791712977,
     "percentageFormatted": "0.2035%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:37 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:40 PDT"
+  },
+  {
+    "folder": "elevation-query-points",
+    "title": "Query Elevation (points)",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0020084385385734115,
+    "percentageFormatted": "0.2008%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:00 PDT"
   },
   {
     "folder": "view-disable-zoom",
@@ -2767,7 +2757,7 @@
     "distance": 0,
     "percentage": 0.0019608818991688646,
     "percentageFormatted": "0.1961%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:27 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:30 PDT"
   },
   {
     "folder": "layers-voxel-popup-config",
@@ -2777,7 +2767,7 @@
     "distance": 0,
     "percentage": 0.0019586699624523744,
     "percentageFormatted": "0.1959%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:45 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:47 PDT"
   },
   {
     "folder": "visualization-arcade",
@@ -2787,7 +2777,7 @@
     "distance": 0.046875,
     "percentage": 0.0019387625320039595,
     "percentageFormatted": "0.1939%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:13 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:16 PDT"
   },
   {
     "folder": "focus-area",
@@ -2795,9 +2785,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.0019387625320039595,
-    "percentageFormatted": "0.1939%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:47 PDT"
+    "percentage": 0.0019376565636457141,
+    "percentageFormatted": "0.1938%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:50 PDT"
   },
   {
     "folder": "visualization-sm-multivariate",
@@ -2807,7 +2797,7 @@
     "distance": 0,
     "percentage": 0.0019254909117050161,
     "percentageFormatted": "0.1925%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:28 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:30 PDT"
   },
   {
     "folder": "layers-dynamicmaplayer",
@@ -2817,7 +2807,7 @@
     "distance": 0,
     "percentage": 0.0019188551015555445,
     "percentageFormatted": "0.1919%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:59 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:02 PDT"
   },
   {
     "folder": "layers-hosted-imagerytilelayer-landcover",
@@ -2827,7 +2817,7 @@
     "distance": 0,
     "percentage": 0.0018414373164783756,
     "percentageFormatted": "0.1841%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:04 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:07 PDT"
   },
   {
     "folder": "widgets-floorfilter",
@@ -2837,7 +2827,7 @@
     "distance": 0,
     "percentage": 0.001830377632895923,
     "percentageFormatted": "0.183%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:18 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:20 PDT"
   },
   {
     "folder": "custom-render-node-dof",
@@ -2847,7 +2837,7 @@
     "distance": 0,
     "percentage": 0.0018259537594629417,
     "percentageFormatted": "0.1826%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:58 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:00 PDT"
   },
   {
     "folder": "views-composite-views",
@@ -2857,7 +2847,7 @@
     "distance": 0,
     "percentage": 0.0018259537594629417,
     "percentageFormatted": "0.1826%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:07 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:10 PDT"
   },
   {
     "folder": "featurelayer-query-basic",
@@ -2867,7 +2857,7 @@
     "distance": 0,
     "percentage": 0.0017883508352826026,
     "percentageFormatted": "0.1788%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:49 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:52 PDT"
   },
   {
     "folder": "map-component-hittest",
@@ -2877,7 +2867,17 @@
     "distance": 0.03125,
     "percentage": 0.0017717613099089236,
     "percentageFormatted": "0.1772%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:06 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:08 PDT"
+  },
+  {
+    "folder": "draw-line",
+    "title": "Draw polyline",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0017629135630429613,
+    "percentageFormatted": "0.1763%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:53 PDT"
   },
   {
     "folder": "layers-graphics-visibilitytimeextent",
@@ -2887,17 +2887,7 @@
     "distance": 0.015625,
     "percentage": 0.0017186748287131505,
     "percentageFormatted": "0.1719%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:08 PDT"
-  },
-  {
-    "folder": "layers-scenelayerview-query-stats",
-    "title": "SceneLayerView - query statistics by geometry",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.0017164628919966599,
-    "percentageFormatted": "0.1716%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:14 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:11 PDT"
   },
   {
     "folder": "layers-dynamicdatalayer-table-join",
@@ -2907,7 +2897,7 @@
     "distance": 0.015625,
     "percentage": 0.0017076151451306978,
     "percentageFormatted": "0.1708%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:12 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:15 PDT"
   },
   {
     "folder": "featureeffect-layers-histogram",
@@ -2917,7 +2907,7 @@
     "distance": 0,
     "percentage": 0.0016976614299064904,
     "percentageFormatted": "0.1698%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:19 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:22 PDT"
   },
   {
     "folder": "layers-custom-blendlayer",
@@ -2927,7 +2917,7 @@
     "distance": 0,
     "percentage": 0.0016158197713963404,
     "percentageFormatted": "0.1616%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:51 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:54 PDT"
   },
   {
     "folder": "layers-imagery-vfrenderer",
@@ -2937,7 +2927,7 @@
     "distance": 0,
     "percentage": 0.0015826407206489823,
     "percentageFormatted": "0.1583%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:44 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:46 PDT"
   },
   {
     "folder": "layers-imagery-pixelvalues",
@@ -2947,7 +2937,7 @@
     "distance": 0,
     "percentage": 0.001532872144527945,
     "percentageFormatted": "0.1533%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:40 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:42 PDT"
   },
   {
     "folder": "visualization-classbreaks",
@@ -2957,7 +2947,7 @@
     "distance": 0,
     "percentage": 0.0015196005242290019,
     "percentageFormatted": "0.152%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:45 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:48 PDT"
   },
   {
     "folder": "views-synchronize",
@@ -2967,7 +2957,7 @@
     "distance": 0,
     "percentage": 0.001511858745721285,
     "percentageFormatted": "0.1512%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:27 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:30 PDT"
   },
   {
     "folder": "locate",
@@ -2977,7 +2967,7 @@
     "distance": 0,
     "percentage": 0.0014996930937805869,
     "percentageFormatted": "0.15%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:54 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:57 PDT"
   },
   {
     "folder": "layers-dynamicdatalayer-raster",
@@ -2987,7 +2977,17 @@
     "distance": 0,
     "percentage": 0.0014786796949739268,
     "percentageFormatted": "0.1479%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:20 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:23 PDT"
+  },
+  {
+    "folder": "visualization-location-types",
+    "title": "Visualize features by type",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0.0014654080746749835,
+    "percentageFormatted": "0.1465%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:34 PDT"
   },
   {
     "folder": "featurereduction-binning",
@@ -2995,9 +2995,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.0014742558215409458,
-    "percentageFormatted": "0.1474%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:50 PDT"
+    "percentage": 0.0014598782328837572,
+    "percentageFormatted": "0.146%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:52 PDT"
   },
   {
     "folder": "layers-voxel-time",
@@ -3007,7 +3007,7 @@
     "distance": 0,
     "percentage": 0.0014521364543760404,
     "percentageFormatted": "0.1452%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:25 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:28 PDT"
   },
   {
     "folder": "layers-subtypegrouplayer",
@@ -3017,17 +3017,7 @@
     "distance": 0,
     "percentage": 0.0014432887075100781,
     "percentageFormatted": "0.1443%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:52 PDT"
-  },
-  {
-    "folder": "draw-line",
-    "title": "Draw polyline",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.0014311230555693801,
-    "percentageFormatted": "0.1431%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:50 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:55 PDT"
   },
   {
     "folder": "layers-scenelayer-points",
@@ -3037,7 +3027,7 @@
     "distance": 0,
     "percentage": 0.0014244872454199085,
     "percentageFormatted": "0.1424%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:52 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:55 PDT"
   },
   {
     "folder": "blendmode-multiple-layers",
@@ -3047,7 +3037,7 @@
     "distance": 0,
     "percentage": 0.0014189574036286821,
     "percentageFormatted": "0.1419%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:41 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:44 PDT"
   },
   {
     "folder": "layers-csv-projection",
@@ -3057,17 +3047,7 @@
     "distance": 0,
     "percentage": 0.0014078977200462294,
     "percentageFormatted": "0.1408%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:05 PDT"
-  },
-  {
-    "folder": "widgets-coordinateconversion",
-    "title": "CoordinateConversion widget",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.0013957320681055314,
-    "percentageFormatted": "0.1396%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:32 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:07 PDT"
   },
   {
     "folder": "layers-pointcloud-color-modulation",
@@ -3077,7 +3057,7 @@
     "distance": 0,
     "percentage": 0.0013946260997472863,
     "percentageFormatted": "0.1395%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:12 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:15 PDT"
   },
   {
     "folder": "visualization-vv-opacity",
@@ -3087,7 +3067,7 @@
     "distance": 0,
     "percentage": 0.0013846723845230787,
     "percentageFormatted": "0.1385%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:53 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:56 PDT"
   },
   {
     "folder": "featurereduction-binning-aggregate-fields",
@@ -3097,7 +3077,7 @@
     "distance": 0,
     "percentage": 0.001378036574373607,
     "percentageFormatted": "0.1378%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:03 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:05 PDT"
   },
   {
     "folder": "featurereduction-cluster-aggregate-fields",
@@ -3107,7 +3087,7 @@
     "distance": 0,
     "percentage": 0.001376930606015362,
     "percentageFormatted": "0.1377%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:03 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:06 PDT"
   },
   {
     "folder": "scene-webgl-support",
@@ -3117,7 +3097,7 @@
     "distance": 0,
     "percentage": 0.001344857523626249,
     "percentageFormatted": "0.1345%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:17 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:20 PDT"
   },
   {
     "folder": "layers-scenelayer",
@@ -3127,7 +3107,7 @@
     "distance": 0,
     "percentage": 0.0013415396185515133,
     "percentageFormatted": "0.1342%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:25 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:28 PDT"
   },
   {
     "folder": "find",
@@ -3137,7 +3117,7 @@
     "distance": 0,
     "percentage": 0.0012818173272062686,
     "percentageFormatted": "0.1282%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:55 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:58 PDT"
   },
   {
     "folder": "popup-domnode",
@@ -3147,7 +3127,7 @@
     "distance": 0,
     "percentage": 0.0012818173272062686,
     "percentageFormatted": "0.1282%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:40 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:43 PDT"
   },
   {
     "folder": "visualization-heatmap-static",
@@ -3157,7 +3137,7 @@
     "distance": 0,
     "percentage": 0.0012818173272062686,
     "percentageFormatted": "0.1282%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:31 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:33 PDT"
   },
   {
     "folder": "layers-vectortilelayer-json",
@@ -3167,7 +3147,7 @@
     "distance": 0,
     "percentage": 0.0012475323081006652,
     "percentageFormatted": "0.1248%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:36 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:38 PDT"
   },
   {
     "folder": "visualization-pie-chart",
@@ -3177,7 +3157,7 @@
     "distance": 0,
     "percentage": 0.001234260687801722,
     "percentageFormatted": "0.1234%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:57 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:59 PDT"
   },
   {
     "folder": "widgets-editor-form-elements",
@@ -3187,7 +3167,7 @@
     "distance": 0.046875,
     "percentage": 0.001209929383920326,
     "percentageFormatted": "0.121%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:33 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:36 PDT"
   },
   {
     "folder": "layers-voxel-color-stops",
@@ -3197,17 +3177,7 @@
     "distance": 0,
     "percentage": 0.0011911279218301564,
     "percentageFormatted": "0.1191%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:53 PDT"
-  },
-  {
-    "folder": "geometry-mesh-primitives",
-    "title": "Working with 3D mesh primitives",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.0011833861433224394,
-    "percentageFormatted": "0.1183%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:50 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:55 PDT"
   },
   {
     "folder": "layers-portal",
@@ -3217,7 +3187,7 @@
     "distance": 0,
     "percentage": 0.001177856301531213,
     "percentageFormatted": "0.1178%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:39 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:42 PDT"
   },
   {
     "folder": "layers-imagerytilelayer-cog",
@@ -3227,17 +3197,7 @@
     "distance": 0,
     "percentage": 0.0011723264597399868,
     "percentageFormatted": "0.1172%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:35 PDT"
-  },
-  {
-    "folder": "widgets-coordinateconversion-custom",
-    "title": "CoordinateConversion widget - Custom Formats",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.0011513130609333267,
-    "percentageFormatted": "0.1151%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:10 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:38 PDT"
   },
   {
     "folder": "webstylesymbol-proportional-2d",
@@ -3247,17 +3207,7 @@
     "distance": 0,
     "percentage": 0.001140253377350874,
     "percentageFormatted": "0.114%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:24 PDT"
-  },
-  {
-    "folder": "gx-geodesicbuffer",
-    "title": "Geometry operator - geodesic buffers",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.0011291936937684213,
-    "percentageFormatted": "0.1129%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:24 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:27 PDT"
   },
   {
     "folder": "layers-wfs",
@@ -3267,7 +3217,7 @@
     "distance": 0,
     "percentage": 0.0011258757886936854,
     "percentageFormatted": "0.1126%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:48 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:52 PDT"
   },
   {
     "folder": "cim-symbols",
@@ -3277,7 +3227,7 @@
     "distance": 0,
     "percentage": 0.0011214519152607043,
     "percentageFormatted": "0.1121%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:44 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:47 PDT"
   },
   {
     "folder": "layers-vectortilelayer-style",
@@ -3287,7 +3237,7 @@
     "distance": 0,
     "percentage": 0.0011214519152607043,
     "percentageFormatted": "0.1121%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:30 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:32 PDT"
   },
   {
     "folder": "layers-custom-elevation-exaggerated",
@@ -3297,7 +3247,7 @@
     "distance": 0,
     "percentage": 0.0010772131809308936,
     "percentageFormatted": "0.1077%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:10 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:12 PDT"
   },
   {
     "folder": "layers-featurelayer",
@@ -3307,7 +3257,7 @@
     "distance": 0,
     "percentage": 0.001075001244214403,
     "percentageFormatted": "0.1075%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:15 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:18 PDT"
   },
   {
     "folder": "featurereduction-binning-polylines",
@@ -3317,7 +3267,7 @@
     "distance": 0,
     "percentage": 0.0010539878454077429,
     "percentageFormatted": "0.1054%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:11 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:14 PDT"
   },
   {
     "folder": "layers-imagerytilelayer-rasterfunction",
@@ -3327,17 +3277,7 @@
     "distance": 0,
     "percentage": 0.0010429281618252902,
     "percentageFormatted": "0.1043%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:06 PDT"
-  },
-  {
-    "folder": "layers-tilelayer",
-    "title": "Intro to TileLayer",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.0010362923516758185,
-    "percentageFormatted": "0.1036%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:31 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:08 PDT"
   },
   {
     "folder": "widgets-measurement-3d",
@@ -3347,7 +3287,7 @@
     "distance": 0,
     "percentage": 0.0010252326680933658,
     "percentageFormatted": "0.1025%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:03 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:06 PDT"
   },
   {
     "folder": "featureeffect-multiple-effects",
@@ -3357,7 +3297,7 @@
     "distance": 0,
     "percentage": 0.0010185968579438942,
     "percentageFormatted": "0.1019%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:19 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:22 PDT"
   },
   {
     "folder": "layers-imagery-rasterfunction",
@@ -3367,7 +3307,7 @@
     "distance": 0,
     "percentage": 0.0010086431427196868,
     "percentageFormatted": "0.1009%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:26 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:28 PDT"
   },
   {
     "folder": "identity-oauth-basic",
@@ -3377,17 +3317,7 @@
     "distance": 0,
     "percentage": 0.0009975834591372341,
     "percentageFormatted": "0.09976%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:10 PDT"
-  },
-  {
-    "folder": "widgets-feature",
-    "title": "Feature Widget",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.000976570060330574,
-    "percentageFormatted": "0.09766%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:35 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:12 PDT"
   },
   {
     "folder": "query",
@@ -3395,9 +3325,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.0009699342501811023,
-    "percentageFormatted": "0.09699%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:54 PDT"
+    "percentage": 0.000976570060330574,
+    "percentageFormatted": "0.09766%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:58 PDT"
   },
   {
     "folder": "featureeffect-drop-shadow",
@@ -3407,7 +3337,7 @@
     "distance": 0,
     "percentage": 0.0009621924716733854,
     "percentageFormatted": "0.09622%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:42 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:45 PDT"
   },
   {
     "folder": "visualization-vv-size",
@@ -3417,7 +3347,7 @@
     "distance": 0,
     "percentage": 0.0009378611677919895,
     "percentageFormatted": "0.09379%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:08 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:11 PDT"
   },
   {
     "folder": "layers-voxel-isosurface",
@@ -3427,7 +3357,7 @@
     "distance": 0,
     "percentage": 0.0009356492310754989,
     "percentageFormatted": "0.09356%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:56 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:58 PDT"
   },
   {
     "folder": "featurereduction-cluster-popup-chart",
@@ -3437,7 +3367,7 @@
     "distance": 0,
     "percentage": 0.0009268014842095367,
     "percentageFormatted": "0.09268%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:08 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:10 PDT"
   },
   {
     "folder": "featurereduction-cluster-popup-filter",
@@ -3447,7 +3377,7 @@
     "distance": 0,
     "percentage": 0.0009268014842095367,
     "percentageFormatted": "0.09268%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:06 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:09 PDT"
   },
   {
     "folder": "featurereduction-cluster-query",
@@ -3457,17 +3387,7 @@
     "distance": 0,
     "percentage": 0.0009268014842095367,
     "percentageFormatted": "0.09268%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:20 PDT"
-  },
-  {
-    "folder": "widgets-feature-sidepanel",
-    "title": "Feature widget in a side panel",
-    "matches": true,
-    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
-    "distance": 0,
-    "percentage": 0.0009212716424183104,
-    "percentageFormatted": "0.09213%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:47 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:22 PDT"
   },
   {
     "folder": "sketch-viewmodel-styler",
@@ -3477,7 +3397,7 @@
     "distance": 0,
     "percentage": 0.0009146358322688388,
     "percentageFormatted": "0.09146%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:56 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:59 PDT"
   },
   {
     "folder": "layers-custom-tilelayer",
@@ -3487,7 +3407,7 @@
     "distance": 0,
     "percentage": 0.000899152275253405,
     "percentageFormatted": "0.08992%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:55 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:57 PDT"
   },
   {
     "folder": "featurelayerview-query-aggregate",
@@ -3497,7 +3417,7 @@
     "distance": 0,
     "percentage": 0.0008891985600291976,
     "percentageFormatted": "0.08892%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:14 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:17 PDT"
   },
   {
     "folder": "layers-voxel-opacity-stops",
@@ -3507,7 +3427,7 @@
     "distance": 0,
     "percentage": 0.000886986623312707,
     "percentageFormatted": "0.0887%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:40 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:43 PDT"
   },
   {
     "folder": "intro-effect-layer",
@@ -3517,7 +3437,7 @@
     "distance": 0,
     "percentage": 0.0008748209713720091,
     "percentageFormatted": "0.08748%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:20 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:22 PDT"
   },
   {
     "folder": "labels-multiline",
@@ -3527,7 +3447,7 @@
     "distance": 0,
     "percentage": 0.0008405359522664057,
     "percentageFormatted": "0.08405%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:30 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:33 PDT"
   },
   {
     "folder": "labels-basic",
@@ -3537,7 +3457,7 @@
     "distance": 0,
     "percentage": 0.0008372180471916699,
     "percentageFormatted": "0.08372%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:42 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:45 PDT"
   },
   {
     "folder": "webmap-swap",
@@ -3547,7 +3467,7 @@
     "distance": 0.015625,
     "percentage": 0.0008228404585344814,
     "percentageFormatted": "0.08228%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:47 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:50 PDT"
   },
   {
     "folder": "blendmode-grouplayer",
@@ -3557,7 +3477,7 @@
     "distance": 0,
     "percentage": 0.0008228404585344814,
     "percentageFormatted": "0.08228%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:09 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:12 PDT"
   },
   {
     "folder": "visualization-vv-color",
@@ -3567,7 +3487,7 @@
     "distance": 0,
     "percentage": 0.0008228404585344814,
     "percentageFormatted": "0.08228%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:03 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:05 PDT"
   },
   {
     "folder": "query-related-features",
@@ -3577,7 +3497,7 @@
     "distance": 0,
     "percentage": 0.0008150986800267644,
     "percentageFormatted": "0.08151%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:01 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:04 PDT"
   },
   {
     "folder": "featurelayer-query",
@@ -3587,7 +3507,7 @@
     "distance": 0.03125,
     "percentage": 0.0008084628698772928,
     "percentageFormatted": "0.08085%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:20 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:22 PDT"
   },
   {
     "folder": "layers-imagery-coordinatesystem",
@@ -3597,7 +3517,7 @@
     "distance": 0,
     "percentage": 0.0008007210913695759,
     "percentageFormatted": "0.08007%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:17 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:20 PDT"
   },
   {
     "folder": "layers-mapnoteslayer",
@@ -3607,7 +3527,7 @@
     "distance": 0,
     "percentage": 0.0007951912495783495,
     "percentageFormatted": "0.07952%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:11 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:14 PDT"
   },
   {
     "folder": "custom-gl-tiles",
@@ -3617,7 +3537,7 @@
     "distance": 0,
     "percentage": 0.0007730718824134441,
     "percentageFormatted": "0.07731%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:33 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:36 PDT"
   },
   {
     "folder": "popup-multipleelements",
@@ -3627,7 +3547,7 @@
     "distance": 0,
     "percentage": 0.0007586942937562556,
     "percentageFormatted": "0.07587%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:01 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:03 PDT"
   },
   {
     "folder": "visualization-sm-color",
@@ -3637,7 +3557,7 @@
     "distance": 0.015625,
     "percentage": 0.0007454226734573124,
     "percentageFormatted": "0.07454%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:02 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:05 PDT"
   },
   {
     "folder": "views-switch-2d-3d",
@@ -3647,7 +3567,7 @@
     "distance": 0,
     "percentage": 0.0007376808949495954,
     "percentageFormatted": "0.07377%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:21 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:24 PDT"
   },
   {
     "folder": "knowledgegraph-knowledgegraphlayer",
@@ -3657,7 +3577,7 @@
     "distance": 0.015625,
     "percentage": 0.0007343629898748597,
     "percentageFormatted": "0.07344%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:12 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:14 PDT"
   },
   {
     "folder": "changing-version",
@@ -3667,7 +3587,7 @@
     "distance": 0,
     "percentage": 0.0007343629898748597,
     "percentageFormatted": "0.07344%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:30 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:33 PDT"
   },
   {
     "folder": "linkchart",
@@ -3677,7 +3597,7 @@
     "distance": 0,
     "percentage": 0.0007343629898748597,
     "percentageFormatted": "0.07344%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:51 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:54 PDT"
   },
   {
     "folder": "widgets-un-associations",
@@ -3687,7 +3607,7 @@
     "distance": 0,
     "percentage": 0.0007343629898748597,
     "percentageFormatted": "0.07344%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:57 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:00 PDT"
   },
   {
     "folder": "widgets-untrace",
@@ -3697,7 +3617,7 @@
     "distance": 0,
     "percentage": 0.0007343629898748597,
     "percentageFormatted": "0.07344%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:35 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:38 PDT"
   },
   {
     "folder": "layers-featurelayer-collection-edits",
@@ -3707,7 +3627,7 @@
     "distance": 0,
     "percentage": 0.0006912302239032942,
     "percentageFormatted": "0.06912%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:08 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:10 PDT"
   },
   {
     "folder": "view-disable-navigation",
@@ -3717,7 +3637,7 @@
     "distance": 0.015625,
     "percentage": 0.0006624750465889171,
     "percentageFormatted": "0.06625%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:56 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:59 PDT"
   },
   {
     "folder": "layers-imagery-attribute-table",
@@ -3727,7 +3647,7 @@
     "distance": 0,
     "percentage": 0.0006591571415141813,
     "percentageFormatted": "0.06592%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:21 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:23 PDT"
   },
   {
     "folder": "sketch-geometries",
@@ -3737,7 +3657,7 @@
     "distance": 0,
     "percentage": 0.0006359318059910306,
     "percentageFormatted": "0.06359%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:26 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:29 PDT"
   },
   {
     "folder": "layers-imagerylayer",
@@ -3747,7 +3667,7 @@
     "distance": 0,
     "percentage": 0.0006337198692745401,
     "percentageFormatted": "0.06337%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:15 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:18 PDT"
   },
   {
     "folder": "layers-dynamicdatalayer-query-table",
@@ -3757,7 +3677,7 @@
     "distance": 0,
     "percentage": 0.0006326139009162948,
     "percentageFormatted": "0.06326%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:10 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:13 PDT"
   },
   {
     "folder": "places",
@@ -3767,7 +3687,7 @@
     "distance": 0,
     "percentage": 0.0006204482489755968,
     "percentageFormatted": "0.06204%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:54 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:57 PDT"
   },
   {
     "folder": "swipe",
@@ -3777,7 +3697,7 @@
     "distance": 0,
     "percentage": 0.0006060706603184082,
     "percentageFormatted": "0.06061%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:55 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:58 PDT"
   },
   {
     "folder": "popup-custom-action",
@@ -3787,7 +3707,7 @@
     "distance": 0,
     "percentage": 0.000604964691960163,
     "percentageFormatted": "0.0605%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:16 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:18 PDT"
   },
   {
     "folder": "widgets-measurement",
@@ -3797,7 +3717,7 @@
     "distance": 0,
     "percentage": 0.0005496662740478995,
     "percentageFormatted": "0.05497%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:18 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:21 PDT"
   },
   {
     "folder": "layers-mapimagelayer-sublayers",
@@ -3807,7 +3727,7 @@
     "distance": 0,
     "percentage": 0.0005341827170324658,
     "percentageFormatted": "0.05342%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:21 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:24 PDT"
   },
   {
     "folder": "layers-voxel-slices",
@@ -3817,7 +3737,7 @@
     "distance": 0,
     "percentage": 0.0005330767486742204,
     "percentageFormatted": "0.05331%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:16 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:18 PDT"
   },
   {
     "folder": "layers-custom-lerc-2d",
@@ -3827,7 +3747,7 @@
     "distance": 0,
     "percentage": 0.0005142752865840508,
     "percentageFormatted": "0.05143%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:05 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:08 PDT"
   },
   {
     "folder": "blendmode-darkening",
@@ -3837,7 +3757,7 @@
     "distance": 0,
     "percentage": 0.0005032156030015981,
     "percentageFormatted": "0.05032%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:14 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:17 PDT"
   },
   {
     "folder": "intro-map-components",
@@ -3847,7 +3767,7 @@
     "distance": 0,
     "percentage": 0.0004965797928521265,
     "percentageFormatted": "0.04966%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:10 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:13 PDT"
   },
   {
     "folder": "widgets-layerlist-actions",
@@ -3857,7 +3777,7 @@
     "distance": 0,
     "percentage": 0.0004810962358366927,
     "percentageFormatted": "0.04811%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:47 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:50 PDT"
   },
   {
     "folder": "widgets-measurement-2d",
@@ -3867,7 +3787,7 @@
     "distance": 0,
     "percentage": 0.0004622947737465231,
     "percentageFormatted": "0.04623%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:03 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:06 PDT"
   },
   {
     "folder": "identify",
@@ -3875,9 +3795,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.0004556589635970515,
-    "percentageFormatted": "0.04557%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:52 PDT"
+    "percentage": 0.0004589768686717873,
+    "percentageFormatted": "0.0459%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:55 PDT"
   },
   {
     "folder": "intro-mapview",
@@ -3887,7 +3807,7 @@
     "distance": 0,
     "percentage": 0.0004213739444914481,
     "percentageFormatted": "0.04214%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:38 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:41 PDT"
   },
   {
     "folder": "view-disable-rotation",
@@ -3897,7 +3817,7 @@
     "distance": 0,
     "percentage": 0.0004213739444914481,
     "percentageFormatted": "0.04214%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:07 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:09 PDT"
   },
   {
     "folder": "webmap-basic",
@@ -3907,7 +3827,7 @@
     "distance": 0,
     "percentage": 0.000416950071058467,
     "percentageFormatted": "0.0417%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:44 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:47 PDT"
   },
   {
     "folder": "layers-featurelayer-large-collection",
@@ -3917,7 +3837,7 @@
     "distance": 0,
     "percentage": 0.000404784419117769,
     "percentageFormatted": "0.04048%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:08 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:11 PDT"
   },
   {
     "folder": "visualization-sm-reference-size",
@@ -3927,7 +3847,7 @@
     "distance": 0,
     "percentage": 0.0003992545773265427,
     "percentageFormatted": "0.03993%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:18 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:21 PDT"
   },
   {
     "folder": "popuptemplate-function",
@@ -3937,7 +3857,7 @@
     "distance": 0,
     "percentage": 0.00038819489374409,
     "percentageFormatted": "0.03882%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:01 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:04 PDT"
   },
   {
     "folder": "popup-customcontent",
@@ -3947,7 +3867,7 @@
     "distance": 0,
     "percentage": 0.0003727113367286562,
     "percentageFormatted": "0.03727%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:16 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:19 PDT"
   },
   {
     "folder": "styling-icon-fonts",
@@ -3957,7 +3877,7 @@
     "distance": 0,
     "percentage": 0.00037160536837041095,
     "percentageFormatted": "0.03716%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:21 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:23 PDT"
   },
   {
     "folder": "sketch-3d",
@@ -3965,9 +3885,9 @@
     "matches": true,
     "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
     "distance": 0,
-    "percentage": 0.00037049940001216563,
-    "percentageFormatted": "0.03705%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:51 PDT"
+    "percentage": 0.0003682874632956751,
+    "percentageFormatted": "0.03683%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:54 PDT"
   },
   {
     "folder": "layers-georss",
@@ -3977,7 +3897,7 @@
     "distance": 0,
     "percentage": 0.00036165165314620346,
     "percentageFormatted": "0.03617%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:38 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:42 PDT"
   },
   {
     "folder": "layers-featurelayer-collection",
@@ -3987,7 +3907,7 @@
     "distance": 0,
     "percentage": 0.0003373203492648075,
     "percentageFormatted": "0.03373%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:20 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:23 PDT"
   },
   {
     "folder": "layers-mapimagelayer-renderers",
@@ -3997,7 +3917,7 @@
     "distance": 0,
     "percentage": 0.0003196248555328832,
     "percentageFormatted": "0.03196%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:21 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:24 PDT"
   },
   {
     "folder": "layers-vectortilelayer",
@@ -4007,7 +3927,7 @@
     "distance": 0.046875,
     "percentage": 0.000294187583293242,
     "percentageFormatted": "0.02942%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:00 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:03 PDT"
   },
   {
     "folder": "effect-blur-shadow",
@@ -4017,7 +3937,7 @@
     "distance": 0,
     "percentage": 0.0002775980579195629,
     "percentageFormatted": "0.02776%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:19 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:22 PDT"
   },
   {
     "folder": "custom-gl-tessellation-helpers",
@@ -4027,7 +3947,7 @@
     "distance": 0,
     "percentage": 0.00025547869075465753,
     "percentageFormatted": "0.02555%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:19 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:21 PDT"
   },
   {
     "folder": "layers-mapimagelayer-dynamic-labels",
@@ -4037,7 +3957,7 @@
     "distance": 0,
     "percentage": 0.0002444190071722048,
     "percentageFormatted": "0.02444%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:10 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:13 PDT"
   },
   {
     "folder": "layers-wcslayer",
@@ -4047,7 +3967,7 @@
     "distance": 0,
     "percentage": 0.00024331303881395953,
     "percentageFormatted": "0.02433%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:34 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:37 PDT"
   },
   {
     "folder": "view-hittest",
@@ -4057,7 +3977,7 @@
     "distance": 0.03125,
     "percentage": 0.00020571011463362034,
     "percentageFormatted": "0.02057%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:43 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:47 PDT"
   },
   {
     "folder": "visualization-vv-rotation",
@@ -4067,7 +3987,7 @@
     "distance": 0.015625,
     "percentage": 0.00019686236776765816,
     "percentageFormatted": "0.01969%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:46 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:49 PDT"
   },
   {
     "folder": "layers-featurelayer-shapefile",
@@ -4077,7 +3997,7 @@
     "distance": 0,
     "percentage": 0.0001769549373192433,
     "percentageFormatted": "0.0177%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:26 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:28 PDT"
   },
   {
     "folder": "basemap-places",
@@ -4087,7 +4007,7 @@
     "distance": 0,
     "percentage": 0.0001548355701543379,
     "percentageFormatted": "0.01548%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:36 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:39 PDT"
   },
   {
     "folder": "analysis-elevation-profile",
@@ -4097,7 +4017,7 @@
     "distance": 0,
     "percentage": 0,
     "percentageFormatted": "0%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:38 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:41 PDT"
   },
   {
     "folder": "analysis-volume-measurement",
@@ -4107,7 +4027,17 @@
     "distance": 0,
     "percentage": 0,
     "percentageFormatted": "0%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:34 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:37 PDT"
+  },
+  {
+    "folder": "coordinate-conversion-custom",
+    "title": "Coordinate Conversion component - Custom Formats",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "percentageFormatted": "0%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:31 PDT"
   },
   {
     "folder": "editor-3d",
@@ -4117,7 +4047,47 @@
     "distance": 0,
     "percentage": 0,
     "percentageFormatted": "0%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:50 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:54 PDT"
+  },
+  {
+    "folder": "feature",
+    "title": "Feature Component",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "percentageFormatted": "0%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:56 PDT"
+  },
+  {
+    "folder": "feature-multiplelayers",
+    "title": "Feature component - Query graphics from multiple layers",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "percentageFormatted": "0%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:01 PDT"
+  },
+  {
+    "folder": "feature-sidepanel",
+    "title": "Feature component in a side panel",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "percentageFormatted": "0%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:26 PDT"
+  },
+  {
+    "folder": "features",
+    "title": "Features component",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "percentageFormatted": "0%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:55 PDT"
   },
   {
     "folder": "ge-geodesicbuffer",
@@ -4127,7 +4097,7 @@
     "distance": 0,
     "percentage": 0,
     "percentageFormatted": "0%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:24 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:26 PDT"
   },
   {
     "folder": "geometry-operator-offset-visualizer",
@@ -4137,7 +4107,7 @@
     "distance": 0,
     "percentage": 0,
     "percentageFormatted": "0%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:09 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:12 PDT"
   },
   {
     "folder": "geometry-operator-proximity",
@@ -4147,7 +4117,7 @@
     "distance": 0,
     "percentage": 0,
     "percentageFormatted": "0%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:34 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:37 PDT"
   },
   {
     "folder": "highlightoptions-layerviews",
@@ -4157,7 +4127,7 @@
     "distance": 0,
     "percentage": 0,
     "percentageFormatted": "0%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:35 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:37 PDT"
   },
   {
     "folder": "knowledgegraph-datamodelediting",
@@ -4167,7 +4137,7 @@
     "distance": 0,
     "percentage": 0,
     "percentageFormatted": "0%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:17 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:19 PDT"
   },
   {
     "folder": "layers-imagerytilelayer-flow-3d-global",
@@ -4177,7 +4147,7 @@
     "distance": 0,
     "percentage": 0,
     "percentageFormatted": "0%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:05 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:08 PDT"
   },
   {
     "folder": "layers-imagerytilelayer-flow-3d-local",
@@ -4187,7 +4157,7 @@
     "distance": 0,
     "percentage": 0,
     "percentageFormatted": "0%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:16:07 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:09 PDT"
   },
   {
     "folder": "layers-parquetlayer",
@@ -4197,7 +4167,7 @@
     "distance": 0,
     "percentage": 0,
     "percentageFormatted": "0%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:16 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:18 PDT"
   },
   {
     "folder": "map-padding",
@@ -4207,7 +4177,7 @@
     "distance": 0,
     "percentage": 0,
     "percentageFormatted": "0%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:46 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:49 PDT"
   },
   {
     "folder": "scale-bar",
@@ -4217,7 +4187,17 @@
     "distance": 0,
     "percentage": 0,
     "percentageFormatted": "0%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:51 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:54 PDT"
+  },
+  {
+    "folder": "scene-follow-mode",
+    "title": "Scene - follow mode",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "percentageFormatted": "0%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:29 PDT"
   },
   {
     "folder": "view-breakpoints",
@@ -4227,7 +4207,7 @@
     "distance": 0,
     "percentage": 0,
     "percentageFormatted": "0%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:31 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:34 PDT"
   },
   {
     "folder": "view-padding",
@@ -4237,7 +4217,7 @@
     "distance": 0,
     "percentage": 0,
     "percentageFormatted": "0%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:44 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:47 PDT"
   },
   {
     "folder": "widgets-bookmarks",
@@ -4247,7 +4227,7 @@
     "distance": 0,
     "percentage": 0,
     "percentageFormatted": "0%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:28 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:31 PDT"
   },
   {
     "folder": "widgets-compass-2d",
@@ -4257,7 +4237,67 @@
     "distance": 0,
     "percentage": 0,
     "percentageFormatted": "0%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:21 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:24 PDT"
+  },
+  {
+    "folder": "widgets-coordinateconversion",
+    "title": "CoordinateConversion widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "percentageFormatted": "0%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:35 PDT"
+  },
+  {
+    "folder": "widgets-coordinateconversion-custom",
+    "title": "CoordinateConversion widget - Custom Formats",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "percentageFormatted": "0%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:13 PDT"
+  },
+  {
+    "folder": "widgets-feature",
+    "title": "Feature Widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "percentageFormatted": "0%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:38 PDT"
+  },
+  {
+    "folder": "widgets-feature-multiplelayers",
+    "title": "Feature widget - Query graphics from multiple layers",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "percentageFormatted": "0%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:27 PDT"
+  },
+  {
+    "folder": "widgets-feature-sidepanel",
+    "title": "Feature widget in a side panel",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "percentageFormatted": "0%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:15:49 PDT"
+  },
+  {
+    "folder": "widgets-features",
+    "title": "Features Widget",
+    "matches": true,
+    "matchesCriteria": "distance < 0.15 || diff.percent < 0.15",
+    "distance": 0,
+    "percentage": 0,
+    "percentageFormatted": "0%",
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:35 PDT"
   },
   {
     "folder": "widgets-legend",
@@ -4267,7 +4307,7 @@
     "distance": 0,
     "percentage": 0,
     "percentageFormatted": "0%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:38 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:41 PDT"
   },
   {
     "folder": "widgets-legend-card",
@@ -4277,7 +4317,7 @@
     "distance": 0,
     "percentage": 0,
     "percentageFormatted": "0%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:18 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:20 PDT"
   },
   {
     "folder": "widgets-track",
@@ -4287,6 +4327,6 @@
     "distance": 0,
     "percentage": 0,
     "percentageFormatted": "0%",
-    "timestamp": "Thursday, Oct 9, 2025, 13:17:41 PDT"
+    "timestamp": "Wednesday, Oct 15, 2025, 19:16:44 PDT"
   }
 ]
